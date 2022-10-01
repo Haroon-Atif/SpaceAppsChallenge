@@ -1,0 +1,1521 @@
+N90-28266
+A poster presented at the FIRE/ASTEX Workshop, Monterey, CA, July 10-14, 1989.
+
+Turbulent
+
+Statistics in the
+
+Vicinity of an SST
+Front: A North
+Wind Case, FASINEX
+February 16, 1986.
+Steven A. Stage & Chris Herbster
+Department of Meteorology
+Florida State University
+Tallahassee,
+
+1. This is FASINEX
+
+contribution
+
+number
+
+Florida
+
+76.
+
+247
+PRECEDING
+
+PAGE BLANK
+
+NOT
+
+FILMED
+
+A p_&B
+
+_ql4mlgi
+
+M
+
+[_ll
+
+I_d_flml_(
+
+Turbulent
+
+W_qm_
+
+Mmil_J,
+
+C_
+
+J_
+
+1 O" t 4,
+
+Summary
+
+I eMJ.
+
+Statistics in the
+
+Vicinity of an SST
+Front: A North
+Wind Case, FASINEX
+1
+February 16, 1986.
+
+The technique
+
+of boxcar
+
+used to examine
+This technique
+in turbulent
+
+NCAR
+
+fluxes
+
+Electra
+
+near
+
+data from
+
+an SST
+
+the influence
+
+Data shown
+
+of the
+
+fronl.
+
+changes
+
+The
+front
+
+SST
+
+results
+on the
+
+16, 1986,
+
+when the winds blew from over cold water to warm.
+
+lence.
+Stevan A. Staoe & Chris Herbsler
+
+which
+
+horizontal
+
+is
+
+FASINEX.
+
+to examine
+
+here are for February
+
+front directly produced
+
+Department
+
+and covariances
+
+has been developed
+
+demonstrate
+MABL.
+
+variances
+
+The
+
+variability in the turbu-
+
+The front also induced a secondary
+
+circulation
+
+further modified the turbulence.
+
+of Meteorology
+
+Florida State University
+Tallahassee,
+
+Florida 32306-3034
+
+I. Thls IsFASINEXcontribution
+number76.
+
+References
+Gennaro
+
+H. Crescenti:
+
+Covariance
+
+Boxcar
+
+Turbulenl
+
+Variances
+
+in a Non-Homogeneous
+
+Atmospheric
+
+Boundary
+
+Florida State
+
+University,
+
+Layer.
+
+and
+
+Marine
+
+The technique
+average
+
+Covariances
+
+follows Crescenti
+
+of any measured
+
+(1988).
+
+variable S(t) be defined by
+
+M. S. Thesis,
+
+Tallahassee,
+
+FL, April,
+
+<S>(t) = (1/'1") J*" S(t+t') dt'
+
+1988.
+
+S.A., and R.A. Weller,
+
+Sea Interaction
+
+Then we can define
+
+1985: The Frontal Airthe boxcar covariance
+
+Background
+
+(1)
+
+-T,'t
+
+where T is the length of the boxcar.
+Stage,
+
+Let the boxcar
+
+Experiment
+and Scientific
+
+(FASINEX));
+
+of S and R by
+
+Part h
+
+Objectives.
+
+Bul___!l
+
+COV,(S,R)
+=
+
+Amer. Meteor. Soc., 66. 1511-1520.
+
+Tt2
+
+Stage, S.A., and R.A. Weller,
+Sea Interaction
+Experimental
+16-20.
+
+248
+
+Experiment
+
+1986: The Frontal Air(FASINEX));
+
+Plan. Bull Amer. Meteor.
+
+Part I1:
+Soc., 67,
+
+(1/1") J
+-,o
+
+[S(t+t') - <S>(t)] [R(t+t') - <R>(t)]
+(2)
+
+dt'.
+
+Note that the arguments
+of t and therefore
+
+ance whk-..h would be obtained
+
+finding
+
+S' and R' using a high pass running
+
+That
+
+covariance
+
+T. This is not the value
+
+the boxcar
+would
+
+<S> and <R> above.
+
+average
+
+have
+
+COR.(R,t)
+
+/ COR.(S,R)
+
+obtained
+mean
+
+by
+filter
+
+I+t' as the argument
+
+Further let the correlation
+
+The above is the same value obtained
+of data centered
+between
+
+of their product.
+for
+
+between
+
+].
+(4)
+
+by breaking the data into
+
+of length
+
+taking
+
+[ 1 - COR.(S,t)
+
+is just the covari-
+
+blocks
+
+and then
+
+COV(S,R) COV.(S,R)
+=
+
+of <S> and <R> are functions
+
+that the covariance
+
+lation
+
+by taking
+
+at time t and computing
+
+lineady detranded
+
+a block
+
+the covariance
+
+S and R. A detrended
+
+corre-
+
+can also be defined
+
+from COV.
+
+All of the figures
+
+shown here use deVended
+
+covariances
+
+and correlations.
+
+S and R be given by
+Further
+
+let R
+
+denote
+
+the
+
+Hilbert
+
+transform
+
+of R and
+
+H
+
+define the boxcar
+
+COR.(S,R) =
+
+coherence
+
+as
+
+COV.(S,R)[ COV.(S,S) COV.(R,R) ]".
+COH(S,R)
+
+= [ COV(S,R)'
+
++ COV(S,R
+
+)' _'.
+
+(5)
+
+(3)
+Finally let the boxcar
+We are then able to define the detrended
+
+covariance
+
+Phase(S,R)
+Sand
+
+phase
+
+angle be
+
+of
+= Tan 1 [ COV(S,R)
+
+/ COV(S,R
+
+) ].
+
+R as
+
+(8)
+
+Results
+
+Regions
+
+In the flow:
+
+was located
+The Data:
+
+All data shown
+
+Interaction
+
+Experiment
+
+1985, 1986).
+
+are from the Frontal Air-Sea
+
+(FASINEX,
+
+see Stage and Weller,
+
+These data were obtained by the NCAR
+
+Electra flying a! 35 m elevation on February
+
+16, 1986.
+
+The SST front was very sharp and
+
+between 60 and 64 kin. The total magnitude
+
+of the front was 2.5"C.
+
+Based on examination
+
+of all the
+
+statistics, the flow can be divided into 5 regions as follows:
+R1 : Over the cold water upwind (north) of the front.
+R2:
+
+A dry downdrafl
+
+region
+
+-20
+
+krn wide over and just
+
+On the flight leg shown the mean winds were 7.8 m/s
+
+upwind of the front.
+
+from 31 deg--nearly
+
+R'3: A ~30 km wide region of enhanced
+
+perpendicular
+
+to the SST front from
+
+convection
+
+over cold to warm water (right to left in these plots).
+
+downwind
+
+(south) of the front believed to represent
+
+Other flight legs on this same day show similar features.
+
+secondary
+
+just
+
+circulation coll.
+
+R4:
+Following
+
+Cresconti
+
+60 s (6 kin) averages.
+
+(1988),
+
+all boxcars shown here use
+
+Horizontal wind components
+
+have
+
+been rotated so that U is along the mean wind for the leg.
+
+a
+
+A narrow (~10 km wide) region at the downwind
+
+edge of R3 believed
+
+to be the boundary
+
+of the secondary
+
+circulation cell.
+R5:
+
+Flow over warm water farther downwind.
+
+249
+
+Heat and Vapor
+
+_
+
+t7 _
+
+F'XS{_EX
+
+_g._
+
+NC_,R
+
+ELECTRA
+
+The heat flux, COV(W,E)),
+
+X3_en
+
+increasing @ throughout
+
+was upward
+
+from R1 to R2 then sharply
+remained
+
+"I* _o
+
+e*
+
+" . OISTANCE
+
+{KMI
+
+r S-N
+
+]
+
+,-r= i-_
+
+high in R3.
+
+remained
+
+higher
+
+FAS[NEX
+
+4CM_
+
+ELE3-_A
+
+It decreased
+
+than in R1.
+
+in R4 and R5, bul
+
+COR, COH and Phase were
+
+flat indicating
+
+than changes
+
+in the heat flux
+
+by changes
+
+in the variances
+
+of W and _).
+
+were caused
+,e.ae
+
+decreased
+
+increased at the front and
+
+"
+
+all relatively
+
+,T,_ :T _
+-=,
+
+and produced
+
+the leg. COV(W,e)
+
+N3980
+
+R2 is seen in Q, W and P35 rn as a dry, high pressure
+downdtatL
+o
+
+Q was high in R1, was suppressed
+16 _11 I$
+
+0ISTANCc.
+
+(KMI
+
+[
+
+S N
+
+]
+
+U_
+
+R2, and then gradually
+
+by the downdratts
+
+increased
+
+in
+
+in R3 before decreas-
+
+ing in FI4. Vapor flux (not shown on poster) was upwards
+and showed
+
+"%
+
+little change
+
+during
+
+'T _ '""
+
+w _/51
+
+'
+
+r
+
+.
+
+,
+
+....
+
+0 [$T,_NCE
+
+L
+
+II+JI
+
+5¢¢:.,KI ,110x ,;
+
+iI
+
+":"1{3
+
+It
+
+1_
+
+ll
+
+L_O 17 *t
+
+,o._$
+
+FASTNEX
+
+JO
+
+FAS[NEX
+
+-
+
+-
+
+NCAR
+
+ELE=T_A
+
+OISTANCE
+
+,,,=
+
+_.1{11_
+
+_
+
+U_
+
+_,-i
+'_
+
+N33BC
+-
+
+.L.-T,_A
+
+43ff80
+
+:
+-
+
+._
+
+"_-L" ' ' ' ...........
+0 [ ST,_NCE
+
+(KM)
+
+I_ _
+
+I_
+
+OISTANCE
+
+_",",,
+(_MI
+
+IS-N]
+
+ORIGINAL
+250
+
+ELECTRA
+
+('S-N]
+
+(XM}
+
+'=.J°
+J
+
+NCAR
+
+(KMI
+_i,_'l_I
+II
+
+o
+
+the leg.
+
+OF
+
+POOR
+
+l.=
+
+u[¢
+
+l-i
+
+'_"
+
+,,)
+If-,
+F A(;;-_S
+_
+
+QUALITY'
+
+|TAAT
+.,m
+
+?7
+
+T2
+
+_(J.lll
+
+_?
+
+_
+
+47
+
+.a.ag
+
+FAS_NE'X
+
+QIST_NC-
+
+-
+
+STAn'r
+-=,.o
+..m
+
+f
+
+??
+_?
+
+_
+._
+
+TI._II
+.e._e
+
+LI¢I
+
+r_KTA'
+
+.....
+
+¢"
+
+F,tSTNc'X
+'
+
+NCkR
+
+_L.rCTRA
+
+N3980
+
+IK_
+
+-
+
+NC,t.q
+
+....
+
+'
+
+'
+
+E'L_CT_r/I
+"
+
+I_l.le
+
+=_.m
+
+N3geO
+_c_X¢l
+
+S't.IITC_O ,':'_? _
+
+I_, rKI
+OISTANC[
+
+._e'_•.lt
+
+FAS[NEX
+
+-
+
+NCAR
+
+_L_rCTR.q
+
+N3980
+
+OOx
+
+at
+
+0[STANC[
+
+IXM)
+
+[S-N]
+
+'J¢
+
+S**
+
+IKN]
+
+12
+
+13
+
+Momentum
+U shows
+l'r _ pl'r
+
+IocaJly
+
+lower
+
+wind
+
+R3.
+
+V is remarkably
+
+sinuso_daJ
+
+motion.
+
+Winds
+
+are
+
+more
+
+eastedy
+
+in R1,
+
+R3,
+
+and
+
+largest
+li_
+
+_
+
+in R2 and
+
+R4
+
+and
+
+higher
+
+in
+
+'_?
+
+|6
+
+D[$TANC/_
+
+(KH!
+
+($-_]
+
+t._
+
+result
+
+S-*
+
+not
+
+in R2.
+
+This
+
+westerly
+RS.
+
+Stress
+
+R4
+
+near
+
+angle
+
+more
+
+) is
+
+the front
+
+between
+
+is surprisingly
+
+wave
+
+and
+
+(-COV(U,W)
+
+stress
+
+in the phase
+
+or C@H.
+
+possible
+
+in R2 and
+
+Stress
+
+enhanced
+
+of a change
+
+C@R
+
+suggesting
+
+is the
+
+U and
+
+W,
+
+in R1
+
+and
+
+sin_l_
+
+R3.
+
+Stress, COR,
+
+and
+
+fealure
+
+led
+
+rather
+
+=:;: _.-/
+,.
+
+iqm
+
+..............
+,,
+
+0 [ $ TA'='NC E
+
+(KI'II
+
+]
+_S-N|
+
+t._l
+
+,-,
+
+Both
+
+which
+_han
+U and
+
+W
+the
+
+but believe
+
+that
+cell
+
+are
+
+near
+
+us to identify
+
+simply
+
+understand
+
+secondary
+
+COH
+
+the
+
+have
+
+between
+
+variances
+
+mechanism
+
+with
+
+R3
+
+in R4.
+
+producing
+
+it is associated
+
+in R4.
+
+It is this
+
+R4 as a distinct
+
+boundary
+
+high
+
+zero
+
+low
+the
+
+region
+and
+
+We
+
+sLress
+
+boundary
+
+R5.
+
+do not
+
+yet
+
+in R4,
+of the
+
+in R3.
+
+ORIGINAL
+
+PAGE
+
+IS
+
+OF POOR
+
+QUALITY
+
+251
+
+IITJ_
+[
+
+,_m
+<Z
+
+_? _
+_7
+
+,*.tg'mae
+
+_AS[NEX
+
+-
+
+_AR
+
+ELECTRA
+
+,.I
+
+N3eSO
+
+.m
+
+,T _
+
+{'
+
+,:Tee
+_
+
+,rAsIN(X
+
+-
+
+NCAR
+
+ELECTRA
+
+N3S_fl
+
+t4.;Nt st[¢:xolax
+
+L_
+
+,
+
+f
+
+,
+
+16 FIll
+
+'
+
+,
+
+,
+
+16
+
+s-rAnT _? _2 le.lm
+E'_ _? ,7 **._1
+
+'"
+
+=_v_--.,_., '
+'
+
+ti
+
+_
+
+,
+
+'
+
+i
+
+,
+
+O[$TAMCE
+
+i
+
+FA$;NEX
+
+....
+
+i
+
+i
+
+'
+
+i
+
+{S-N]
+
+-
+
+_1
+
+,
+$**
+
+NC_,R
+
+ELECTRA
+
+' '
+
+'
+
+{N-NJ
+
+II
+
+N3_BO
+
+U[{
+
+_
+
+IQ
+
+OISTANCE
+
+STJr_ _722
+_g.ll
+_ ,_ ,e._
+
+_.ws(_*Qx::
+
+(KM)
+
+'
+
+OISTANCE
+
+Ill
+
+i
+
+(KMI
+
+5-I
+
+_1__
+
+II_
+
+(XHI
+
+FAS[N,EX
+
+{}[$TA_E
+
+(S-N]
+
+-
+
+(KM]
+
+NCAR
+
+"
+
+L_i
+
+ELECTRA
+
+{S*Nt
+
+5-*
+
+N3a80
+
+{.JIG 5-I
+
+17
+
+W and P
+
+,T.,_,, =; ....
+
+3Sm
+
+These plots are shown because of their intriguing,
+
+•.............
+
+like character.
+
+The wavelength
+
+krn over the cold water and -8 km over the warm.
+amplitude
+
+_-L'
+
+' ' '_.
+_i _
+
+I*
+
+'
+
+".'
+
+OISTANCE
+
+'
+(KH)
+
+;.'
+
+' _:.'
+
+(S-N]
+
+' '_.
+U[{
+
+S-*
+
+water.
+
+of fluctuations
+
+We speculate
+
+modulation
+
+m._
+
+-....
+
+17
+
+t-
+
+""
+
+z
+
+-,._..: ,
+.
+_ll _
+
+wavelength
+
+_eJt
+
+L.
+I1_
+
+]
+
+....
+OI_TANCE
+
+.
+IKI'I!
+
+(S-N}
+
+The
+
+is also much larger over warm
+
+that these fluctuations
+
+of the turbulence
+
+One puzzling
+
+wave-
+
+ot Lhese fluctuations is ~4
+
+may be a
+
+by horizontal roll vortices.
+
+aspect ot these plots is that COR changes
+
+and rnagni(ude around
+
+changes around
+
+56 kin, but that COH
+
+36 kin.
+
+'._
+_i:G 5-4
+
+252
+GF _OOR
+
+QUALrT'Y
+
+O'3
+
+- =
+"S;
+
+8'., -"
+¥
+
+B
+
+_
+
+ru_
+
+_t=_t_
+
+O,
+_'" _,_j._
+I
+!
+
+33N_U31103
+.] l_ltV
+
+35Vlld
+
+0
+
+!
+
+tu
+
+•
+
+o
+
+i_. _-_i
+._.!!_!
+]3_VIHVA03
+
+NOllV13Hu03
+

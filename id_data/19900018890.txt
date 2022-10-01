@@ -1,0 +1,674 @@
+N90-28206
+TIIE NA'i_Ci¢AL VLF EI.,ISSION aS DiAG±_OSTICS
+Ai_D IfSTIL_&TION
+OF THE FLUX]_S CF OOLAi{ X-RAY
+LU]{STS
+
+_i_Jd[S
+
+_.,urzaeva =_.L.
+Institute
+of Cosmophysical
+Lenin
+Ave.,
+_1, 677891
+
+kesearch
+Yakutsk,
+
+and Aeronom_,
+USSR
+
+Abstract.
+The possiOility
+to detect
+the
+c_'omospheric
+flares
+based"on
+the natural
+VLF
+emission
+intensity
+data on _he _arth's
+surface
+is considered.
+Diagnostics
+of the change
+of solar
+A-ray
+burst
+flux at 0.5-4
+_° and its estimation
+are discussed
+as possible.
+The effect
+of solar
+flare
+short-wave
+emission
+on the _arth's
+ionosphere
+was considered
+oy A.I._itra (1977)
+where
+the determination
+of solar
+X-ray
+fluxes
+by indirect
+me,hods
+is described.
+In
+low-frequency
+range
+for this aim are used
+the signals
+of transmitters
+operating
+at tens-hundreds
+kilohertz
+Xrequencies.
+The records
+of tne natural
+emlssion
+Latmospherics)
+are considered
+to be suitable for the Oetection
+of f±ares
+but to be hardly
+used
+for the investigation
+of ionosphere
+physics
+as the detected
+noise
+represents
+the integral
+effect
+of many sources
+and the sources
+are of a random character.
+Here
+the possibility
+is studied
+of the de_ection
+of solar
+chromospheric
+flares
+and _he
+estimation
+of A-ray
+flux
+accon_anied
+by
+powerful
+bursts
+in the range
+O.5-4,
+I-8 _
+based
+on the change
+of
+the regular
+noise
+background
+intensity
+of the natural
+low-frequency emission
+detected
+on the Earth.
+For m_n3 years
+in Yakutsk
+( _ = 62°N;
+_ = 129,7°_)
+_he
+natur_l
+_LF-VLF
+emission
+at 0.5-I0
+:_z is being
+detected
+con_inlously.
+One
+of _he types
+of continious
+low-frequency
+emission
+is a regular
+noise
+background
+(I_B)
+determined
+as a separate
+class
+(V_rshinin,
+Ponom-_rev,
+1966).
+_d_B is is available
+constantly
+on the records
+and is characterized
+by a smooth
+temporal
+rounding.
+A spectral
+distribution
+of id_B intensity
+is two emission
+bands
+in ELF-VLF
+ranges
+divided
+by a deep minimum
+at 2-_ kHz (Liurzaeva,
+1974).
+r'or the analysis
+were
+used the records
+of ELF-VLF
+emissions
+obtained
+in Yakutsk
+in 197_-197@
+by 8-channel
+registrator
+(Druzhin
+at al., 1976)
+and from 1978
+to now by l_-channel
+registra_or
+in
+0.5-10
+_iz
+range.
+_esides,
+s_ellitc
+Oata
+of solar
+X-ray
+i'luxes
+_ere
+used
+(SGD,
+197_-1985).
+A comparison
+of P_B r_cords
+_;ith solar X-ray
+fluxes
+_howed
+that
+the chsnge
+of ZLF-VLF
+emission
+intensity
+and its value
+depend
+on
+a value
+of X-ray
+burst
+flux.
+Almost
+simultsneously
+with
+solar
+X-ray
+burst
+bhe RNB intensity
+increases
+at 0.5-_
+Idlz and decreases
+at
+~ _-90 kHz. The enhancement
+maximum
+is at 0.5-0.8
+i_z,
+the hi{_hest weakening
+- at @-6 ]d{z (_urzaeva,
+_977;
+1981).
+The increase
+of
+X-ray
+flux by an order
+of 2-% causes
+both
+we_<ening
+and an enhancemcnt
+of ELF-VLF
+emission
+I_B
+intensi_y
+from
+~ 2-_ to
+~15-20
+dB.
+A change
+of I{NB intensity
+spectral
+distribution
+(:uring solar
+_lares
+was considered
+0y I_urzaeva,
+Fligel
+(1980;
+198_).
+In Fig._
+is shown _d{B intensity
+averaged
+on 5 flares
+in "1975197_
+and in _98_ versus
+a frequancy.
+On Y-axis
+is put a ratio
+of
+i_B
+i_t_nsity
+measured
+at a flare
+maximum
+(i b) to a ore-flare
+i_I_B
+level
+(I o) calculated
+as 10 lg Ib/l o (k.urzaeva,
+1977)j
+•
+(,.:_.j.:_¢ _dALiTY
+
+228
+Zn Fig.2 is presented an example of i_lIB intensity change during
+a flare at various concrete I requencies of the range unger investigation and solar X-ray ilux record obtained by the satellite
+(SGD,
+1973). A dynamics of VI_' emission intensity at 5.6 kHz and of X-ray
+ilux repeat each other (in counterphase). However, _LF emission intensit_ increase during a flare is not always observed and a frequency at which occurs a transfer from RNB intensity increase to
+its decrease is rather variable. Besides, fLF emission intensity
+enhancement caused by the influence of enhanced solar X-ray flux
+on the ionosphere is hardly different
+from ELF emission flare caused
+by other types of ionospheric and magnetospheric disturbances. At
+the same time a sharp v_eakening of _B intensity at VLF frequencies
+observed during chromospheric flares is opposite to _LF emission
+bursts and is of a characteristic
+for chromospheric flares form.
+Therefore to study the variabions of solar X-ray fluxes were used
+the experimental data at 5.6 kHz which, besides, appears to be at
+frequency range _here lii:B intensity weakening is maximumduring a
+flare
+and PdB record level is high enough as compared with the instrumen_ noise.
+_ometimes during several hours one can observe a number of flare_, for instance, on July 21, 1981. The variations of idB level
+caused by them are superposed on its regular daily changes. Nevertheless, (see l,'ig.3) in the behaviour of Pd_B
+curve is reflected
+the dynamics of flare X-ray zlux. A picture is being clarified
+if
+to subtrack the daily variations of RNB intensity from the total
+c u__v e
+
+course.
+
+;_e carried
+out a statistical
+treatment
+of the experimental
+data
+on a number
+of chromospheric
+flares
+and estimated
+solar
+X-ray
+flux
+during
+flares.
+In the case when X-ray
+fluxes
+(F) increase
+during
+a flare
+by an order
+of
+_ 2 or more
+they are as
+_'= c_f_/fJ
+_
+,_here
+c
+and
+_
+are determined
+based
+on the experimental
+data.
+The estimated
+x-ra_
+flux
+(in the first
+approximation)
+is shown
+in
+_ig.3.
+A comparison
+wibh
+the satellite
+data (SGD,
+1982)
+evidences
+ibs agreement.
+±'hue, using _ata
+of continious
+ground-based
+registration
+of the
+natural
+VLF emission
+one can:
+- on characteristic
+for _he period
+of chromospheric
+flares
+form
+of Id4B intensity
+oecrease
+of VLF emission
+to detect
+solar
+flares
+::ccoi:_panied 0y powerful
+solar
+X-rays
+bursts;
+- on bhe change
+of VLF emission
+I_NB intensity
+to carry
+out a
+continious
+oiagnostics
+of changes
+of solar
+A-ray
+burst
+Z lux and
+to estimate
+its value.
+
+i.itra A. ionospheric
+Effects
+of Solar
+flares,
+l,i.: l_ir, 1977.
+,_urzaeva
+N.N. Eegulyarny
+shumovoi
+fon ONUh
+izlucheniya,
+v kn.:
+_izkochsstotnye
+volny
+i signaly
+vo vneshnei
+ionosfere.
+Apa_ity.
+Izd-vo
+l{ols_ogo
+filiala
+AN SSS_.
+1974.
+_.20-2_.
+_.urzaeva
+_._. i<e6ulyarny
+shumovoi
+fon 0NCh
+izlucheniya
+vo vrem$a solnechnykh
+vsp_shek.
+V kn.: Svyaz
+0i_Ch izluchenii
+verahnei
+atmosfery
+s drugimi
+geofizicheskimi
+yavleniyami.
+Yakutsk.
+Izd-vo
+Yag' SO A_{ SSSR.
+1977.
+s.21-_4.
+Lurzaeva
+N.L_., Fligel
+D.S. 0 vliy_aii
+solnechykh
+vspyshek
+na
+spe_<tralnye
+kharakteristiki
+nepreryvnogo
+nizkochastotnogo
+izlucheniya.
+V kn.:
+Issledovaniye
+struktunry
+i volnovykh
+svoistv
+okolozemnoi plazmy.
+I,:.: IZ_:IRAN.
+1980.
+s.2_-_9.
+
+O_:G!;",iP.!-
+
+PAGE
+
+OF
+
+QUALITY
+
+POOR
+
+IS
+
+229
+,_urzaeva _.:_. O vozmozhnosti
+r_gistratsii
+khz'omosfernykh
+vspFsb_k po izmeneni_u
+intensivnosti
+r_gulyarnogo
+shumovogo
+fona _.]_ChOLiCh izlucheniya.
+Lul.NTI.
+Problem_
+kosmofiziki
+i aeronomii.
+ial.uto_.
+YaF S0 AN SSSR.
+1981,
+iyul,
+s.22-23
+_:urzaeva I_.N., Fligel
+D.S.
+Izmeneniye
+spektrov
+regulyarnogo
+_humovogo
+fona vo vrem_a
+solnechykh
+vspyshek.
+V kn.: _,agnitorfer:_.jc
+i_Jsledovaniya.
+_.: 1986,
+No.7,
+s.150-15@.
+Solar
+Geophysical
+Data
+(Comprehensive
+1(eport), No.351,
+Part
+2.
+_,:[ar Geopb_Tsical
+Data
+(Comprehensive
+Heport),
+197_-1985.
+_Ikov
+o.P.,
+Druzhin
+G.I.,
+Sbvetsov
+V.D.,
+Nikitin
+_u.P.,
+Pet_ov ,'
+.G. Apparatura
+dlya registratsii
+ONCh
+izlucheniya.
+V kn.:
+iiizi;ochastotnye
+signaly
+vo vnesbnei
+ionosfere.
+Yakutsk.
+Izd-vo
+_a[_' ;_0 Ai_ SSSR,
+1976.
+s.107-117.
+;_rshinin
+E.F.,
+Ponomarev
+E.A.
+0 klassifikatsii
+nepreryvnogo
+ulUranizkochastotnogo
+izlucheniya
+verkhnei
+atmosfery.
+V kn.:
+.._:m_oi magnetizm,
+polyarnye
+siyaniya
+i ultranizkochastotnoye
+izlucbc_niye.
+V_p.I.
+Irkutsk,
+SibIZI,;I]{ Ai_ SSSR.
+q966.
+s. DS-q4.
+
+CR!G_N._,L PAGE
+OF POOR
+
+IS
+
+QUALITY
+
+230
+
+d_
+
+10"e_ s
+
+\
+\
+
+\
+o
+
+\\
+
+t_\
+
+4
+
+e
+
+8
+
+_.
+
+/0
+-_.
+
+-.--
+
+_,5-_A
+
+1o
+-_.
+
+-,
+
+\
+
+/
+
+-e
+-m
+
+W
+\
+
+K "_-'_MZ
+
+/
+
+tat"
+5"
+2'
+i0 r.
+5'
+
+-10
+
+_ig.1. A change of IEqB intensity
+averaged on 5 flares in "19731974 (_),
+in 1981 (---- --)
+
+10,0xtlz
+
+2.
+fO:
+
+5,6_Nz
+
+5"
+
+8,0xHz
+
+t0 "_.
+
+Fig.2. A change of RNB intensit-_ au_ring the _ay _
+J_
+1973 flare at various l'requencies
+and solar X-ray
+flux on satellite
+data
+(SGD, 1973)
+
+W/r_ l
+
+_5-_
+fO "_r .
+
+fO "F.
+
+fO "e
+
+8-
+
+0
+
+-8
+
+;_ig._. i'he record of i_NB intensity
+of the natural VLF emission and solar A-ray flux (satellite
+data SGD, 1982) during a number of flares on 21.07.81 (--),
+X-ray flux
+obtained on _£LF emission data
+
+(---).
+

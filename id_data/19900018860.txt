@@ -1,0 +1,3210 @@
+N90_
+76
+STRATOSPHERIC
+
+EFFECTS
+THE
+
+OF
+
+SOLAR
+
+SOLAR
+
+ULTRAVIOLET
+
+ROTATION
+
+TIME
+
+VARIATIONS
+
+ON
+
+SCALE
+
+L. L. Hood
+
+Lunar
+
+and
+
+Planetary
+
+University
+Tucson,
+
+The
+
+purpose
+
+surement
+
+of this paper
+
+Laboratory
+
+of Arizona
+
+AZ
+
+85721
+
+USA
+
+is to present a summary
+
+and interpretation of stratospheric ozone
+
+short-term
+evidence
+
+solar ultraviolet variations.
+for a nearly in-phase
+
+only one or two
+
+Although
+
+ozone-solar
+
+of some
+
+current
+
+and temperature
+some
+
+work
+
+responses
+
+studies have
+
+cycle relationship, they
+
+on mea-
+
+to observed
+
+yielded provisional
+
+extend
+
+at most
+
+over
+
+eleven-year cycles so the statistical significance of the correlations is not
+
+large. Similarly, the relatively short lengths of individual satellitedata sets combined
+the problem
+observing
+The
+
+of estimating
+
+the effect of changes
+
+period have complicated
+
+attempts
+
+in instrument
+
+to infer long-term
+
+solar rotation and active region development
+
+for which
+
+detailed studies of middle
+
+or solar cycle ozone
+
+planetary
+
+for the existence
+
+wave
+
+of middle
+
+amplitudes
+
+atmospheric
+
+ozone
+
+and
+
+temperature
+
+responses
+
+SCHLESINGER,
+
+1985;
+
+DRA,
+
+1986; ECKMAN,
+
+These
+
+measurements
+
+of longer-term
+The
+
+solar induced
+
+7 solar backscattered
+
+National
+
+Space
+
+Science
+
+nm
+
+flux data
+
+ozone
+
+mixing
+
+45 km
+
+(about
+wave
+
+response
+
+allow improved
+
+and temperature
+
+caused
+
+mean
+
+photodissociation
+
+with
+
+the SBUV
+
+of short-term
+
+7-day
+
+running
+
+The
+
+CHAN1988].
+
+and theoretical calculations
+
+profiles and
+
+SAMS
+
+latitudes.
+
+stratosphere
+
+ozone,
+
+available from
+
+and
+
+oxygen
+
+is chosen
+
+found
+
+from
+
+variations throughout
+[DONNELLY
+
+the U.S.
+
+is important,
+
+temperatures
+
+(about
+
+analyses of SBUV
+the 170-260
+
+solar
+
+nm
+
+range
+
+et al.,1987].
+
+for the equator
+
+because
+
+at 1.5 mbar
+
+it is intermediate
+
+40 kin) and
+
+the
+
+to be consistent with
+
+solar irradiance time series with zonally averaged
+
+altitude is chosen
+maximum
+
+data
+
+of molecular
+
+has been
+
+with increasing latitude which
+
+mean
+
+205 nm
+
+mean
+
+instrument
+
+photochemistry
+
+the 205 nm
+
+temperature,
+
+1987;
+
+CANTRELL,
+
+variations at low and middle
+
+daily zonal
+
+between
+
+the temperature
+
+SBUV
+
+(approximately
+the locations
+
+response
+
+of the increasing seasonal and
+
+maximum
+planetary
+
+increase the dii_icultyof detecting changes
+
+by solar ultraviolet variations. Day-to-day
+
+zonal
+
+empirical
+
+and
+
+that are utilized here consist of the Nimbus
+
+50 kin). A low latitude is selected because
+
+amplitudes
+
+et al., 1985;
+
+1986; HOOD
+
+In order to characterize variations in solar spectral
+
+where
+
+for ozone
+
+altitude). This
+
+of the ozone
+
+KEATING
+
+to short-term
+
+et al.,1984; HEATH
+
+Center.
+
+Data
+
+ratios and
+
+1986;
+
+SMITH,
+
+flux at this wavelength
+
+Figure 1 compares
+
+responses
+
+retrieved temperature
+
+to be representative
+
+that is of importance
+
+temperature
+
+gridded
+
+as measured
+
+earlier studies. The
+
+and
+
+in recent years [GILLE
+
+sensing measurements
+
+(SAMS)
+
+at wavelengths
+
+flux at 205
+
+ozone
+
+and
+
+ultraviolet (SBUV)
+
+sounder
+
+irradiance
+
+1984;
+
+will ultimately
+
+satelliteremote
+
+mesosphere
+
+HOOD,
+
+1986; AIKIN
+
+to solar
+
+sets. At tropical
+
+are relatively small, clear correlative evidence
+
+ozone
+
+solar ultraviolet variations has been obtained
+and
+
+the
+
+trends.
+
+time scale provides an alternate time scale
+
+atmospheric
+
+ultraviolet variability are currently possible using available satellitedata
+latitudes where
+
+with
+
+sensitivity (drift)during
+
+variations and short gaps
+
+and solar ultraviolet time series were
+
+between
+
+minimized
+
+daily
+
+using a
+
+and linear interpolation algorithm.
+
+flux time series is characterized
+
+the solar activity maximum
+
+of 1980-1981
+
+by a broad
+
+and short-term
+
+maximum
+
+corresponding
+
+variations associated with
+
+to
+
+active
+
+77
+
+region
+
+development
+
+contains
+Mg
+
+II core
+
+nm
+
+flux
+
+ratio
+
+Solar
+
+nm
+
+flux
+
+greater
+
+Mesosphere
+
+are
+
+1.5
+
+of the
+
+being
+
+strong
+
+correlated
+
+phasizes
+
+the
+
+ozone
+
+need
+
+temporal
+
+reasonable
+present
+drift
+
+to
+
+are
+
+From
+
+the
+
+not
+
+the
+
+has
+
+and
+
+in
+
+latitudes
+
+Finally,
+
+SBUV
+
+and
+
+it should
+
+SAMS
+
+be
+
+from
+
+the
+
+hand,
+
+as can
+
+of
+
+6-7%
+
+(peak-to-peak)
+
+mean
+
+flux
+
+middle
+
+currently
+
+over
+
+be
+
+seasonal
+
+ozone
+
+and
+
+atmospheric
+
+concentrated
+
+and
+
+In order
+period,
+
+each
+
+case.
+
+to
+In
+
+are
+
+isolate
+
+flux
+
+UV
+
+time
+
+deviations
+series
+
+onto
+
+1.5
+
+mbar
+
+ozone
+
+variations
+
+this
+
+is particularly
+
+UV
+
+variations
+
+and
+
+with
+
+June-August
+
+temperature
+ever,
+
+discerned
+
+em-
+
+interpreting
+
+equilibrium
+
+is a
+
+interannual
+
+in part
+
+to
+
+trends
+
+instrument
+
+to the
+
+time
+
+very
+
+the
+
+On
+
+are
+
+change
+
+solar
+
+as
+
+difficult.
+
+to detect
+
+and
+
+the
+
+as large
+
+in the
+
+ultraviolet
+
+to
+
+well
+
+1 that
+detection
+and
+longer
+time
+
+variations
+
+efforts
+
+responses
+
+on
+
+visual
+
+and
+
+time
+by
+
+scales
+
+as
+
+monthly-
+
+characterize
+
+variations
+
+temperature
+
+time
+time
+
+series.
+
+scale
+
+intervals
+
+and
+
+of
+
+positively
+
+of
+
+solar
+
+the
+
+205
+
+have
+
+flux
+and
+
+lower
+with
+
+to occur
+
+after
+
+particularly
+
+of
+
+UV
+UV
+
+the
+
+equatorial
+
+variations
+
+are
+
+solar
+1980,
+
+2 that
+
+by
+
+1.5
+
+at zero
+
+deviations
+
+October
+
+evident;
+
+27-day
+
+May-August
+
+Figure
+
+maxima
+
+in
+
+2 superposes
+between
+
+1980,
+
+panel
+
+rota-
+
+mean
+
+205
+
+continuous
+
+1979-February
+
+solar
+
+short-term
+
+Figure
+
+nm
+
+the
+
+running
+
+resulting
+
+correlations
+
+strong
+
+the
+
+to
+
+35-day
+
+deviations,
+
+relatively
+
+intervals,
+
+the
+
+Positive
+
+correlated
+
+maxima
+
+comparable
+
+subtracting
+
+comparison
+
+from
+
+not
+
+be
+
+flux
+
+probable
+
+recent
+
+as
+
+scale.
+
+It is apparent
+are
+
+lag.
+
+5-10
+
+days
+
+1979-February
+
+mbar
+Howcan
+
+be
+
+1980
+
+and
+
+sensitivity
+
+to
+
+1982.
+to derive
+
+changes
+
+the average
+
+in the
+
+been
+
+ratio
+
+or temperature
+
+applied.
+
+in days
+
+of either
+
+reproducibility
+analyzed
+
+nm
+
+in October
+
+in some
+
+have
+
+lag
+
+the
+nega-
+
+characteristic
+when
+
+due
+
+would
+
+205
+
+occurring
+
+for temperature
+
+visually
+
+In order
+observed
+
+on this
+
+as those
+
+deviations
+
+June-August
+
+ozone
+
+during
+
+1982.
+
+a tendency
+
+determine
+
+from Figure
+on seasonal
+
+sets
+
+detrended
+
+atmospheric
+
+true
+such
+
+be
+
+a direct
+
+the
+
+the
+
+is charac-
+
+produce
+
+variations
+
+it is clear
+responses
+
+most
+
+variations
+
+may
+
+allow
+
+nm
+
+200-205
+
+fluctuations.
+
+that
+
+small
+
+temperature
+
+comparable
+
+time
+
+temporal
+to
+
+be
+
+27-day
+
+temperature
+
+rotation
+
+series
+
+order
+
+by
+
+instrument
+
+panel)
+
+This
+
+that
+
+7 data
+
+panel,
+
+Consequently,
+and
+
+solar
+
+top
+
+therefore
+
+cycle.
+
+all time
+
+Nimbus
+
+in the
+
+ozone
+
+on the
+
+tion
+
+available
+
+seen
+
+a solar
+
+mean
+
+photochemical
+
+could
+
+possibility
+of instrument
+related
+long-term
+drifts,
+of solar ultraviolet
+induced
+ozone
+or temperature
+
+other
+
+series
+
+comparison,
+
+although
+
+rates
+
+noted
+
+measurements
+
+time
+
+real.
+
+amplitudes
+
+scales
+
+For
+
+measurements
+
+where
+
+the
+
+decreases
+
+variations
+
+panel.
+
+temperature
+
+and
+
+the
+205
+
+shorter-term
+
+reaction
+
+center
+
+also
+
+in
+
+flux
+
+1984.
+
+(bottom
+
+temperature
+
+the
+
+set
+
+communication).
+
+series
+
+the
+
+nm
+
+in monthly
+
+superposed
+
+of
+
+data
+
+employed
+
+7, 1978)
+
+1985
+
+private
+
+annual
+
+as shown
+
+205
+
+late
+
+early
+
+time
+with
+
+simultaneous
+
+necessarily
+
+and
+
+ROTTMAN,
+
+dependences
+
+at altitudes
+
+and
+
+flux
+changes
+
+November
+
+a change
+
+1982
+
+temperature
+
+semiannual
+
+scaled
+
+on
+
+nm
+
+therefore
+
+represent
+
+resulting
+
+measured
+
+early
+(G.
+
+to
+
+1980-1981
+
+components
+
+approximation.
+
+in both
+and
+
+annual
+
+consider
+
+The
+
+205
+
+We have
+
+(1986)
+
+in
+
+between
+
+variations
+
+behavior
+
+first
+
+satellite
+
+temperature
+
+ozone
+
+measured
+drift.
+
+as measured
+
+maximum
+
+SAMS
+
+these
+
+originally
+
+days.
+
+evaluated
+
+and
+
+concentration,
+
+tively
+
+cm -s
+
+solar
+
+equatorial
+
+by semiannual
+
+Because
+
+35
+
+W
+
+5.5%
+
+still
+
+ozone
+
+than
+
+Explorer
+
+mbar
+
+The
+
+to instrument
+
+SCHLESINGER
+
+of 10.22
+
+6% between
+
+sources
+
+terized
+
+scales
+
+and
+
+of approximately
+
+The
+
+rotation.
+
+ascribable
+
+HEATH
+
+to a value
+
+approximately
+the
+
+solar
+
+trend
+
+of
+
+on time
+
+(normalized
+
+error
+
+and
+
+a long-term
+
+of
+
+separately
+
+205
+
+This
+
+sensitivity
+
+for
+
+two
+
+ozone
+
+flux,
+
+results
+independent
+
+in
+
+or temperature
+
+cross-correlation
+
+is defined
+
+or temperature
+
+previous
+
+the
+
+low-latitude
+solar
+
+a 1% change
+
+ozone
+the
+
+nm
+
+the
+
+as the
+205
+
+relative
+of HOOD
+time
+
+and
+
+percent
+
+nm
+
+[1986],
+intervals
+
+change
+
+flux.
+
+to the
+
+response
+linear
+
+205
+
+Also
+nm
+
+HOOD
+'A'
+
+and
+
+regression
+
+in either
+
+methods
+
+ozone
+
+determined
+flux.
+
+In order
+
+and
+
+CANTRELL
+
+'B'
+
+of Figure
+
+mixing
+
+is the
+
+phase
+
+to test
+
+2.
+
+the
+
+(1988)
+Figures
+
+3
+
+78
+10,8
+
+10,5"
+10.2.
+2,9"
+
+9.6'
+
+8.0"
+
+7.5.
+.2
+
+7.0.
+
+e.O.
+
+$AMS
+
+Temperature
+
+270'
+
+(1.5
+
+tubal
+
+equator)
+
+s,.
+262
+
+¸
+
+258
+
+254
+1978
+
+Figure 1. Comparison
+using
+
+the Mg
+
+torial ozone
+
++0.4
+
+E
+
+a
+
+between
+
+1980
+
+'
+
+i
+
+•
+
+•
+
+ratio and
+
+•
+
+•
+
+*
+
+i
+
+,
+
+1.5ml_r, £quotor.
+
+1981
+
+the SBUV
+
+II core ratio of HEATH
+mixing
+
+•
+
+1979
+
+205 nm
+and
+
+temperature
+
+•
+
+•
+
+•
+
+•
+
+,
+
+•
+
+.
+
+1982
+
+1984
+
+solar flux (adjusted
+
+SCHLESINGER,
+
+1986)
+
+at the 1.5 mbar
+
+i
+
+.....
+
+•
+
+.
+
+•
+
+I i
+
+1983
+
+,
+
+,
+
+for long-term
+
+and
+
+trends
+
+zonal mean
+
+equa-
+
+level.
+
+•
+
+•
+
+•
+
+'
+
+'
+
+'
+
+*
+
+.....
+
+'
+
+SSUV Ozone MiziM Rotio
+
+•
+
+•
+
+"
+
+"
+
+"
+
+[ [
+
+0
+
+.o
+• -0.2
+-0.4
+
+)Ij.F.M.A.M.j.j.A.S.O.N.DUj.F.M.A.M.j'j'A'S'O'N'DWJ'F'M'A'M'j"
+1979
+1980
+
+d "A'S'O'N" DIj'F'M'A'M"J"J'A'S'O'N
+1981
+1982
+
++4
++2
+""
+
+0
+--2'
+
+--d
+
+fJ'F'M'A'M'J'J'A'S'O'N'D'J
+
+\
+Figure
+
+,...
+
+Intervol
+
+2. Superposition
+
+flux onto the detrended
+(from
+
+HOOD
+
+and
+
+"F'M'A'M'J'J "A'S'O'N'D'J'F'M'A'M'J
+A
+
+,.o/\
+
+of the detrended
+equatorial ozone
+
+CANTRELL,
+
+1988).
+
+(3S-day
+and
+
+"J"A'S'O'N'O'J
+
+,..,
+
+Intervol
+
+running
+
+temperature
+
+mean
+
+"F'M'A'M'J'J'A'S'O'N
+B
+
+removed)
+
+,.-i
+/
+
+solar 205 nm
+
+time series at the 1.5 mbar
+
+level
+
+79
+
+and 4 summarize
+their results.
+The ozone response
+is seen to reach a maximum
+of about
+0.5% near the 2 mbar level for a 1% change in the 205 nm flux. Actual peak-to-peak
+ozone
+mixing ratio changes were as large as 3% corresponding
+to maximum
+205 nm flux changes of
+6-7% on the 27-day time scale. The temperature
+response maximizes
+near the stratopause
+and amounts to 0.06% (about 0.17 K) for a 1% change in the 20S nm flux. Actual peak-topeak temperature
+changes were as large as 1 K. Formal error limits for each time interval
+represent standard
+deviations
+from the mean of separate estimates
+for the five 10 ° latitude
+zones between
+25°S and 25°N. As shown in Figure 3, ozone response
+amplitudes
+and
+phase
+limits
+
+lags derived in these separate
+analyses
+are generally
+overlap in all cases except for the response
+amplitude
+
+in agreement.
+Formal error
+at 2 mbar which is somewhat
+
+larger during interval
+'B' than during interval 'A'. As shown in Figure 4, temperature
+response
+amplitudes
+and phase lags are also in approximate
+agreement
+although
+formal
+error limits are significantly
+larger for the response
+amplitudes.
+Temperature
+phase lags
+below 2 mbar also appear to be somewhat
+larger during interval 'B' than during interval
+'A'. These
+
+response
+
+measurements
+
+et al. (1987) of the same
+The ozone response
+
+agree well with an independent
+
+4-year time interval.
+measurements
+of Figure
+
+3 are compared
+
+analysis
+
+by KEATING
+
+to two simulations
+
+of
+
+the expected
+response
+calculated
+using radiative-photochemical
+models.
+The solid lines
+show the response amplitude
+and phase lag calculated
+by BRASSEUR
+et al. (1987) using
+a one-dimensional
+time dependent
+radiative
+photochemical
+code.
+This simulation
+is in
+qualitative
+agreement
+with the measurements
+but the amplitude
+of the calculated
+ozone
+response
+is noticeably
+less than the observed response
+above about 5 mbar.
+It has been
+suggested
+that a part of the difference between
+the model result and the observed
+ozone
+response is due to the use of diurnally averaged photodissociation
+rates in the model calculations.
+HOOD and DOUGLASS
+(1989) have reported calculations
+using a parameterized
+perturbation-order
+radiative photochemical
+model but using a variable solar zenith range
+in the photodissociation
+calculations
+that is more appropriate
+for comparison
+with the
+SBUV measurements.
+The resulting ozone response amplitude
+and phase lag are shown in
+Figure 3 as dashed
+amplitude
+for the
+
+lines.
+ozone
+
+The increased
+response
+that
+
+amplitude
+at levels below about 3 mbar.
+As noted earlier, the monthly
+mean
+
+photodissociation
+is more nearly
+solar
+
+205
+
+rate changes result in a higher
+in agreement
+with the observed
+
+nm flux (scaled
+
+using
+
+the Mg II core
+
+ratio) decreases by approximately
+6% between solar maximum
+in 1980-1981
+and late 1984
+(Figure 1). Adopting
+this flux variation,
+the same radiative
+photochemical
+code used to
+produce
+the dashed line model of Figure 3 for the 27-day time scale may be applied in
+order to estimate the expected solar cycle variation of ozone mixing ratio at levels between
+3 and 10 mbar and at equatorial
+latitudes.
+Results
+show predicted
+mean ozone mixing
+ratio decreases
+of 2.0% at 3 mbar, 2.3% at 4.5 mbar, and 0.8% at 10 mbar for the interval
+between
+solar maximum
+in 1980 and solar minimum
+in 1985.
+Such decreases
+would be
+small in comparison
+to seasonal variations
+and would be difficult to detect relative to other
+natural sources of variability
+such as the E1 Chichon volcanic eruption.
+The net change in
+the ozone column at low latitudes
+resulting directly from these upper stratospheric
+mixing
+ratio decreases
+would be less than 1%.
+Although
+radiative-photochemical
+models can yield an approximate
+agreement
+with
+the observed ozone responses
+and phase lags below 3 mbar,
+it is unlikely that the large
+discrepancy
+between
+6) can be simulated
+BRASSEUR
+et al.
+
+observed and theoretically
+calculated
+by such models.
+As previously
+argued
+(1987), the shortfall of the calculated
+
+temperature
+by HOOD
+temperature
+
+phase lags (Figure
+(1986; 1987) and by
+phase lags results
+
+8O
+
+Figure
+
+3.
+
+linear
+the
+
+SBUV
+
+ozone
+
+regression
+mean
+
+for
+
+HOOD
+
+for
+
+shown
+
+and
+
+0.I I
+
+' I
+
+'
+
+' [
+l"
+
+(sensitivities)
+
+intervals.
+
+estimates
+
+comparison
+
+are
+
+for
+two
+
+and
+
+Error
+five
+
+bars
+10 °
+
+lags
+
+standard
+
+latitude
+
+bands
+
+theoretical
+
+profiles
+
+,
+
+,
+
+'
+
+centered
+
+(see
+
+the
+
+on
+
+text).
+
+/
+
+_
+_
+
+"-..
+
+_--'_-)
+
+I
+
+.E_
+
+-_40
+
+"_---}_
+
+_
+
+o._
+
+......
+Tam--rot
+
+"r"
+
+_
+
+OCt, 1978 - Oct. 1980
+
+_ ._ ,-/ ,, __
+....
+
+,_"l_"_Hood
+
+mud Dou'g] la J (1909)[
+
+,.
+
+0.5
+
+E ..........
+
+'
+
+" I
+
+E
+..............
+
+o.,0.20.30.4o._0.6
+(o) Response
+Amplitude,'/.
+
+°"/ 7'1
+o._II
+I- [
+
+_,.
+
+"_"
+
+_
+
+E....
+,'J
+
+=
+=
+
+_o__
+
+""
+
+/
+
+I
+I
+
+"
+
+:"
+
+........
+
+, ,
+__'_._::_-::::_____;__
+_-'--_':-_-3
+/,- _.
+
+,o
+_
+
+-,1:-_-_1
+
+i
+
+i
+
+i
+
+J
+
+i
+
+I
+
+1
+
+_
+
+o.o, o.oz o.o3o.o, o.o_0.06o.o7
+
+_
+
+'_']l
+
+(O) ResponseAmplitude,%
+
+,o
+i
+
+N,
+
+o,.........
+
+°
+
+o,f.o.,,,.,°,.,,
+-I
+¢--+--_
+: /
+
+-(5-4-2
+
+0
+
+Z
+
+4
+
+6
+
+8
+
+I0
+
+G
+
+12
+
+-I
+
+•r
+
+- \
+
+-\
+
+(.--_
+
+_o_
+_,
+
+E+--I
+
+_
+
+E-.... )
+
+4o
+
+_--._
+|
+I
+I
+_ _ _ ,o ,i ,, ,_ ,'0
+
+(b) Phose Log, doys
+
+Figure
+
+the
+
+(after
+
+,
+
+_
+
+I-
+
+J
+
+by
+from
+
+1989)
+
+_.
+
+E
+-=
+
+determined
+deviations
+
+1-'4OCt.1979 OCt. 980 /
+1
+
+21-
+
+10_'-
+
+phase
+
+are
+
+/
+E']Nov.1980-Sep'.1982160 E
+_.._-'- Brosseur
+etol.(19871
+|
+
+,. o.s_
+
+A-
+
+time
+
+regression
+for
+
+DOUGLASS,
+
+0 2/Ozone /
+
+amplitudes
+
+indicated
+
+separate
+
+Also
+
+equator.
+
+response
+
+the
+
+4. Same
+
+as Figure
+
+3 but
+
+for
+
+SAMS
+
+temperature.
+
+81
+from
+
+the
+
+short
+
+fact
+
+(e.g.
+
+quently,
+
+that
+
+Newtonian
+
+about
+
+5 days
+
+calculated
+days
+
+3-4
+
+than
+
+a one-dimensional
+
+when
+
+to
+
+1.5
+
+temperature
+
+than
+
+is needed
+
+cooling
+
+near
+
+only
+
+phase
+
+radiative
+model
+
+provide
+
+two-dimensional
+
+with
+
+in
+
+lags
+
+for
+
+upper
+
+solar
+
+description
+
+of
+
+It therefore
+
+observed
+
+may
+
+be
+
+relatively
+
+1978).
+forcing
+
+and
+
+Conse-
+
+are no more
+
+appears
+
+photochemistry
+
+the
+
+dynamics
+
+are
+
+STROBEL,
+
+ultraviolet
+
+is considered.
+only
+
+stratosphere
+
+and
+
+27-day
+
+considers
+
+coupled
+
+the
+
+SCHOEBERL
+
+heating
+
+that
+
+a complete
+
+model
+
+lifetimes
+
+mbar;
+
+that
+
+radiative
+
+responses.
+
+At
+
+more
+
+heating
+
+a minimum,
+
+a
+
+required.
+
+References
+Aikin,
+solar
+
+A.C.
+
+and
+
+ultraviolet
+Brasseur,
+
+G.,
+
+atmosphere
+
+to
+
+903-914,
+
+S.,
+
+Res.,
+
+De
+
+Mesospheric
+
+Geophys.
+
+Rudder,
+solar
+
+ozone
+
+Res.
+
+G.M.
+
+changes
+
+I5,
+
+427-430,
+
+Lett.,
+
+Keating,
+
+ultraviolet
+
+ERL
+
+ARL-154,
+
+and
+
+M.C.
+
+variations:
+
+2.
+
+associated
+
+with
+
+27-day
+
+1986.
+
+Pitts,
+
+Response
+
+Theory,
+
+J.
+
+of
+
+Geophys.
+
+middle
+
+Res.,
+
+9_,
+
+and
+
+D.F.
+
+in solar
+
+and
+
+solar
+
+Co.,
+
+Dordrecht,
+
+p.
+
+Hood,
+
+L.
+from
+
+Geophys.
+
+The
+
+Nimbus
+
+Res.,
+
+Hood,
+changes
+
+L.,
+
+in
+
+Geophys.
+
+solar
+
+Hood,
+
+91,
+
+with
+
+for
+
+J.
+
+temporal
+
+NOAA
+
+varia-
+
+Tech.
+
+Mere.
+
+1987.
+
+variations
+
+in the
+
+Res.,
+
+Observed
+
+ozone
+
+91,
+
+solar
+
+ultraviolet
+
+6705-6721,
+
+response
+
+to
+
+1986.
+variations
+
+in
+
+1984.
+global
+
+response
+
+Ozone,
+
+Mg
+
+of
+
+C.S.
+
+280-nm
+
+Res.,
+of
+
+91,
+
+stratospheric
+
+Zerefos
+
+doublet
+
+8672-8682,
+
+upper
+
+short-term
+
+and
+
+ozone
+
+A.
+
+Ghazi,
+
+to
+eds.,
+
+as a monitor
+
+stratospheric
+responses
+
+of changes
+
+1986.
+ozone
+
+to solar
+
+at
+
+low
+
+ultraviolet
+
+latitudes:
+variability,
+
+1984.
+
+stratospheric
+flux:
+
+5264-5276,
+A.
+
+stratosphere,
+
+1985.
+
+The
+
+behavior
+
+9557-9568,
+
+L. L. and
+
+Comparisons
+
+The
+
+666-670,
+
+data
+
+ultraviolet
+
+Res.,
+
+315-317,
+
+B.M.,
+
+temporal
+
+Coupled
+
+Heath,
+
+J. Geoph_s.
+
+4 BUV
+
+89,
+
+L. L.,
+
+the
+
+Short-term
+
+MD,
+
+Geophys.
+
+Atmospheric
+
+Schlesinger,
+
+irradiance,
+
+Spring,
+
+J.
+
+B.M.,
+
+Schlesinger,
+
+and
+
+in
+
+irradiance,
+
+short-term
+
+_5,
+
+in
+
+D.F.
+
+to
+
+D.F.
+
+variations,
+
+ultraviolet
+
+Evidence
+
+and
+
+Science,
+
+spectral
+
+Silver
+
+of ozone
+
+flux
+
+Pub1.
+
+oscillations
+
+K. Pfendt,
+
+UV
+
+interpretation,
+
+Smythe,
+
+radiation,
+
+and
+
+solar
+
+Laboratory,
+
+response
+
+C.M.
+
+induced
+
+J. Barrett,
+of the
+
+The
+
+J.C.,
+
+Heath,
+
+E. Stevens,
+
+Resources
+
+R.S.,
+
+Heath,
+
+dynamically
+
+1986.
+
+Observations
+
+ultraviolet
+
+Reidel
+
+D.
+
+Air
+
+2.
+
+ultraviolet
+
+and
+
+7 measurements
+
+Eckman,
+
+Gille,
+
+solar
+
+2719-2734,
+
+R.F.,
+
+of Nimbus
+
+irradiance
+
+The
+
+9I,
+
+Donnelly,
+tions
+
+3.
+
+A.
+
+short-term
+
+Chandra,
+
+D.
+
+P. Smith,
+
+variations,
+
+1987.
+
+Geophys.
+
+solar
+
+H. J.
+
+flux
+
+ozone
+
+An
+
+analysis
+
+and
+of
+
+temperature
+Nimbus
+
+responses
+
+7 SBUV
+
+to
+
+and
+
+short-term
+
+SAMS
+
+data,
+
+J.
+
+1986.
+
+Douglass,
+
+Stratospheric
+
+radiative-photochemical
+
+responses
+
+models,
+
+to solar
+
+Proc.
+
+Quad.
+
+ultraviolet
+
+Ozone
+
+variations:
+
+Syrup.,
+
+to
+
+appear,
+
+1989.
+Hood,
+term
+
+L. L. and
+
+solar
+
+Ann.
+
+Geophys.,
+
+response
+
+Geophys.
+
+Response
+3.
+
+Rea.
+
+Schoeberl,
+
+Res.,
+M.
+
+Brasseur,
+
+in the
+1_,
+
+M.,
+
+R.
+
+of
+
+and
+
+temperature
+
+low-latitude
+
+responses
+
+response
+
+to short-
+
+measurements,
+
+Sci.,
+
+D.
+
+III,
+
+and
+
+A.
+
+to short-term
+
+De
+solar
+
+Rudder,
+
+Detection
+
+ultraviolet
+
+variations,
+
+1985.
+
+Nicholson
+
+III,
+
+D.
+
+to short-term
+
+889-902,
+and
+
+Nicholson
+
+atmosphere
+
+449-452,
+
+atmosphere
+
+J. Atmos.
+
+J.Y.
+
+middle
+
+J. Y.
+
+9_,
+
+ozone
+
+Reproducibility
+
+1988.
+
+G.P.
+
+Lett.,
+G.
+
+of middle
+
+Geophys.
+
+atmosphere,
+
+G.M.,
+of ozone
+
+Keating,
+
+Stratospheric
+
+variations:
+
+6, 525-530,
+
+Keating,
+the
+
+S. Cantrell,
+
+ultraviolet
+
+F. Young,
+solar
+
+G. Brasseur,
+
+ultraviolet
+
+and
+
+variations:
+
+A.
+
+De
+
+Rudder,
+
+1. Observations,
+
+1987.
+F.
+$5,
+
+Strobel,
+577-591,
+
+The
+1978.
+
+zonally
+
+averaged
+
+circulation
+
+of
+
+the
+
+middle
+
+of
+

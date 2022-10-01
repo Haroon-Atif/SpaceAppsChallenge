@@ -1,0 +1,2679 @@
+N90-28267
+A COMPARISON
+
+OF ISCCPAND
+
+FIRE
+
+SATELLITE
+
+,_°
+
+-
+
+CLOUD PARAMETERS
+
+Gary G. Gibson,
+Patrick
+W. Heck, David.
+F. Young
+Aerospace
+Technologies
+Division,
+Planning
+Research
+Corporation
+Hampton,
+Virginia
+23666
+Patrick
+Atmospheric
+
+Minnls
+
+and
+
+Edwin
+
+F. Harrison
+
+Sciences
+Division,
+NASA Langley
+Hampton,
+Virginia
+23665-5225
+
+Research
+
+Center
+
+i.
+
+Introduction
+One of the goals of the First ISCCP Regional
+Experiment
+(FIRE)
+is the
+quantification
+of the uncertainties
+in the cloud parameter
+products
+derived
+by the International
+Satellite
+Cloud Climatology
+Project
+(ISCCP).
+This
+validation
+effort
+has many facets
+including
+sensitivity
+analyses
+(Rossow
+et
+al., 1989) and comparisons
+to similar
+data or theoretical
+results
+with known
+accuracies.
+The FIRE provides
+cloud-truth
+data at particular
+points
+or
+along
+particular
+lines from surface
+and aircraft
+measurement
+systems.
+Relating
+these data to the larger,
+area-averaged
+ISCCP results
+requires
+intermediate
+steps using higher
+resolution
+satellite
+data analyses.
+Errors
+in the cloud products
+derived
+with a particular
+method
+can be determined
+by
+performing
+analyses
+of high-resolution
+satellite
+data over the area
+surrounding
+the point or llne measurement.
+This same analysis
+technique
+may
+then be used to derive
+cloud parameters
+over a larger
+area containing
+similar
+cloud
+fields.
+It is assumed
+that the uncertainties
+found for the
+small-scale
+analyses
+are the same for the large
+scale so that the method
+has
+been
+"calibrated
+_ for the particular
+cloud
+type; i.e., its accuracy
+is
+known.
+Differences
+between
+the large-scale
+results
+using
+the ISCCP
+technique
+and the "calibrated"
+method
+can be computed
+and used to determine
+if any significant
+biases
+or rms errors
+occur
+in the ISCCP results.
+In this
+paper,
+selected
+ISCCP results
+are compared
+to cloud parameters
+derived
+using
+the hybrid
+bispectral
+threshold
+method
+HBTH
+(Minnis
+et al., 1987)
+over the
+FIRE IFO and extended
+observation
+areas.
+2.
+
+Stratocumulus
+GOES-West
+ISCCP B3 data taken every 3 hours
+during
+July 17-31,
+1983
+analyzed
+with
+the HBTM on a 2.5 ° latitude-longltude
+grid between
+40°N and
+IO°N and 145°W and II0°W (Minnis
+et al., 1988) are compared
+to the
+corresponding
+stratified
+as
+
+CI (Rossow
+et al., 1988) results.
+The
+total,
+low, midlevel,
+and high clouds.
+
+cloud data
+The ISCCP
+
+have
+low,
+
+been
+middle,
+
+and high clouds
+are those with cloud-top
+pressures
+p > 800 mb, 800 mb _ p >
+440 mb, and
+p ! 440 mb, respectively.
+HBTM low, middle,
+and high clouds
+are those with cloud-top
+altitudes,
+z < 2 km, 2 km _ z < 6 km, and
+z _ 6
+km.
+There are two primary
+types of ISCCP cloud cover,
+VIR, determined
+with
+visible
+and infrared
+data, and IR, determined
+with
+infrared-data
+alone.
+The
+two cloud amounts
+are the same at night.
+As noted by Minnis
+et al. (1988),
+the cloud amounts,
+diurnal
+cloud variations,
+and cloud-top
+heights
+do not
+vary dramatically
+on an interannual
+basis
+over this area.
+Also,
+the cloud
+properties
+derived
+from the satellite
+near the coast are very much like
+those
+determined
+over the open ocean within
+this grid.
+Thus,
+the largescale
+average
+properties
+determined
+over smaller
+
+derived
+areas.
+
+for this region
+are similar
+to
+Initial
+validations
+of the HBTM
+
+those
+are
+
+257
+.... -,:,._,(.i'_OT F:LMED
+
+described
+1988;
+and
+Figure
+high cloud
+California
+
+elsewhere
+Minnis
+et
+
+(e.g., Minnis
+al. (1989a,b).
+
+and
+
+Harrison,
+
+i shows
+the mean HBTM-derived
+total,
+amounts.
+Total and low cloud amounts
+coast
+to a maximum
+of 91% near 20°N,
+
+1984;
+
+Minnis
+
+and
+
+Wielicki,
+
+low, and sum of middle
+increase
+from the
+130°W with a relative
+
+and
+
+maximum
+in low cloudiness
+within
+the IFO region.
+This extensive
+cover of
+low clouds
+is referred
+to as the main stratocumulus
+region.
+Significant
+amounts
+of upper-level
+clouds
+occur in the southeastern
+quadrant
+of the
+grid.
+Differences
+between
+the HBTM and VlR results
+are shown
+in Fig. 2,
+while
+the HBTM-IR
+differences
+are plotted
+in Fig. 3.
+Neglecting
+the land
+areas,
+the mean VIR total cloud amounts
+(Fig. 2a) are 2 ± 6% greater
+than
+the HBTM values.
+Most of the ISCCP clouds,
+however,
+are placed
+in the
+middle
+layer as seen in the differences
+in Figs. 2b and 2c.
+More clouds
+are
+found with the HBTM over the main stratocumulus
+region
+than with the IR
+results.
+The IR underestimates
+total cloudiness
+by 7 ± 11%.
+The differences
+in the 3-hourly
+means are examined
+in Fig. 4 for two
+large
+regions
+outlined
+in heavy
+lines in Fig. ic.
+The western
+box is
+designated
+the PAC region,
+while
+the other is the IFO region.
+Over the PAC
+region
+(Fig. 4a), there is generally
+good agreement
+between
+the results
+for
+all three
+analysis
+techniques.
+The HBTM cloudiness
+is very close
+to the IR
+results
+during
+the day but greater
+at night.
+Addition
+of the visible
+data
+increases
+the ISCCP cloud amounts
+so the VIR cloud cover exceeds
+the HBTM
+amounts
+during
+the day.
+On average,
+the HBTM and IR cloud amounts
+are the
+same, while
+the VIR cloudiness
+is greater
+than the HBTM's.
+This tendency
+for slight
+daytime
+overestimation
+by the VlR technique
+(relative
+to the
+HBTM)
+and underestimation
+with the IR method
+is accentuated
+near the coast
+over the IFO region
+(Fig. 4b).
+There,
+the IR diurnal
+range
+is much smaller
+than the HBTM's
+with a 20% underestimate
+in total cloudiness
+at night and
+more than 10% during
+the day.
+The VlR data only underestimate
+the cloud
+cover
+during
+the night
+leading
+to an overall
+cloud amount
+deficit
+of 10%.
+The overestimation
+of ISCCP cloud-top
+heights
+over the stratocumulus
+region
+is probably
+due to the use of low-resolution
+NMC soundings
+over areas
+with strong
+boundary-layer
+inversions
+(Minnis
+et al., 1989b).
+The VIR cloud
+amounts
+agree quite well with the HBTM results
+primarily
+because
+of the
+effects
+result
+
+of underestimation
+is consistent
+with
+
+at
+the
+
+night and overestimation
+during
+the day.
+Landsat
+analyses
+of Parker
+and Wielicki
+
+This
+
+(1989).
+The differences
+between
+the results
+over the PAC and FIRE regions
+are attributable
+to the variations
+in contrast
+between
+the clear-sky
+and
+cloudy
+temperatures.
+Near the coast,
+the clouds
+are lower than those
+further
+west so fewer pixels
+are cold enough
+to pass the 3-K threshold.
+Diurnal
+variations
+in cloud amount
+determined
+with either
+the VIR or IR
+techniques
+should
+be used carefully.
+While both techniques
+appear
+the correct
+times
+for maximum
+and minimum
+cloudiness,
+there may be
+significant
+discrepancies
+in the diurnal
+ranges
+and the variations
+cloudiness
+between
+the extrema.
+3.
+
+to give
+in
+
+Cirrus
+
+Another
+method
+for validating
+an algorithm
+is to apply it directly
+to a
+high-resolutlon
+satellite
+data set corresponding
+to a cloud-truth
+set.
+The
+complete
+ISCCP algorithm
+was not available
+for this study so an attempt
+is
+made here to simulate
+its relevant
+characteristics.
+The adjustment
+of cloudtop temperature
+to account
+for the infrared
+semi-transparency
+relies
+on a
+
+258
+
+relationship
+
+between
+
+respectively.
+value
+
+In
+
+of
+
+the
+
+the
+
+Tv
+
+cloud
+
+is
+
+the
+
+ISCCP
+
+to
+
+from
+
+by
+
+the
+
+and
+
+infrared
+
+algorithm,
+
+determined
+
+reflectance
+
+contributions
+
+visible
+
+Tv
+
+the
+
+-
+
+2_ e
+
+observed
+
+accounting
+
+for
+
+reflectance.
+
+optical
+(Rossow
+
+et
+
+reflectance
+
+the
+
+The
+
+depths,
+
+surface
+
+cloud
+
+_v
+al.,
+
+by
+
+and
+
+and
+
+re,
+
+1988).
+
+first
+
+The
+
+isolating
+
+atmospheric
+
+reflectance
+
+is
+
+related
+
+to
+v
+
+using
+
+the
+
+results
+
+scattering
+distribution
+
+phase
+with
+
+determined,
+the
+
+used
+
+compared
+
+to
+
+The
+
+the
+
+et
+
+of
+
+Heck
+
+ISCCP
+
+the
+
+area
+
+al.
+
+et
+
+bidirectional
+
+used
+
+which
+
+was
+
+_m.
+
+_v
+
+-
+
+The
+
+2_e"
+
+temperature
+
+Otherwise,
+all
+This
+simulated
+used
+a
+
+by
+
+Heck
+
+other
+ISCCP
+
+et
+
+reference
+
+uncertainties
+
+in
+in
+
+Comparisons
+
+the
+
+and
+
+the
+was
+
+The
+
+same
+then
+used
+
+from
+
+the
+
+simulated
+
+The
+
+range
+
+of
+
+Fig.
+
+5
+
+as
+
+GOES
+CI
+results
+lower
+
+heights
+
+the
+
+envelope
+
+observed
+
+The
+simulated
+cirrus.
+
+ISCCP
+
+of
+
+results
+and
+Other
+
+function
+preliminary
+
+and
+
+shown
+actual
+cirrus
+is
+
+observed
+simulated
+
+cloud-top
+
+heights
+
+adjusted
+
+in
+ISCCP
+IFO
+
+on
+
+Fig.
+
+km
+
+lower
+
+the
+
+studies
+
+is
+
+adding-doubllng
+
+model
+
+phase
+radius
+of
+
+individually
+pixel
+
+using
+
+temperatures.
+
+used
+by
+Heck
+et al.
+to the
+lidar-satellite
+et
+
+heights
+
+al.
+
+(1989).
+data
+
+are
+
+(1989)
+
+to
+
+and
+
+the
+
+heights
+crosses
+
+in
+
+ISCCP
+cloud-top
+and
+4.7
+km
+lower
+leads
+
+to
+
+Average
+87.5°W
+and
+
+used
+
+as
+
+determine
+
+a
+
+lidar
+
+Figs.
+
+5a
+
+heights
+than
+
+are
+2.8
+the
+lidar
+
+rms
+
+error
+
+of
+
+for
+shown
+
+the
+in
+
+heights
+
+large
+
+and
+
+cloud
+heights
+90°W
+are
+also
+are
+
+27th.
+
+The
+
+other
+
+the
+
+two
+
+are
+
+1.7
+
+than
+
+km
+
+the
+
+taken
+
+lower
+
+than
+
+from
+
+the
+
+for
+that
+
+of scattering
+conclusions.
+
+cases
+
+the
+
+fall
+
+clouds,
+reference
+
+heights.
+
+consistency
+
+results
+
+indicated
+
+three
+low-level
+
+cloud-top
+
+some
+
+height
+have
+
+an
+model
+
+a Mie-scattering
+an effective
+
+Without
+
+not
+a good
+representation
+findings
+support
+those
+
+of
+
+Averages
+from
+the
+0.5 ° regional
+the
+reference
+heights.
+The
+two
+
+5 demonstrate
+
+cloud-top
+
+an
+
+cloud-
+
+modifications
+
+-dependent
+
+v
+
+each
+
+average
+
+some
+
+adjusted
+
+cloud-top
+
+data.
+
+heights
+
+2.5
+
+T
+
+as
+
+differences
+
+27 and
+28,
+1986.
+(1989)
+are used
+as
+
+were
+
+ISCCP
+
+cloud-center
+
+phase
+These
+
+The
+
+cloud
+
+within
+the
+
+circles.
+
+data
+for October
+of Heck
+et al.
+
+in
+is
+
+the
+
+for
+
+an
+
+is
+
+method.
+
+shown
+
+comparison.
+45°N
+and
+
+to
+
+Instead
+
+of
+
+cloud-top
+
+simulated
+heights
+
+3.4 km
+in the
+cloud-center
+height
+2.5 ° region
+bounded
+by
+42.5°N
+and
+
+with
+
+cloud-top
+Heck
+
+empirical
+
+are
+
+On average,
+the
+lidar
+cloud-center
+
+altitudes.
+
+by
+
+ISCCP
+
+altitudes
+
+obtain
+
+adjusted
+
+lldar-derlved
+
+results
+
+set
+
+using
+with
+
+as
+those
+applied
+
+size
+_
+v
+
+adjusted
+
+pressures
+
+a
+
+results
+
+is
+
+is
+
+lower,
+
+here
+
+the
+
+a droplet
+value
+of
+
+pixel
+
+scheme.
+
+pixel
+
+a
+
+if
+
+model,
+
+the
+
+on
+
+temperature
+
+to
+
+used
+
+from
+
+manner
+
+the
+
+is
+
+cloudy
+
+same
+
+cloud-top
+
+5b,
+respectively.
+km
+lower
+than
+the
+cloud-top
+
+(1989).
+the
+
+of
+
+cloud-center
+
+each
+
+based
+
+corrected
+
+interest
+
+Liou,
+1989)
+distribution
+
+constructed
+
+steps
+are
+algorithm
+
+al.
+
+set
+
+of
+are
+
+of
+
+from
+
+given
+
+and,
+
+reflectance
+
+(Takano
+and
+for
+a droplet
+
+Averages
+
+a
+
+The
+
+adjustment
+
+constructed
+
+of radiative
+transfer
+function
+determined
+
+clouds
+
+corresponding
+
+(1989)
+
+cloud-height
+
+cloud
+
+for
+
+temperature
+or
+
+of
+
+Mie
+theory
+using
+I0 _m.
+Once
+the
+
+(1989).
+
+temperatures
+
+empirical
+
+I0
+
+al.
+
+tropopause
+
+averaged
+for
+or altitude.
+
+the
+
+here
+
+model
+
+temperature
+
+Heck
+
+The
+
+approach
+
+simulate
+
+transfer
+
+cloud
+
+by
+
+value.
+
+pixel
+are
+then
+top
+temperature
+
+to
+
+radiative
+
+observed
+
+manner
+
+tropopause
+
+a
+
+function
+determined
+from
+an equivalent
+radius
+of
+
+the
+
+same
+
+then
+
+of
+
+between
+
+the
+
+semitransparent
+
+the
+
+Mie
+in
+
+scattering
+cirrus
+
+clouds.
+
+259
+
+REFERENCES
+
+Heck,
+
+P.
+
+W.,
+
+G.
+
+derived
+Annual
+Minnis,
+and
+
+P.,
+
+and
+
+P.,
+
+E.
+
+F.
+
+P.,
+
+and
+
+J,
+
+P.,
+
+1987.
+
+P.,
+
+derived
+July
+
+and
+
+1988:
+
+Harrison,
+
+and
+
+Science
+W.
+
+Falrall,
+
+and
+
+at
+
+FIRE
+
+P.,
+
+D.
+
+F.
+
+Young,
+
+R.
+
+cloud
+
+F.
+
+Res,,
+of
+
+I:
+
+cloud
+
+amounts
+
+derived
+
+time
+GOES
+
+11-15,
+
+for
+
+July
+
+1983-
+
+195-199.
+
+Intercomparisons
+
+observations
+
+over
+
+Meeting/ASTEX
+
+a
+
+4073.
+
+9385-9403.
+
+from
+
+1989a:
+
+the
+
+using
+
+4051-
+
+Extended
+
+July
+
+over
+
+data
+
+92,
+
+93,
+
+CO,
+
+cloud
+
+Part
+
+cover
+
+ISCCP
+
+1988:
+
+Young,
+
+surface
+
+Annual
+
+Davies,
+
+height
+
+satellite
+
+measurements.
+
+Workshop,
+
+Monterey,
+
+L.,
+
+and
+
+B.
+
+Presented
+CA,
+
+A.
+
+M.
+
+San
+
+Workshop,
+
+Blaskovic,
+
+variations
+
+July
+
+Wiellcki,
+
+of
+
+GOES-
+
+Nicolas
+Monterey,
+
+CA,
+
+methods.
+
+Presented
+
+Monterey,
+
+CA,
+
+and
+
+determined
+at
+
+FIRE
+
+B.
+
+A.
+
+from
+
+Annual
+
+Albrecht,
+
+surface
+
+1989b:
+
+and
+
+Meeting/ASTEX
+
+10-14.
+1989:
+
+retrieval
+
+W.
+
+B.,
+
+Satellite
+data.
+Rossow,
+
+B.,
+
+variations
+
+Y.
+
+Single
+crystals.
+
+C.
+
+Report,
+L.
+
+J.
+and
+
+Garder,
+
+K.
+
+C.
+
+Garder,
+
+N.
+
+2,
+
+78
+and
+
+satellite
+
+Clim,,
+
+Lu,
+
+of
+
+Annual
+
+and
+
+satellite
+
+A.
+
+Meeting/ASTEX
+
+based
+
+cloud
+
+Walker,
+
+1988:
+
+(ISCCP),
+
+Workshop,
+
+International
+
+Documentation
+
+of
+
+cloud
+
+pp.
+A.
+
+A.
+
+radiance
+
+Lacis,
+
+1989:
+
+measurements.
+
+Global,
+Part
+
+seasonal
+I:
+
+cloud
+
+Sensitivity
+
+of
+
+419-418.
+
+Liou,
+
+1989:
+
+and
+
+optical
+
+Atmos,
+
+FIRE
+
+Project
+
+August,
+
+scattering
+J.
+
+P.
+
+Climatology
+
+from
+
+analysis.
+Takano,
+
+L.
+Cloud
+
+WCRP
+W.
+
+July
+
+at
+
+Comparison
+
+10-14.
+
+Rossow,
+
+260
+
+Cloud
+
+1983
+
+stratocumulus
+Vail,
+
+regional
+
+10-14.
+
+Stratocumulus
+
+Parker,
+
+D.
+
+and
+
+of
+data,
+
+Res.,
+
+Young,
+
+Workshop,
+
+parameters
+
+1987:
+
+Comparison
+
+F.
+
+FIRE
+
+993-1011.
+
+July
+
+Geophys.
+
+at
+
+10-14.
+
+GOES
+
+J.Geophys,
+
+marine
+
+Team
+
+Presented
+
+J,
+D.
+
+California
+
+from
+23,
+
+from
+
+Wielicki,
+
+July
+
+Satellite
+
+Presented
+
+variability
+
+Gibson,
+
+method.
+
+data.
+
+cloud
+
+G.
+
+1989:
+
+study.
+
+CA,
+
+Meteor,,
+
+G.
+
+Harrison,
+
+case
+
+derived
+
+derived
+
+Landsat
+
+F.
+
+Diurnal
+
+threshold
+A.
+
+E.
+IFO
+
+Monterey,
+
+Appl,
+
+Pacific
+
+of
+
+C.
+
+Island.
+
+Clim,
+
+F.
+
+FIRE
+
+FIRE
+
+1984:
+
+and
+
+E.
+
+and
+
+the
+
+parameters
+
+Harrison,
+
+B.
+
+GOES
+
+Minnls,
+
+Harrison,
+
+bispectral
+
+observations
+
+Minnis,
+
+F.
+
+radiative
+
+equatorial
+
+using
+
+Minnls,
+
+P.
+during
+
+Workshop,
+
+method.
+
+hybrid
+
+Minnis,
+
+E.
+
+clear-sky
+
+eastern
+
+Minnis,
+
+Gibson,
+fields
+
+Meeting/ASTEX
+
+Analysis
+Minnis,
+
+G.
+
+cloud
+
+Sci,,
+
+46,
+
+Radiative
+properties
+3-20.
+
+transfer
+of
+
+in
+
+oriented
+
+cirrus
+
+clouds:
+
+hexagonal
+
+I.
+ice
+
+(b) LOW
+'
+
+:
+
+_./:
+
+(c) MID
+"
+
+:
+
+'
+
+I_
+
++ HIGH
+
+i_S
+.+,,
+
+;I',
+
+I',
+
+\_/'. J+ .,//#/
+
+,+L_
+-i ._\_,C/
++ _i{--,,"F..._._,:..o._,,./j)$,>N-,:q_l. '_
+,---i7 .---o
+tL_ ___":"
+_'S_
+:"
+._4:-:_-_-_-//(_b+1
+"
+_,l__...,-h T, ,. : ,
+_ ..........._.._
+
+/ ,<_, -+ !1<_I ....
+,:'<_ Ih_ _
+:_..-,:..c._..._..)._l_t.,,
+J
+I\_}+'/Ji
+
+'
+
+_I i
+
+:+,i° _")i_,J
+
+-r---!---_--_.;./++_
+
+,. _s_l-,__L_,.,_. . I- ;)-_
+_
++ +_ATYr.C{
+,:..,,..- ,+. _, ]
+,
+ill
+
+---i
+
+i .........
+
+,++.+
+
+"_ .....
+
+elll
+_? ES_T
+
+Fig.
+
+1. Cloud
+
+amounts
+
+ID
+
+I_
+
+(1) derived
+
+(b)
+
+ITU
+
+DK
+
+with
+
+_?_ST
+
+HBTM
+
+for July
+
+17-31,
+
+ID NG
+
+ITU
+
+D£
+
+1983.
+
+LOW
+
+(c)
+
+MID
+
++ HIGH
+
+:_:_ ,x_
+L
+
+.$5
+
+Oo
+"n_O
+
+:
+
+80
+
+/ i
+-,k
+:
+
+_-_, ¢_
+;
+
+-- __
+
+_0
+r'rn
+
+_ ..............
+fo
+
+1,14
+
+il ,II2
+
+l,,i6
+
+1,10
+IA'ST
+
+_0
+O_
+
+Fig.
+
+2.
+
+Differences
+
+--_u_l
+
+.........+%_,_:;_/
+
+: -;_.'> _,, ":
+,, :.(>
+"-
+
+_/.__
+
+O
+
+_!__
+
+between
+
+HBTM and
+
+lii_
+IDNGITUDE
+
+VIR
+
+cloud
+
+I'JlO
+
+I'l z
+
+,
+
+i
+
+i
+
+r'
+
+I10
+
+•A'5"F
+Wt_ffUD_
+
+amounts
+
+(I)
+
+for July
+
+17-31,
+
+1983.
+
+I
+
+.
+
+i
+,
+
+_
+
+i"i _2/,_
+
+"_ -_
+
+" "
+
+I_11
+
+f_
+
+_?
+
+tlU
+
+',"
+
+'
+
+, ._
+
+f_
+
+fZB
+
+f,U
+
+fli
+
+tie
+
+WA_T I_A_ITUD£
+Fig.
+
+3.
+
+Same
+and
+
+as
+
+Fig.
+
+2
+
+total
+
+IR
+
+except
+
+for
+
+HBTM
+
+amounts.
+
+cloud
+
+100
+(a)
+
+--
+
+80
+60
+
+:AC
+
+_GION
+
+q
+
+---..
+
+IOOF
+
+(b)IFO
+
+I_CION
+
+60
+
+s
+
+_..
+
+f'r
+
+" _'''°"
+
+qO--
+
+i
+
+--
+
+° •
+
+"" _ _"*
+
+_
+
+qO
+(:3
+_
+
+o
+-J
+u
+
+---
+
+20--
+
+iSCCP
+
+•-..-ISCCP
+0
+
+(VIS+IR)
+
+o
+
+(IR)
+
+,--,
+
+i
+0
+
+I
+
+I
+
+12
+
+6
+
+20 --
+
+18
+
+----ISCCP
+•.... ISCCP
+
+o
+
+I
+
+0
+
+(a)
+
+4.
+
+Diurnal
+
+('VIS+IR)
+(IR)
+
+I
+
+6
+
+LOCAL TIME (HR}
+F£g.
+
+HBI"M
+
+12
+
+18
+
+L:_
+
+LOCAL TIME (HR}
+
+varlat£ons
+
+in
+
+mean
+
+total
+
+cloudlness
+
+for
+
+July
+
+17-31,
+
+1986.
+
+I;LO i2.0 F
+
+(b)
+
+/
+
+'°:,E
+
+10.8
+%6
+E:
+m
+•
+
+_,
+blJ
+
+•_
+
+°
+
+.
+
+7.2
+
+-r
+
+C',.o
+
+$.0
+
+_-
+
+"/.2
+
+o _?:
+
+-
+
+q.O
+
+9
+|
+
+i
+
+2-q
+3.$
+
+"1
+
+N
+•
+
+1
+ql,l
+
+•
+
+REFERENCE CLOUD
+Fig.
+
+5.
+
+Comparison
+
+J
+I.O
+
+•
+
+I
+?-it
+
+CENTER
+of
+
+i
+
+|
+ll.l
+
+•
+
+l
+!-I
+
+HEIGHT
+slmulated
+
+.
+
+I
+lO.l
+
+•
+
+I
+IlO
+
+0
+
+1.2
+
+2._
+
+].g
+
+REFERENCE
+
+(Km
+and
+
+actual
+
+ISCCP
+
+cloud
+
+_.|
+CLOUO
+
+heights
+
+S.O
+
+?-i
+
+8._
+
+$.8
+
+TOP HEIGHT
+to
+
+10.8
+
+re£erence
+
+r
+
+262
+
+.........
+
+lI.0
+
+(KM!
+data.
+
+_
+
+I
+l.li
+
+_
+
+•
+
+_
+
+I
+1.N&
+
+_
+
+,
+
+i
+
+I
+1.1
+
+ii
+
+1
+
+•
+
+•
+
+1
+
+O
+
+|:S
+

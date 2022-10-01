@@ -1,0 +1,1975 @@
+N90-28238
+Spectral
+
+Absorption
+from
+In Situ
+
+of Marine
+Stratocumulus
+Clouds
+Cloud
+Radiation
+Measurements
+MICHAEL
+
+Laboratory
+
+for
+
+Atmospheres,
+Greenbelt,
+LAWRENCE
+
+Department
+
+1.
+
+of
+
+D. KING
+
+Goddard
+Space
+Flight
+MD 20771,
+USA
+
+Center,
+
+NASA,
+
+F. RADKE AND PETER V. HOBBS
+
+Atmospheric
+Seattle,
+
+Sciences,
+University
+WA 98195,
+USA
+
+of
+
+Washington,
+
+Introduction
+A multiwavelength
+
+angular
+
+field
+
+at each
+
+2.3 _m.
+
+wavelength
+
+similarity
+fractive
+
+and
+
+were
+
+ington
+(FIRE).
+
+obtained
+
+off
+
+the
+
+2.
+
+Results
+On
+
+ER-2
+131A
+
+10 July
+
+aircraft,
+was
+
+surements
+above
+function
+central
+
+from
+
+coast
+
+1987
+
+the
+
+the
+
+primarily
+deep
+
+portion
+
+in very
+
+making
+Figure
+(time)
+
+of one
+
+flew
+cloud
+
+the
+
+cloud
+
+parame-
+
+flight
+
+from
+
+the
+
+values
+of water
+
+of the
+vapor.
+
+University
+
+the
+
+for
+
+expected
+re-
+
+obtained
+for a 50 km
+1987.
+These
+observa-
+
+the
+
+theoretically
+from
+
+using
+parame-
+
+of WashExperiment
+similar-
+
+from
+the
+aircraft.
+
+this
+
+dropmea-
+
+of clean
+
+case
+
+cloud
+The
+
+mar-
+
+1987
+
+a tightly
+flying
+radiation
+
+layer,
+
+1 illustrates
+the
+for measurements
+
+of these
+
+results
+10 July
+
+agreement
+
+on 10 July
+
+C-131A
+
+which
+
+accepted
+function
+
+of the
+
+of the cloud
+we obtained
+
+of the First ISCCP
+Regional
+of the experimentally-derived
+
+close
+
+of continually
+
+within
+
+clouds.
+of distance
+
+from
+
+the
+
+at discrete
+
+similarity
+
+optical
+thickness
+measurements,
+
+of California
+
+that expected
+simultaneously
+
+observations
+
+consisting
+
+layer
+distribution
+
+the
+
+measurements
+
+aircraft
+as part
+a comparison
+
+are
+
+to measure
+
+a cloud
+
+to determine
+
+was calculated
+using
+and the transmission
+
+parameter
+spectrum
+with
+size distribution
+measured
+theory
+
+used
+
+angular
+
+present
+an analysis
+of the
+stratocumulus
+clouds
+on
+
+Convair
+C-131A
+We will present
+
+surements
+and
+itime
+clouds.
+
+within
+
+relative
+
+estimate
+of the
+to the radiation
+
+thermodynamic
+
+this paper,
+we
+of clean marine
+
+deep
+The
+
+been
+
+albedo,
+of the cloud
+at that wavelength
+In addition
+to the spectral
+similarity
+
+parameter
+spectrum
+index
+of liquid
+water
+
+In
+section
+
+has
+
+is used
+
+scattering
+method.
+
+analysis
+provides
+a good
+the aircraft.
+In addition
+
+microphysical
+
+tions
+
+radiation
+
+0.5 and
+
+and hence
+single
+diffusion
+domain
+
+ter, the
+beneath
+
+radiometer
+
+of scattered
+
+between
+
+intensity
+ter,
+the
+
+scanning
+
+distribution
+
+wavelengths
+
+ity
+let
+
+Derived
+
+lines.
+
+coordinated
+legs
+and
+
+whereas
+
+mission
+
+of 145 km
+cloud
+
+microphysics
+
+the
+
+ER-2
+
+zenith
+and
+obtained
+
+nadir
+inside
+
+These
+
+data,
+
+with
+
+in length.
+was
+
+flying
+
+the
+
+The
+
+C-
+
+meawell
+
+intensities
+as a
+clouds
+near
+the
+
+corresponding
+
+to ob-
+
+7O
+
+4O
+|
+
+10 JULY 1987
+;L= 0.503 i._n
+
+3O
+
+L
+¢,)
+
+T
+E
+::L
+l
+
+E
+0
+
+2O
+E
+
+CO
+Z
+
+_- 10
+__z
+
+0
+
+!
+
+0
+
+_
+
+|
+
+10
+
+|
+
+20
+DISTANCE
+
+Fig.
+
+1.
+
+Zenith
+
+measurements
+obtained
+
+and
+
+nadir
+
+intensities
+
+inside
+
+obtained
+
+the clouds
+
+at a wavelength
+
+servations
+= 0.503
+
+X = 0.503
+
+obtained
+_m, show
+
+with
+that
+
+the cloud
+the zenith
+
+A careful
+flight
+line
+
+main,
+
+by
+
+as
+
+evidenced
+
+tained
+
+too
+
+nated
+
+by
+
+near
+
+The scaled
+of the clouds
+scan
+1989
+
+the
+
+1 that
+Figure
+
+where
+
+we
+
+ing the asymmetry
+_tm) and derived
+scan
+
+lines
+
+scribed
+analysis
+the
+28.0
+
+80
+
+in King
+were
+
+low
+
+zenith
+
+top,
+
+so
+
+solar
+
+and
+
+optically
+that
+
+As expected,
+
+were
+
+flight
+
+track
+
+for
+were
+
+the
+
+scaled
+
+1, 611
+
+zenith
+
+intensity
+
+et al. 1986) at
+quite
+uniform
+that the
+a diffusion
+
+data
+do-
+
+measurements.
+
+measurements
+
+the
+the
+
+aircraft
+diffusion
+
+optical
+
+passed
+
+Among
+thin
+
+(King
+were
+
+were
+
+in a
+ob-
+
+contami-
+
+radiation.
+
+between
+applying
+
+converted
+
+et al. (1989).
+the
+
+measurements
+
+28.0 km, though
+probably
+a diffusion
+domain,
+were
+
+satisfied
+the diffusion
+2 illustrates
+the optical
+
+in Fig.
+
+the
+
+These
+
+Fig. 1 suggests
+thin to have
+
+nadir
+
+24.9 and
+to have
+
+scans
+
+contaminated
+
+the measurements
+
+flight
+level
+and the base
+domain
+method
+to all
+
+domain
+criteria
+(see King et al.
+thickness
+_c - • as a function
+of
+
+thickness
+
+factor g = 0.8579
+applicable
+for the measured
+cloud
+droplet
+
+presented
+
+measurements
+km).
+
+cloud
+
+along
+
+radiometer
+intensities
+
+examination
+of
+are too optically
+
+optical
+thickness
+was derived
+by
+
+lines of Fig.
+for details).
+
+distance,
+
+very
+
+transmitted
+
+of distance
+
+9:41 and 9:51 PDT.
+
+absorption
+and nadir
+
+measurements
+near
+optical
+thickness
+
+directly
+
+50
+
+(kin)
+
+as a function
+between
+
+40
+
+I_m.
+
+within
+these
+clouds.
+near
+the start
+of the
+Furthermore,
+the
+cloud
+of sufficient
+
+!
+
+30
+
+the
+
+those
+
+to optical
+
+restrictive
+
+by
+
+beginning
+the sun
+
+between
+
+11.5
+
+criteria
+
+excluded
+of the
+
+time
+
+19.4
+
+from
+
+deour
+
+km
+
+series
+
+and
+
+of 24.9
+
+(at distances
+and
+
+us-
+
+(_. = 0.503
+Of the 1000
+
+selection
+
+measurements
+
+at the
+
+thickness
+
+to this wavelength
+size distribution.
+
+and
+
+that had
+
+a
+
+25
+
+I
+
+I
+
+1
+
+I
+
+10 JULY 1987
+;t = 0.5O3 i.u'n
+
+2O
+I
+
+O0
+O0
+W
+Z
+
+15
+
+w"
+
+_o
+-r
+I--_J
+
+10
+
+o
+p--
+
+0
+
+0
+
+(3
+
+1I0
+
+i
+
+I
+20
+
+_
+
+DISTANCE
+Fig.
+
+2.
+
+diffusion
+
+Optical
+domain
+
+relatively
+
+low
+
+to a region
+
+thickness
+
+beneath
+
+the
+
+I
+30
+
+i
+
+aircraft
+
+for
+
+I
+40
+
+(krn)
+all measurements
+
+zenith
+
+intensity
+
+of large
+
+optical
+
+and
+
+relatively
+
+thickness
+
+high
+
+beneath
+
+nadir
+
+reflectivity
+and optical
+thickness
+scan at a specified
+wavelength,
+
+1)/
+
+I(%
+
+solely
+
+1) is reduced
+
+formulas
+
+summarized
+
+intensity
+relationship
+
+ratio
+
+in King
+
+parameter
+
+for
+
+3 illustrates
+
+g and
+
+parameter
+and 2.20
+
+7 that
+
+et al.
+
+the
+
+a given
+the
+
+we
+
+measurement
+
+similarity
+
+(or
+the
+
+of similarity
+
+(1989),
+
+intensity
+
+satisfy
+
+the
+
+single
+
+scattering
+
+were
+
+parameter
+thus
+
+able
+
+and match
+to derive
+
+and
+
+parameter
+
+albedo
+
+c00.
+
+intensity
+field
+in channels
+tained
+in this time interval
+in contrast
+
+to 611
+
+s.
+
+The
+
+the
+
+wavelength.
+
+tendency
+especially
+effective
+
+to a decrease
+in the
+to the use of a filter
+
+first
+
+seven,
+
+the
+
+this functional
+value
+of the
+
+a
+
+of
+
+distance
+
+for
+
+The similarity
+paof the asymmetry
+for
+
+the
+
+similarity
+
+noticeable
+at 1.64
+radius
+of the cloud
+absorption
+content
+wheel
+to measure
+
+8-13,
+diffusion
+domain
+measurements
+for between
+71 and 87 scans,
+depending
+for
+
+Utilizing
+
+to calculate
+
+as a function
+
+to decrease
+with increasing
+distance,
+_m, is due to a modest
+decrease
+in the
+distance
+and not
+themselves.
+Due
+
+correspond
+
+scaled
+optical
+thickintensity
+ratio
+I(z, -
+
+of the CAR determined
+in this manner.
+as s = [(1 - co0)/(1 - (00g)] 1/2, is a function
+
+droplets
+over this
+the cloud
+droplets
+
+position,
+nels.
+
+to a function
+
+as a function
+of similarity
+parameter
+with
+the
+measured
+intensity
+ratio
+
+four wavelengths
+rameter
+s, defined
+factor
+
+Fig.
+
+the aircraft.
+
+Given
+the surface
+of an individual
+
+Figure
+
+of
+
+criteria.
+
+ness)
+
+similarity
+
+50
+
+•
+
+simultaneously
+
+of
+the
+
+were
+obon filter
+
+sampled,
+
+chan-
+
+81
+
+0,4
+
+i
+
+I
+
+i
+
+i
+
+i
+
+10 JULY 1987
+9:31 - 9:41 PDT
+
+2.20 i,u'n
+
+0"3 f
+
+<=
+
+° I.
+n
+
+t
+
+0.2
+
+1.20
+
+r.,o
+
+0.1
+
+oz44 _
+0.0
+
+if
+
+,
+
+,
+
+0
+
+,
+
+,
+
+10
+
+.
+
+,
+
+20
+
+Fig.
+
+3.
+
+Similarity
+
+larity
+
+parameter
+
+as a function
+
+Figure
+4 illustrates
+parameter
+for
+on
+
+unique,
+due
+gle scattering
+
+lustrates
+
+all
+
+the mean
+thirteen
+
+10 July
+
+and standard
+channels
+of
+
+1987.
+
+to the
+
+Although
+
+calculations
+
+a cloud
+
+composed
+
+experimental
+of the
+
+wave|engths
+
+four
+
+of
+
+the
+
+cloud
+
+droplet
+
+size
+based
+the
+then
+
+LOWTRAN
+
+the
+
+the
+
+deviation
+CAR
+
+of the
+obtained
+
+spectral
+simifrom
+aircraft
+
+from
+
+s to ¢00 is not
+
+conversion
+
+distribution.
+on
+
+results
+
+obtained
+
+parameter
+
+droplets
+
+only
+
+(dashed
+curve).
+of Mie theory
+Wiscombe
+1980)
+The
+
+assuming
+
+4, is strictly
+applicable
+at k = 0.754 _tm.
+following
+these
+measurements,
+the strato be 440 m thick with
+a cloud
+base at
+
+similarity
+
+of water
+
+saturated
+vapor
+at 10.3°C
+were
+based
+on a combination
+theory
+(Nussenzveig
+and
+
+were
+
+for
+
+to the moderate
+spectral
+variation
+of g, we have
+provided
+a sinalbedo
+scale in this figure
+as a matter
+of convenience.
+This scale,
+
+In addition
+
+plying
+absorber
+
+50
+
+(kin)
+
+of distance
+
+shown
+on the right-hand
+side of Fig.
+Based
+on profile
+ascents
+and descents
+tocumulus
+cloud
+layer was determined
+490 m.
+
+were
+
+40
+
+radiometer.
+
+measurements
+
+for
+
+,
+
+30
+
+DISTANCE
+
+absorption
+
+,
+
+the
+
+water
+
+cloud
+
+5 (Kneizys
+
+for
+et
+
+this
+
+cloud
+
+al.
+
+1980).
+
+curve)
+
+computations,
+
+to be composed
+
+layer
+
+Fig.
+
+4 il-
+
+of wavelength
+and
+
+at
+
+82
+, -I .)
+
+:z
+
+on
+
+of saturated
+
+scaling
+vapor
+
+droplets
+
+plus
+
+the
+
+other
+
+vapor
+
+hand,
+and
+
+ap-
+
+to obtain
+an equivalent
+transmission
+functions
+
+a resolution
+
+absorption
+
+__
+
+CAR,
+
+The water
+droplet
+computations
+and complex
+angular
+momentum
+applied
+to the measured
+cloud
+
+vapor
+
+The
+
+the
+
+as a function
+(solid
+
+necessary
+pressure
+and temperature
+amount
+(w = 0.41 g cm-2).
+The water
+computed
+
+using
+
+optical
+
+of
+
+20
+depths
+
+cm-1
+thus
+
+using
+ob-
+
+1.0
+0.9
+
+1
+
+<
+
+1
+
+I
+
+|
+
+,
+
+_
+
+i
+
+0.0
+
+10 JULY 1987
+9:31 -- 9:41 PDT
+
+CALCULATIONS
+FOR
+DROPLETS
+---DROPLETS
++ VAPOR
+
+0.8
+
+IT
+LU
+kW
+
+'
+
+I
+
+MEASUREMENTS
+FROM CAR
+
+O'1
+
+I__
+
+0.7
+
+Z
+
+u)
+
+l
+l
+I
+
+0.6
+
+0.9
+
+C3
+
+O2
+
+--(
+m
+
+<
+(3-
+
+0.5
+
+t--
+
+¢¢
+J
+
+if)
+
+rrl
+
+(,')
+
+0.4
+
+t
+
+,f
+
+,
+
+\
+
+t-
+
+//
+
+ill
+k)
+
+(13
+
+0.9'.1
+
+o'
+c.
+
+02
+t
+
+I
+
+'1 ?, I L I _L
+°y
+
+(). I
+
+0.999
+(1 9999
+I. 0001()
+
+o.0
+01.2
+
+1.o
+
+(1.5
+
+WAV|iLILN(;
+Fig.
+
+4.
+
+Calculations
+
+of the
+
+similarity
+
+20
+
+15
+
+2.5
+
+1tt (i,ml
+
+parameter
+
+as a function
+
+of wavelength
+
+for water
+
+droplets alone (solid line) and drops plus vapor (dashed
+line) for the cloud droplet size distribution and water vapor conditions
+of the marine stratocumulus
+cloud of 10 July 1987. The single
+scattering
+albedo
+The measurements
+are averages
+
+scale is valid at X = 0.754 I.tm, where the cloud
+derived
+from the cloud absorption
+radiometer
+
+of the similarity
+
+the 50 km section
+
+parameter
+
+derived
+
+by applying
+
+asymmetry
+factor g = 0.848.
+(solid circles with error bars)
+
+the diffusion
+
+domain
+
+method
+
+to
+
+of this cloud.
+
+tained
+were combined
+with the corresponding
+optical
+droplets, where we further assumed
+that the total cloud
+16 at a wavelength
+of 0.754 p.m.
+
+properties
+for cloud
+optical thickness 're =
+
+The very close agreement
+between
+the measurements
+and theory shows
+that, in this case, the absorption
+of solar radiation
+by the clouds can be accounted for largely by the droplets and that the large drops (drizzle)
+did not
+produce
+significant
+"anomalous
+absorption."
+Based on these results we are
+forced to conclude
+that "anomalous
+absorption,"
+as discussed
+by Twomey
+(1976), Davies et al. (1984) and Stephens and Tsay (1989), was not significant in
+the marine stratocumulus
+clouds that we sampled on 10 July 1987.
+
+83
+
+REFERENCES
+Davies,
+R., W. L. Ridgway
+and K. E. Kim,
+radiation
+in cloudy
+atmospheres:
+A
+2126-2137.
+
+1984:
+Spectral
+20 cm -1 model.
+
+absorption
+J. Atmos.
+
+of solar
+Sci., 41,
+
+King,
+
+M. D., M. G. Strange,
+P. Leone
+and L. R. Blaine,
+scanning
+radiometer
+for airborne
+measurements
+within
+clouds.
+J. Atmos.
+Oceanic
+Tech., 3, 513-522.
+
+__,
+
+L. F. Radke
+and P. V. Hobbs,
+1989:
+Determination
+of the spectral
+absorption
+of solar
+radiation
+by marine
+stratocumulus
+clouds
+from
+airborne
+measurements
+within
+clouds.
+Submitted
+to J. Atmos.
+Sci.
+
+Kneizys,
+
+K. X., E. P. Shettle,
+
+E. A. Selby,
+R. W.
+mittance/radiance:
+Force
+
+Geophysics
+
+Nussenzveig,
+tering.
+
+H. M.,
+Phys.
+
+Stephens,
+G.
+Submitted
+Twomey,
+clouds.
+
+84
+
+S.,
+
+Rev.
+
+W.
+
+Fenn and
+Computer
+Laboratories,
+
+and
+
+O. Gallery,
+
+45,
+
+Hanscom
+
+AFB,
+1980:
+
+Jr., L. W. Abreu,
+
+1980:
+Atmospheric
+5. AFGL-TR-80-0067,
+
+J.
+
+transAir
+
+233 pp.
+Efficiency
+
+factors
+
+in Mie
+
+scat-
+
+1490-1494.
+
+L., and
+S. C. Tsay,
+1989:
+On
+to Quart.
+J. Roy. Meteor.
+Soc.
+1976:
+J. Atmos.
+
+Chetwynd,
+
+R. A. McClatchey,
+code LOWTRAN
+
+W. J. Wiscombe,
+
+Lett.,
+
+J. H.
+
+1986:
+Multiwavelength
+of scattered
+radiation
+
+Computations
+of
+Sci., 33, 1087-1091.
+
+the
+
+the
+
+cloud
+
+absorption
+
+absorption
+
+of
+
+solar
+
+anomaly.
+
+radiation
+
+by
+

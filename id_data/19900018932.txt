@@ -1,0 +1,1292 @@
+N90-28248
+
+Diurnal
+
+Variation
+Marine
+
+in
+
+the
+
+Boundary
+
+Turbulent
+Layer
+
+Phillip
+
+Structure
+
+Durin_
+
+FIRE
+
+of
+
+the
+
+Cloudy
+
+1987
+
+Hignett
+
+Meteorological
+Office
+Research
+RAF Cardington
+Bedfordshire
+MK42 0TB
+
+Unit
+
+England
+
+During
+the 1987 FIRE
+marine
+stratocumulus
+experiment
+the
+U.K.
+Meteorological
+Office
+operated
+a set of turbulence
+probes
+attached
+to
+the tether
+cable of a balloon
+based on San Nicolas
+Island.
+Typically
+six
+probes
+were
+used;
+each
+probe
+is
+fitted
+with
+Gill propeller
+anemometers,
+a
+platinum
+resistance
+thermometer
+and
+wet
+and
+dry
+thermistors,
+to permit
+measurements
+of the fluxes
+of momentum,
+heat and
+humidity.
+The orientation
+of each probe is determined
+from a
+pair
+of
+inclinometers
+and a three-axis
+magnetometer.
+Sufficient
+information
+is
+available
+to allow
+the measured
+wind velocities
+to be corrected
+for the
+motion
+of
+the
+balloon.
+A full description
+of this turbulence
+system
+can be found in Lapworth
+and Mason
+(1988).
+On the 14th/15th
+July
+measurements
+were
+made
+over
+the
+period
+1530-0200
+UTC
+and
+again,
+after
+a short break
+for battery
+re-charging
+and topping-up
+the balloon,
+between
+0400-0800
+UTC.
+Data were
+therefore
+recorded
+from
+morning
+to
+early
+evening,
+and
+again
+for
+a period
+overnight.
+Six probes
+were available
+for
+the
+daytime
+measurements,
+five
+for the night.
+Data were
+recorded
+at 4 _z for individual
+periods
+of a little
+over an hour.
+The intention
+was to keep a minimum
+of
+one
+probe
+at
+necessary
+
+or just above
+to accommodate
+
+cloud
+top; small changes
+in balloon
+changes
+in inversion
+height.
+
+height
+
+were
+
+The most direct
+comparison,
+and contrast,
+can be drawn
+between
+the
+overnight
+period
+and
+that around
+local noon.
+In both cases
+the mean
+inversion
+height
+was very similar
+and the
+parameter
+u./fz,
+(=R)
+was
+equal
+to',_3.5.
+This parameter,
+being proportional
+to the _atio of the
+height
+of a steady
+neutrally-stable
+boundary
+layer
+to
+that
+of
+the
+capping
+inversion,
+is
+useful
+in establishing
+the broad
+relationship
+between
+the current
+observations
+and those of other
+experiments.
+For
+example,
+Nicholls(1984)
+and
+observations
+for which R varied
+strong
+wind
+case
+at
+R_7.
+observations
+of Brost et ai(1982)
+expect
+the current
+observations
+dominated
+flows of Nicholls
+and
+The
+measurements
+
+ability
+at
+
+boundary
+layer
+and 2 show the
+
+Nicholls
+and
+Leighton(1986)
+present
+mainly
+from 0.6 to
+3,
+with
+a
+single
+This
+latter
+case
+is
+similar
+to the
+for
+which
+R_I0.
+Bence
+we
+might
+to sho_ most similarity
+to the buoyancy
+Nicholls
+and Leighton.
+
+of
+the
+balloon
+system
+several
+levels
+allows
+the
+
+to be displayed
+velocity
+vectors
+
+without
+of the
+
+to
+make
+simultaneous
+vertical
+structure
+of the
+
+resort
+to composites.
+Figures
+longitudinal
+and vertical
+
+1
+
+137
+PRECED;5:G
+
+["'AGE
+
+P' ^""
+_'-"_,,,_,
+
+NOT
+
+FILMED
+
+components
+over 30 second
+averages
+(giving
+a spatial
+resolution
+of NI70
+metres),
+with the mean horizontal
+wind subtracted.
+The daytime
+data of
+Figure
+I are from 1908-1958
+UTC (i.e.
+immediately
+before
+local
+noon)
+and correspond
+to an horizontal
+length
+scale of 18km, based on the mean
+wind.
+The upper 2 levels
+were above cloud,
+while
+the
+third
+was
+just
+below
+cloud
+top; the cloud
+base in this period
+varied
+from about
+220 to
+300 metres.
+The
+nocturnal
+data
+in
+Figure
+2
+were
+taken
+between
+0645-0738
+UTC, and again
+correspond
+to a length
+scale of 18km;
+the top
+level
+is just below cloud
+top and
+cloud
+base
+was
+approximately
+140
+metres.
+There
+is a striking
+contrast
+in the degree
+of variability
+between
+the
+velocity
+fields
+in
+Figures
+1
+and
+2.
+Both
+show
+regions
+of
+divergence
+and convergence
+near cloud
+top and
+organised
+up
+and
+down
+draughts;
+however,
+at night
+the magnitudes
+of these gust velocities
+are
+much higher
+and coherent
+structures
+occupy
+the
+whole
+depth
+of
+the
+boundary
+layer,
+rather
+than just the cloud layer.
+Turbulent
+statistics
+were
+calculated
+from
+2-hour
+periods,
+one
+straddling
+local
+noon
+and one at night.
+These were sub-divided
+into
+half-hour
+averaging
+intervals
+for
+the
+evaluation
+of
+variances
+and
+fluxes.
+The
+vertical
+velocity
+variances
+for the day (closed
+squares)
+and night
+(open triangles)
+are plotted
+on Figure
+3;
+the
+heights
+have
+been
+normalised
+by
+the
+inversion
+height.
+The
+daytime
+profile
+characteristically
+shows
+very
+low
+values
+above
+cloud,
+a
+distinct
+maximum
+in the cloud layer
+and evidence
+of a second
+weak maximum
+below
+cloud.
+In contrast,
+the nocturnal
+data show
+a
+more
+turbulent
+layer
+well-mixed
+from inversion
+to surface
+in a manner
+analogous
+to that of a
+convective
+boundary
+layer
+heated
+from
+below
+(e.g.
+Lenschow
+et
+ai,1980).
+These
+
+features
+
+are
+
+also
+
+reflected
+
+in
+
+the
+
+behaviour
+
+of
+
+the
+
+equivalent
+potential
+temperature
+flux, shown in Figure
+4.
+During
+both
+day and night
+the flux maxima
+are located
+close to cloud
+top;
+however,
+whereas
+the nocturnal
+data give the appearance
+of a single
+mixed
+layer
+driven
+by a cloud-top
+buoyancy
+flux,
+the
+daytime
+profile
+shows
+a
+distinct
+minimum
+in the region
+of cloud base increasing
+again
+to a weak
+surface
+flux.
+The daytime
+boundary
+layer,
+around
+local noon,
+therefore
+consists
+of
+a
+cloud
+mixed
+layer,
+driven
+by
+a
+cloud-top
+buoyancy
+flux,
+surmounting
+a
+weakly-driven
+layer
+of
+depth_0.2u./fz
+,
+a
+value
+reminiscent
+of the results
+of the JASIN experiment
+(e.g. _ Slingo
+et al
+(1982),
+Nicholls(1985)).
+The top of this layer,
+however,
+and the
+base
+of the cloud mixed layer are not clearly
+associated
+with cloud
+base, as
+observed
+from the surface,
+which
+tended
+to be variable
+and
+ill-defined
+during
+this period.
+Mixed-layer
+similarity
+of the two datasets
+can be
+shown
+by normalising
+and repiotting
+against
+l-z/h,
+where
+h is the mixed
+layer
+depth.
+The
+vertical
+velocity
+variances
+were normalised
+by w.,
+the convective
+velocity
+scale,
+and the fluxes
+by the maximum
+value
+at
+cloud
+top.
+The
+results
+are
+displayed
+on
+Figures
+5
+and
+6.
+A
+satisfactory
+collapse
+of the data is achieved
+except
+for
+w=
+as
+l-z/h
+approaches
+unity;
+the
+lower
+boundary
+condition
+for the daytime
+mixed
+layer
+will be different
+from that at night when w 2 must go to
+zero
+at
+the surface.
+
+138
+
+The evidence
+presented
+strongly
+supports
+the notion
+that,
+for
+at
+least
+part
+of the daytime,
+the cloud layer becomes
+decoupled
+from the
+surface
+following
+the absorption
+of solar'radiation
+at depth
+within
+the
+cloud
+layer.
+The
+surface
+fluxes
+on this occasion
+are weak and the
+growth
+of any
+surface
+Ekman
+layer
+is
+limited.
+Further
+evidence,
+derived
+from
+the
+TKE
+budget
+and turbulence
+length
+scales,
+for this
+argument
+
+will
+
+be
+
+presented.
+
+References
+Brost,R.A.,Wyngaard,J.C.
+and Lenschow,D.H.,1982:
+Marine
+stratocumulus
+layers:Part
+II. Turbulence
+and entrainment.
+J.Atmos. Sci.,39,818-836
+Lapworth,A.J.
+and Mason,P.J.,1982:The
+new Cardington
+turbulence
+probe system.
+J.Atmos.Ocean.Tech.,5,699-714
+Lenschow,D.H.,Wyngaard,J.C.
+second-moment
+budgets
+in
+J.Atmos. Sci.,37,1313-1326
+Nicholls,S.,1984:The
+and comparisons
+with
+783-820
+
+JASIN.
+
+a
+
+and Pennell,W.T.,1980:Mean-field
+baroclinic
+convective
+boundary
+
+dynamics
+of
+a mixed-layer
+
+,1985:Aircraft
+ibid.,t11,391-426
+
+balloon-borne
+
+stratocumulus:aircraft
+model.
+0uart.J.R.Met.
+
+observations
+
+of
+
+the
+
+Ekman
+
+and
+layer.
+
+observations
+Soc.,110,
+
+layer
+
+made
+
+Nicholls,S.
+and Leighton,J.,1986:An
+observational
+study of the
+of stratiform
+cloud sheets:Part
+I.Structure.
+ibid.,l12,431-460
+Slingo,A.,Nicholls,S.
+marine
+stratocumulus
+
+and Schmetz,J.,1982:Aircraft
+observations
+during
+JASIN.
+ibid.,
+108,833-856
+
+during
+
+structure
+
+of
+
+139
+
+---
+
+1 ms -I
+
+700"
+
+Reight
+
+(m.)
+P
+
+I
+
+I
+
+I
+
+o
+
+I
+
+Distance
+
+Figure
+
+I
+
+I
+
+I
+
+(km.)
+
+18
+
+i: height-distance
+velocity
+cross-section
+1908-1958
+UTC 14th July. Details
+in
+
+--"
+
+for
+text.
+
+1 ms -z
+
+700.
+
+7' -I
+Beight
+
+(m.)
+
+I
+I
+
+I
+
+I
+
+I
+
+Distance
+
+Figure
+
+140
+
+2:
+
+as
+
+Fig.
+
+1 but
+
+I
+
+I
+
+I
+
+IB
+
+(km.)
+
+for 0645-0738
+
+UTC
+
+15th
+
+July
+
+1 .20
+
+1
+
+2O
+
+1.10
+
+1
+
+10
+
+1
+
+00
+
+0 .90
+
+0
+
+90
+
+0
+
+0
+
+00
+
+0
+
+70
+
+6
+
+1 .00
+
+I
+
+u_
+
+aO
+
+0
+
+z/z
+
+A
+
+7O
+
+A
+
+i
+
+A
+
+6
+
+0
+
+50
+
+A
+
+60
+
+0
+
+0
+
+0 .60
+
+&
+
+0.50
+
+A
+A
+
+40
+
+0
+
+A
+A
+
+30
+
+0.40
+
+II
+
+A
+0 .30
+
+6
+0
+
+um
+
+z/z.
+
+A
+
+A
+
+m
+
+A
+
+AA
+
+20
+
+0.20
+
+6A
+0
+
+10
+!
+
+0.00
+
+O.OS
+
+i
+
+0.10
+
+i
+
+0.15
+
+0.20
+
+0.10
+
+i
+
+0.0
+
+0.25
+
+W 2
+
+Figure
+
+3:
+
+vertical
+
+velocity
+
+versus
+
+variance
+
+normalised
+
+day(squares),
+
+-o.2o.
+-0
+
+Figure
+
+4:
+
+z.o 2.0 3.0 +.o
+re. (xl00)
+equivalent
+
+height:
+
+m
+
+versus
+
+height.
+
+• 21_,
+
+-0
+
+0.00
+
+flux
+
+normalised
+-0
+
+.10
+
+potential
+
+temperature
+
+night(triangles)
+
+5.o
+
+. 10.
+
+0.00
+
+A
+
+4
+0.10
+
+0.10
+
+0,20
+
+0 .20
+
+0.30
+
+A
+
+0.30
+
+A
+
+•
+
+l-z/h
+6
+
+4
+
+l-z/h
+
+•
+
+4
+
+• 4
+
+0 .40
+
+0.40
+
+0.50
+
+4
+A
+
+0.60
+
+0 .50
+
+4
+4
+
+0.60
+
+4
+
+0.')0
+
+4
+0.70
+
+44
+44
+
+0.80
+
+0.00
+
+44
+0 .90
+'
+
+'m
+
+'
+
+•
+
+'
+
+'
+
+0.90
+1B
+
+0.00
+
+0.20
+
+0.40
+
+0.60
+
+v2/w.
+Figure
+
+5:
+
+scaled
+
+0.00
+
+-0,
+
+0.0
+
+•
+
+0.2
+
+2
+
+vertical
+
+variance
+
+1.00
+
+0.4
+
+0.6
+
+ve./(ve.),,
+velocity
+
+Figure
+
+6:
+
+scaled
+
+•
+
+0.8
+
+x
+
+equivalent
+
+temperature
+
+1.0
+
+potential
+flux
+
+141
+

@@ -1,0 +1,771 @@
+N90-28273
+RELATIONSHIP
+BETWEEN
+AT THE SURFACE
+
+THE LONGWAVE
+CLOUD
+RADIATIVE
+AND THE TOP OF THE ATMOSPHERE
+
+FORCING
+
+Harshvardhan
+Department
+of Earth and Atmospheric
+Purdue University,
+West Lafayette,
+
+Sciences
+IN 47907
+
+In order to achieve global coverage,
+any surface radiation
+climatology
+has to be based on
+satellite observations.
+In the last decade several schemes
+have been devised to obtain the surface
+solar insolation
+from top of the atmosphere
+reflected
+solar radiation
+(Tarpley,
+1979; Gautier et
+al., 1980).
+More recently,
+attempts
+have been made to infer the components
+of longwave
+radiation
+at the surface from satellite sounder data using a radiative
+transfer
+model (Schmetz
+et
+al., 1986; Frouin et al., 1988; Gupta,
+1989).
+In addition to the radiative
+transfer
+scheme,
+these
+methods require
+assumptions
+about the effective
+emitting
+temperature
+of cloud tops and bases.
+The one common
+theme in these methods
+is an assumption
+regarding
+the vertical
+extent of the
+cloudiness
+detected
+in the upwelling
+radiation.
+Once the top is placed
+using a coincident
+sounding,
+the position
+of the base is estimated
+by various
+methods,
+the simplest
+being an
+assumption
+of constant cloud depth.
+During the day, the reflected
+solar radiation
+has also been
+used to estimate
+the geometric
+depth
+of the cloud layer (Frouin
+et al., 1988),
+a complex
+procedure
+that involves assumptions
+regarding
+cloud microphysics
+and morphology.
+Modeling
+studies
+have shown
+that although
+there are strong correlations
+between
+the
+solar upwelling
+radiative
+flux and surface flux, this is not true of the longwave
+(Ramanathan,
+1986).
+However,
+if the clear sky component
+is considered
+separately
+such that the cloud
+longwave
+forcing at the top and at the surface are compared,
+a slightly different
+picture emerges.
+Figure 1 shows the monthly mean simulated
+longwave
+radiation
+at the top of the atmosphere
+and
+at the surface
+from a general
+circulation
+model
+(Harshvardhan
+et al., 1989).
+Each point
+represents
+a 4 ° latitude
+x 5 ° longitude
+grid.
+During the simulation,
+in addition
+to the hourly
+radiative
+fields generated
+as part of the model integration,
+a clear sky computation
+was also
+made every hour. The difference,
+which is the cloud forcing, was thus obtained
+at the top of the
+atmosphere
+and the surface.
+Figure 2 shows the longwave
+cloud radiative
+forcing at these levels
+for all the grid points in the model.
+This figure contains information
+on the relationship
+between
+emission
+from the cloud tops and bases in the model.
+For example,
+a subset of the simulated
+data for two latitude
+bands is shown in Figures
+3 and 4. Figure
+3 is for a region of high
+convective
+clouds and the cloud radiative
+forcing at the top is very large when cloudiness
+occurs
+where as the surface longwave
+fluxes are not affected
+much.
+Figure 4 is for a region of low
+clouds such that the cloud top emission
+is not too different
+from the surface emission
+but the
+downward
+longwave
+radiation
+is altered quite drastically
+in the presence
+of clouds.
+During the FIRE Cirrus IFO, surface radiation
+measurements
+were made at several sites
+and co-incident
+satellite
+overpass
+data was also collected
+(LeCroy
+et al., 1989).
+It may be
+possible
+to extract
+the longwave
+cloud radiative
+forcing
+at the top and the surface
+from these
+data.
+If relationships,
+such as shown in Figures
+3 and 4 are verifiable
+by observations,
+this
+information
+can be useful for the extraction
+of the surface longwave
+radiation
+from satellite data.
+The radiative
+transfer
+schemes
+used to convert upwelling
+spectral radiances
+into a downwelling
+longwave
+radiation
+can provide the clear sky component.
+The cloud radiative
+forcing at the top
+of the atmosphere
+can then modify the surface fluxes according
+to relationships
+shown in Figures
+3 and 4. It should be noted that this procedure
+may be considered
+only for temporal
+averages
+and not for instantaneous
+deductions
+of surface fluxes.
+This would be most useful in compiling
+monthly
+
+mean
+
+regional
+
+climatologies
+
+of the surface
+
+longwave
+
+fluxes.
+
+295
+PRECED!?_G PAGE
+
+[_LANK
+
+NOT
+
+FILMED
+
+References
+Frouin,
+
+R., C. Gautier
+and J.-J. Morcrette,
+1988: Downward
+longwave
+surface from satellite data. J. Geophys. Res., 93, 597-619.
+
+Gautier,
+
+C., G. Diak and S. Masse, 1980: A simple physical
+model to estimate
+incident
+radiation
+at the surface from GOES satellite data. J. Appl. Meteor.,
+19, 1005-1012.
+
+Gupta,
+
+S.K., 1989: A parameterization
+for
+satellite data. J. Climate, 2, 305-320.
+
+longwave
+
+surface
+
+irradiance
+
+radiation
+
+Harshvardhan,
+D.A. Randall,
+cloudiness
+simulations
+
+T.G. Corsetti and D.A. Dazlich,
+with a general circulation
+model.
+
+LeCroy,
+
+from
+
+L.R. Poole, J.M. Alvarez,
+D.A. Robinson,
+radiation
+observations
+of cirrus
+cloud
+experiment.
+Proceedings
+of IRS 1988,
+
+S.R., C.H. Whitlock,
+Cox,
+1989:
+Surface
+Wisconsin
+FIRE/SRB
+Hampton,
+VA.
+
+Ramanathan,
+V., 1986: Scientific
+NASA RP 1169, 59-86.
+
+uses
+
+of surface
+
+radiation
+
+Schmetz,
+
+P., J. Schmetz
+and
+radiation
+at the surface
+136-149.
+
+E. Raschke,
+1986:
+from satellite
+and
+
+Tarpley,
+
+J.D., 1979: Estimating
+data. J. Appl. Meteor.,
+
+incident solar radiation
+18, 1172-1181.
+
+296
+
+Estimation
+grid point
+
+at the ocean
+
+solar
+
+sun-synchronous
+
+1989: Earth radiation
+budget
+J. Atmos. Sci., 46, (in press).
+
+budget
+
+and
+
+D.O'C.
+Starr and S.K.
+properties
+during
+the
+A. Deepak
+Publishing,
+
+data
+
+for
+
+climate
+
+studies.
+
+of daytime
+downward
+longwave
+data.
+Theor. Appl. Climatol.,
+37,
+
+at the surface
+
+from
+
+geostationary
+
+satellite
+
+JULY
+
+DATA
+
+20.0
+
+40.0
+
+(BETNEEN
+
+86S
+
+AND 86N]
+
+320. O
+
+300.0
+
+280. O'
+
+Z
+o
+
+260.0-
+
+n-
+
+240.0-
+
+£13
+(C
+n_
+
+220.0
+
+1.1
+>
+oC
+L_
+(.o
+z
+o
+._3
+0_
+o
+I-_
+L,_]
+Z
+
+200.0
+
+]80.0
+
+160.0
+
+140.0-
+
+120.0
+
+-
+
+]O0.O
+
+80.0
+-20.0
+
+0.0
+
+60.0
+
+80.0
+
+IOO.O
+
+120.0
+
+140.0
+
+160.0
+
+]BO.O
+
+NET SURFACE LON6NAVE RADIATION
+Figure
+
+t.
+
+Monthly
+
+at
+
+top
+
+of
+
+the
+
+longwave
+a general
+
+the
+
+radiation
+circulation
+
+mean
+
+(JuSy)
+
+atmosphere
+for
+
+each
+
+outgoing
+plotted
+4 ° tat
+
+longwave
+versus
+
+x
+
+5 ° long
+
+radiation
+
+the
+grid
+
+net
+
+surface
+point
+
+of
+
+model.
+
+297
+
+96_
+
+(3:3UJ_IN_)gNIDUOJ
+O" 0;_ I"
+
+0"00[
+I
+
+0'01_
+I
+
+0'09
+I
+
+.qA]iU[OUU
+0'01,
+I
+
+ONO70
+O'OZ
+I
+
+M7
+O'O
+I
+
+O'OZ,
+
+O'OZ-
+
+0"0
+[._z
+O'OZ
+
+0'0I,
+
+0
+P
+0
+cz
+
+3)
+EZ_
+ZD
+,.--t
+
+0"09
+o
+_U
+0
+z
+O'O0
+,--4
+0
+"-0
+
+0"00[
+
+O'OZ[
+
+(598
+
+01
+
+Ngg
+
+NOUJJUJ.UO
+
+AqNF
+
+JULi
+
+DATA [BETWEEN ]6,"; AND ]'IN]
+
+JULY DATa
+
+]20.0
+
+[BETWEEN 5BS AND 6251
+
+]25.0
+•o
+
+13._
+CD
+I-,-,
+
+100.0
+
+-
+
+o_
+
+o oo
+
+U
+-rI.-,
+I.-,
+
+-
+
+U
+3I.-.,
+80,0-
+
+f-,,,
+
+L.9
+Z
+(.D
+
+10_.0
+
+I,-,
+
+80.0
+
+Z
+
+_°
+
+6O.O:
+
+,n...
+0
+L
+
+C3
+IL
+I.,.I
+
+60.0
+
+I.i.3
+%
+40.0
+
+•
+
+"
+
+_-.
+
+t-'%
+
+g,o._ °°
+
+40.0
+
+20.0
+
+n-
+
+E
+j_!.
+
+•
+.£.,..,:..:,,,
+
+•
+
+20.0-
+
+..-.
+_J
+c_
+..-¢
+_.3
+
+•
+
+c3
+J
+(.3
+
+l
+13.0-
+
+j
+
+•
+
+•0
+
+I
+20.0
+
+I
+_iO.O
+
+I
+60.0
+
+I
+80.0
+
+lOI0 .O
+
+LH CLOUO RRD[FITIVE FORCING RT THE SURFACE
+Figure
+points
+
+PO
+(.0
+
+3. As in Figure 2 but for the grid
+in a latitude band from 10N to 14N.
+
+120.0
+
+_.,..¢,.I
+
+_ " "
+
+8.0
+
+-20.0
+OI
+
+.:: "[,_"[
+
+I
+
+i
+
+-2oo o'.o 20.0 _o.o _6.o _.o
+
+,o'o.o
+I2C.O
+
+LW CLOUOR_IDIRTIVE FORCINg AT THE SURFACE
+Figure
+points
+
+4. As in Figure 2 but for the grid
+in a latitude band from 58S to 62S.
+

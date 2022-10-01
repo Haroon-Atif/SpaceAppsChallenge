@@ -1,0 +1,1310 @@
+, 90-28265
+HIGH
+
+RESOLUTION
+B.
+
+Kessler*
+
+Naval
+White
+Sample
+
+shown
+
+Sensor
+
+was
+
+funded
+
+by
+
+and
+
+Modeling
+
+Measurement
+IRAMMP
+
+is
+
+littoral
+Infrared
+
+to
+
+and
+
+The
+
+Sensor
+that
+
+NSWC
+
+and
+
+is
+of
+
+a
+
+dual
+
+the
+
+is
+
+A
+
+schematic
+
+a
+
+three
+
+used
+
+to
+
+provide
+
+external
+
+to
+
+environment
+slight
+
+optical
+_m
+
+the
+
+for
+
+is
+
+the
+
+Navy's
+by
+
+ONT.
+
+which
+The
+
+sealed
+off
+
+used
+
+off
+
+and
+
+The
+the
+
+separate
+
+by
+
+using
+
+The
+
+optics
+are
+
+mirror
+
+is
+
+outside
+kept
+
+used
+
+the
+an
+
+and
+
+surfaces
+
+other
+
+to
+
+I
+
+i.
+
+is
+
+gas
+
+and
+of
+
+by Telenetics
+are described
+
+scan
+
+section
+only
+
+of
+sea
+
+together
+
+Tables
+
+Figure
+
+nitrogen
+
+achieved
+the
+
+in
+
+The
+
+beamsplltter
+is
+
+in
+
+from
+
+optics
+
+dry
+
+purpose
+cloud,
+
+nonspherical
+
+plane.
+
+assemblies.
+
+optics
+bench
+
+is
+
+the
+
+dlchroic
+
+optical
+
+focal
+
+sealed
+
+exhausting
+
+shown
+
+The
+
+and
+development
+infrared
+devices.
+
+given
+
+off-axis,
+
+the
+
+of
+
+description,
+
+are
+
+is
+
+infrared
+detail.
+Analysis
+
+The
+
+base
+
+by NRL and built
+Its characteristics
+
+optics
+
+in
+
+its
+
+in
+
+Infrared
+
+data
+
+and
+
+(DAS),
+
+system;
+
+coverage
+
+Athermal
+
+Sensor
+
+Sensor
+
+assembly
+
+a
+
+the
+
+resolution
+
+presented
+
+sponsored
+
+was
+designed
+direction.
+
+Dewar/detector
+
+component
+for
+
+the
+
+plate.
+by
+
+the
+
+radiation.
+
+structure
+
+area
+
+ZnSe
+
+to
+
+System
+
+reflective
+
+optics
+a
+
+overpressure
+
+cryogenics
+12
+
+good
+
+by
+
+of
+
+all
+
+a high
+are
+
+radiometrlc
+
+radiometric
+
+Acquisition
+
+diagram
+
+mirror
+
+from
+
+dedicated
+(IRAMMP)
+
+II.
+The Data
+Acquisition
+System
+of Seabrook,
+Maryland
+under
+NRL
+in Table
+III.
+
+are
+
+20903-5000
+
+to be used
+to aovance
+the design
+(IRST)
+systems
+as well
+as other
+
+band
+
+Data
+
+MD
+
+data
+
+a deterministic
+
+clutter
+and Track
+
+Cawley
+Center
+
+characteristics
+
+Program
+
+establish
+
+terrain
+Search
+
+with
+
+Sensor
+
+Robert
+
+Spring,
+
+radiance
+
+the
+
+MEASUREMENTS
+
+Warfare
+
+Silver
+
+cloud
+
+are
+
+and
+
+Surface
+
+Oak,
+
+ground-based
+
+Sensor
+
+INFRARED
+
+at
+
+for
+
+a
+
+the
+
+J-T
+
+transmissive
+3-5
+
+all
+
+_m
+
+and
+
+8-
+
+aluminum
+
+mirrors.
+
+LOS
+
+\\
+
+,
+
+/
+
+WINI_W
+
+•
+
+|CAN_IR
+
+/
+
+ACIUATOIII
+__
+
+CAL
+
+MIIItAOA
+
+ORrP=FNA£ P4GF IS
+OF PO0,2 Q(iALfTy
+/
+
+Figure
+
+Dept.
+
+of
+
+Physics,
+
+Catholic
+
+University
+
+1
+
+of
+
+America,
+
+Washington,
+
+D.C.
+
+20064
+
+241
+
+•
+
+"+ ':'"(
+
+NOT
+
+_" ,_J,,':.T_
+i_
+
+i--
+
+_']t
+
+I..
+
+I.,P
+
+Table
+Sensor
+
+I
+
+Description
+
+Feature
+Dual
+
+Description
+
+Window
+
+Telescope
+
+IR
+
+operation
+
+nominal
+8-12
+4.2"
+
+Aperture
+
+f/#
+IFOV
+Dwell
+TFOV
+
+370
+
+22.5 °
+1.6 °
+3.2 °
+between
+
+channels
+
+Weight
+Array
+
+3.5/sec
+80 Ibs.
+Modular
+
+Compatibility
+
+120
+3 mils
+
+I/f noise
+shoulder
+MWIR
+(HZ)
+LWIR
+(HZ)
+scan
+
+2.7
+2.7
+
+x
+
+3 mils
+
+x
+x
+
+10 -14
+10 -13
+
+,
+±
+
+10%
+10%
+
+Electronics
+84db
+<0.3
+<0.3
+
+filters
+
+in
+
+IFOV
+IFOV
+contiguous
+
+YES
+3.25
+
+Digital
+better
+better
+
+Absolute
+to be
+
+MWIR
+
+18 bits;
+1/8 IFOV
+
+Scan Linearity
+Scan Mirror
+Drive
+
+Range
+
+x
+x
+
+120 detectors,
+staggered
+MWIR = 8 x i0 I0
+LWIR = 3.2 x i0 I0
+
+6 Selectable
+Spectral
+Samples/dwell
+Azimuth
+Shaft
+Encoder
+
+242
+
+Dewars
+
+0.047C °
+0.032C °
+
+Detector
+Array
+D* Detectivity
+
+Repeatability
+Temperature
+3-5 _m
+8-12 _m
+
+17.4°/sec
+
+speed
+
+Dynamic
+Range
+Pixel
+Registration
+Single
+Color
+Color-to-Color
+
+Radiometric
+
+or
+
+0.4
+300
+
+NEAT at 33.4°/sec
+MWIR
+LWIR
+NEI (W/cm 2 )
+MWIR
+LWIR
+and
+
+<-27db
+33.4°/sec
+
+No. detectors/waveband
+Detector
+Size
+
+Detector
+
+_sec
+
+5 5/8 °
+
+5/8°AZ
+x 1.6°EL.
+at 33.4°/sec
+scan)
+
+Sensor
+Head
+Focal
+Plane
+Detectors
+
+and
+
+f/3.2
+0.22 x 0.23
+
+(AZ.xEL.:mrad)
+Time
+
+narrow
+TFOV
+(AZ)
+wide TFOV
+(AZ)
+narrow
+TFOV
+(EL)
+wide TFOV
+(EL)
+Detector
+crosstalk
+AZ Scan Rate
+Revisit
+Time
+(5
+
+2-5 _m (MWIR)
+_m (LWIR)
+
+incremental
+per 4 ° of AZ.
+
+serve control
+than 5%
+than 3%
+
+measured
+270°K
+220°K
+
+to
+to
+
+450°K
+700°K
+
+Scan
+system
+
+Table
+
+I
+
+Sensor
+
+-- Continued
+Description
+
+Feature
+
+Description
+
+Electronics
+Dynamic
+Range
+Video
+bandpass
+MWIR
+LWIR
+
+84db
+(3db)
+0.0
+0.4
+
+Cold Shielding
+Geometric
+Re-lmaglng
+Figure
+
+2 is
+
+cold
+
+a photograph
+
+shielding
+of
+
+the
+
+to
+to
+
+>95%
+
+Sensor
+
+2500
+2500
+
+HZ
+HZ
+
+effective
+
+head.
+
+Raytheon
+
+Figure
+
+Table
+MWIR
+Filter
+i
+2
+3
+4
+5
+
+No
+
+Cut-On
+
+<microns)
+1.96
+2.21
+2.98
+3.45
+3.79
+
+Spectral
+
+2
+
+II
+
+Bandpass
+Cut-Off
+
+Filters
+
+(microns)
+6.15
+2.45
+5.05
+4.18
+4.87
+
+ORIGINAL
+OF POOR
+
+% T
+80
+77
+87
+79
+92
+
+PAGE IS
+QUALITY
+
+243
+
+Table
+
+III
+
+DAS (NRL)
+Sensor
+analog:
+
+DAS
+
+Inputs
+
+-lOv to +IOv(LW)
+Ov to +IOv(MW)
+rms noise
+_ O.O007v
+
+Action
+
+Digitized
+to 15
+Digitized
+to 14
+i bit - O.00061v
+Digitization
+8800 128-word
+
+digital:
+scan mirror
+
+shaft
+
+15 bits
+
+position
+
+bits
+bits
+
+rate is
+samples/sec
+
+recorded,
+
+i hit - 47.937
+_r (average)
+of optical
+scan angle
+recorded
+in header
+words
+
+housekeeping
+
+(see attached
+sheet)
+Digital
+time (to O.ims)
+from time code generator
+
+Sample
+
+Synchronization
+words
+header
+for recognition
+8800 HZ.
+
+clock
+
+Angular
+spacing
+of sample
+Samples
+per detector
+for 5.6 ° picture
+Total
+data for each 5.625°picture
+Data rate
+One
+
+HDDR
+
+0.0664
+380
+
+NRL
+
+Base
+
+(BER)
+
+Management
+
+kB
+
+standard
+
+of
+
+real
+
+time
+
+9-track
+
+data
+
+tapes
+
+( 250
+ips
+to I0""
+
+"Quick-Look"
+
+Data
+
+rate
+
+in
+playback
+
+mr/sample
+
+4.5 MB/sec
+30 minutes
+60
+
+error
+
+put
+at
+
+- 1480
+
+tape
+
+Bit
+
+obtained
+
+i0"
+
+System
+
+To examine
+data base
+(VAX 11725)
+Questech
+Incorporated
+
+(DBMS)
+
+in
+
+the
+
+field
+
+The point
+response
+function
+for the Sensor
+is shown
+in Figure
+3.
+The
+sampling
+resolution
+is 0.0664
+mr.
+It can be seen that the half power
+full
+width
+is approximately
+3.6 samples
+in LWIR and 3.9 in MWIR.
+Since
+there are
+3.25 samples/dwell
+the resolution
+is
+- 1.2 IFOV in MWIR.
+This translates
+0.22mr
+- 0.26mr
+MWIR.
+
+using
+
+Figure
+4 shows a
+the new IRAMMP
+
+of similar
+Background
+meeting. _
+
+data, taken
+Measurement
+
+Patricia
+
+H.
+
+infrared
+
+cloud
+
+244
+
+Carter
+
+sample
+Sensor.
+
+x
+
+I.i IFOV for LWIR and 3.9/3.25
+0.22mr
+- 0.24mr
+LWIR and 1.2 x
+
+"carpet
+plot" of cloud
+Results
+of a fractal
+
+by a similar,
+and Analysis
+
+and
+
+3.6/3.25
+into i.i
+
+Robert
+
+radiance",
+
+ASTEX
+
+radiance
+against
+characterization
+
+progenitor
+Sensor
+Program
+(BMAP)
+are
+
+Cawley,
+
+"Fractal
+
+Workshop,
+
+under
+given
+
+the older,
+Navy
+elsewhere
+at this
+
+characterization
+
+Monterey,
+
+12
+
+azimuth
+analysis
+
+July,
+
+of
+1989.
+
+LonOwave Point Response
+
+M,dwave PcNm Res¢_
+r I_lJli(
+
+_.
+
+$
+
+UIICLA$SIFIlO
+
+,,q
++
+
+M"
+W_h-,
+
+3e
+
+Jli
+•
+.lid
+
+-
+
+4
+
+//
+
+"o'_
+
+•
+
+*
+-4
+
+"
+
+.
+4
+
+-_
+
+,
+• *
+
+.
+i
+
+,
+4
+
+"
+
+;
+|
+
+•
+
+Sl
+
+/
+
+:
+
+.
+IO
+
+o-
+
+•
+.|
+
+.uD
+
+0
+
+•
+.4
+
+s
+-4
+
+-3
+
+O"
+
+•
+|
+
+,
+•
+
++
+
+;
+41
+
+g
+II
+
+,
+
+.
+ID
+
+Samples
+Samples
+Figure
+
+3
+
+ORIGINAL
+OF POOR
+
+PI_C1E IS
+QUALITY
+
+0,
+
+Carpet
+
+Plot
+
+of
+
+Cloud;
+
+N_IR
+
+Figure
+
+(New
+
+tP.A_9_P
+
+Sensor)
+
+4
+
+245
+

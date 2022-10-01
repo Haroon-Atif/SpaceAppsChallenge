@@ -1,0 +1,910 @@
+N90-28250
+The Influence
+
+of Continental
+
+Sources
+
+of Aerosols
+
+on the Marine
+
+Stratocumulus
+
+during
+
+FIRE IFO-I
+
+PHILIP A. DURKEE
+Department
+of Meteorology, 63De
+Naval Postgraduate
+School
+Monterey, CA 92943
+
+INTRODUCTION
+The
+
+effects
+
+have a significant
+effect of aerosols
+
+of aerosols
+
+on the microphysical
+
+characteristics
+
+of marine
+
+stratocumulus
+
+clouds
+
+can
+
+impact on climate processes
+through modification
+of cloud radiative properties.
+The
+on clouds and the impact on climate processes
+have recently been discussed
+by several
+
+authors
+(Twomey
+et al., 1984; Coakley et al., 1987, Charlson
+et al., 1987). Of particular
+concern
+in this
+presentation
+is the potential
+for observing
+variations
+of cloud characteristics
+that might be related to
+variations
+of available
+aerosols.
+The results of comparisons
+between
+aircraft-measured
+microphysical
+characteristics
+and satellite-detected
+radiative properties
+of marine stratocumulus
+clouds are resented here.
+These
+
+results
+
+procedures
+description
+
+are
+
+extracted
+
+from
+
+Mineart
+
+(1988)
+
+and
+
+Durkee
+
+and
+
+Mineart
+
+(1989)
+
+where
+
+the
+
+analysis
+
+and a full discussion of the observations
+are presented.
+Due to the space available,
+only a brief
+of the results will be presented.
+The satellite
+data used here are from the National
+Oceanic
+and Atmospheric
+Administration
+
+(NOAA)
+Advanced
+Very High Resolution
+Radiometer
+(AVHRR)
+collected
+at the Scripps
+Satellite
+Oceanography
+Facility.
+The AVHRR
+channel
+1 (0.63/_m),
+channel 2 (0.86/_m),
+channel 3 (3.7 #m), and
+channel 4 (11 # m) data were used in the analysis.
+Cloud microphysical
+data were obtained
+by instruments
+on the NCAR Electra during cloud-penetrating
+missions in support of the field operations
+from 29 June 19 July 1988.
+RESULTS
+Mineart
+
+(1988)
+
+presents
+
+four
+
+case
+
+studies
+
+that
+
+show
+
+a consistent
+
+relationship
+
+between
+
+cloud
+
+microphysical
+characteristics
+and cloud radiative properties.
+The most dominant
+effect is observed
+in cloud
+reflectance
+at 3.7/_ m wavelength
+(AVHRR
+channel 3). Fig. 1 shows the observed
+relationship
+between
+aircraft-measured
+cloud droplet
+size and satellite-measured
+cloud
+reflectance.
+At this wavelength,
+moderate
+absorption
+by the cloud droplets
+limits the dependence
+of cloud reflectance
+on cloud thickness
+and liquid water content
+(primary
+determinants
+of reflectance
+at visible wavelengths).
+Therefore
+the
+primary determinant
+of cloud brightness
+at 3.7 #m is the cloud droplet
+size distribution
+(reflectance
+increases with decreasing
+droplet size). The dashed lines in Fig. 1 are the theoretical
+relationships
+for three
+size distributions.
+The effects of droplet
+size on cloud reflectance
+are also theoretically
+expected
+at shorter
+wavelengths
+decreases.
+
+although
+the effects of cloud thickness and LWC will be come more important
+To assess the effects at 0.63 t_m wavelength
+(AVHRR
+channel
+1), reflectance
+
+normalized
+
+to a constant
+
+LWC
+
+(0.3 g m"3) and thickness
+
+(200
+
+in Fig. 2. Although the relationship
+appears weak and there
+with increasing
+droplet size is suggested
+(_ 10% decrease
+
+m).
+
+The results
+
+of normalization
+
+as absorption
+values were
+are shown
+
+is significant
+scatter, a decrease
+in reflectance
+with droplet size increase
+from 5 to 12 #m
+
+radius).
+
+151
+
+.....
+
+'-.......
+
+".
+
+K(.T
+
+F _ L.i,;;
+
+_,;,:j
+
+The primary modifier of cloud brightness
+at 3.7/_ m wavelength shown in Fig. 1, is influence from
+continental
+air masses (Mineart,
+1988).
+Presumably,
+continental
+air containing
+significantly
+more CCN
+than marine air, produces
+clouds with smaller droplets
+relative to clouds in typical marine
+air masses.
+These microphysical
+differences
+between
+marine and continental
+clouds can be observed
+in the satellitedetected
+radiative
+properties
+of the clouds.
+The connection
+between
+cloud brightness
+and continental
+air
+mass is made
+cloud droplet
+
+through analysis
+size distribution
+
+of air motion trajectory
+calculations.
+Cloud
+through
+analysis
+of particle
+measurements
+
+brightness
+is directly related to
+made on board the NCAR
+
+Electra
+
+aircraft.
+Analysis of CCN measurements
+on board the Electra still need to be performed.
+Continental
+aerosol
+sources
+were observed
+during
+the FIRE
+IFO to interact
+with
+stratocumulus
+in three ways:
+
+1)
+
+During
+
+periods
+
+of large scale offshore
+
+flow and subsequent
+
+cloud
+
+development.
+
+Most
+
+marine
+
+of
+
+these events occur to the north of the main stratus deck (coastal OR and northern CA during
+the FIRE IFO). The continentally influenced air-mass then moves southward
+under the
+influence
+deck.
+
+2)
+
+of the subtropical
+
+high pressure
+
+system
+
+into the main
+
+By local scale offshore flow and entrainment
+into the cloud. This off shore
+confined to stable layers just above preexisting cloud. Hudson has reported
+CCN concentration
+above cloud during the FIRE
+These processes need further study.
+
+3)
+
+and is incorporated
+
+IFO (reported
+
+in Albrecht,
+
+stratus
+
+flow is usually
+large increases
+
+in
+
+et al., 1988).
+
+By direct injection into the cloud in coastal regions, especially from urban sources.
+Durkee
+(1989) reports several cases of urban influence on aerosol and cloud processes.
+These effects
+are identified by the spatial and temporal relationships
+to urban centers.
+
+Composites
+of satellite-measured
+radiative characteristics
+have been prepared
+to assess the largescale effects of continental
+aerosol sources on cloud characteristics.
+Tettelbach
+(1987) presented
+the first
+monthly summary
+of the eastern
+North Pacific Ocean.
+Fig. 3 and 4 are the results of cloud reflectance
+composites
+for August
+1986.
+These results illustrate
+a clear distinction
+between
+cloud reflectance
+at
+3.7 #m and 0.63 #m wavelengths.
+As mentioned
+above, 0.63 #m reflectance
+is
+cloud thickness and LWC. The brightest clouds in Fig. 1 (AVHRR
+channel 1) are
+scale divergence
+pattern of the subtropical
+high and the region of coldest upweUed
+CA and OR coast. Reflectance
+at 3.7 #m is determined
+mostly by droplet size.
+
+primarily
+determined
+by
+associated
+with the large
+water along the northern
+Fig. 4 (AVHRR
+channel
+
+3) shows bright clouds are associated
+with the coastal regions of CA, with the brightest
+clouds occurring
+immediately
+downwind of Los Angeles, CA. Summaries
+of the FIRE IFO time period and other months of
+1987 are being processed
+and should be ready for presentation
+at the workshop.
+
+CONCLUSIONS
+
+Relationships
+between
+cloud reflectance
+and cloud characteristics
+have been illustrated
+by
+comparing
+AVHRR
+satellite data and aircraft measurements.
+A relationship
+of higher reflectances
+from
+smaller
+cloud droplet
+size spectra
+is confirmed
+for 3.7/_m
+wavelength
+(AVHRR
+channel
+3) and is
+suggested
+for 0.63 #m wavelength
+(AVHRR
+channel
+1). A primary source of droplet size variations
+is
+related
+to continental/marine
+air mass differences.
+Continental
+air masses are generally
+have higher
+concentrations
+of aerosols,
+higher concentrations
+of cloud droplets,
+and therefore
+smaller
+mean cloud
+droplet radius, than marine air masses.
+distribution
+allows inference
+of cloud
+satellite-detected
+cloud reflectance
+can
+marine cloud formation
+and subsequent
+
+152
+
+The strong dependence
+of 3.7 # m reflectance
+on cloud droplet size
+composition
+characteristics
+from satellite
+observations.
+Further,
+be used to investigate
+the influence
+of continental
+air masses on
+effects on the cloud radiative properties.
+
+ACKNOWLEDGEMENTS
+The Scripps
+
+Satellite
+
+Oceanography
+
+the FIRE operations
+and for data
+analysis.
+This research is supported
+
+Facility
+
+is acknowledged
+
+for real-time
+
+analysis
+
+support
+
+during
+
+collection
+support.
+Craig Motell and Rick Kohrs helped with the data
+by the Office of Naval Research
+and the Naval Postgraduate
+School.
+REFERENCF_
+
+Albrecht,
+
+B. A., D. A. Randall and S. Nicholls, 1988:
+FIRE.
+Bull. Amer. Meteor. Soc., 69, 618-626.
+
+Charlson,
+
+R. J., J. E.
+atmospheric
+
+Coakley,
+
+Durkee,
+
+J. A., Jr.,
+reflectivity.
+
+Lovelock,
+
+sulphur,
+
+Andreae,
+
+and
+
+and climate.
+
+R. L. Bernstein
+and P. A. Durkee,
+Science, 237, 953-1084.
+
+P. A., and G. M. Mineart,
+microphysics.
+
+M. O.
+
+cloud albedo
+
+Observations
+
+In preparation
+
+1989:
+
+Multispectral
+
+for submission
+
+Mineart,
+
+G. M., 1988: Multispectral
+Thesis, Naval Postgraduate
+
+Tettelbach,
+
+F. M.,
+measurements.
+
+Twomey,
+
+S., M. Piepgrass
+and T. L. Wolfe,
+albedo.
+Tellus, 36B, 356-366.
+
+S. G.
+
+Nature,
+
+of marine stratocumulus
+
+Warren,
+
+1987:
+
+1987:
+
+satellite
+
+to J. Geophys.
+
+Effect
+
+of ship-stack
+
+analysis
+
+phytoplankton,
+
+of marine
+
+effluents
+
+on
+
+stratocumulus
+
+cloud
+
+cloud
+
+Res.
+
+1987:
+Stratocumulus
+and cloud-free
+reflectance
+M.S. Thesis, Naval Postgraduate
+School, Monterey,
+An assessment
+
+during
+
+326, 655-661.
+
+satellite analysis of marine stratocumulus
+School, Monterey,
+California,
+138 pp.
+
+1984:
+
+Oceanic
+
+clouds
+
+cloud
+
+microphysics.
+
+from
+multispectral
+California,
+68 pp.
+
+of the impact
+
+of pollution
+
+Masters
+
+satellite
+
+on global
+
+cloud
+
+153
+
+tO
+O-
+
+O
+
+D2 ,
+D3
+
+_d
+
+z
+
+",.,...
+
+D1
+
+O2
+
+"_"..
+"'"'-
+
+"_'-
+
+--4
+¢D"
+
+Cloud Edge
+
+_.._
+Z=O.25KM
+
+O
+
+2
+
+I
+
+4
+
+I
+
+_
+
+EQLWC=0.4
+|
+
+o
+7
+_
+;
+RADIUS (MICROMETERS)
+
+l'o
+
+I
+
+=',
+
+,2
+
+13
+
+Fig. 1. Satellite-measured
+3.7 #m reflectance vs aircraft-measured
+droplet size. Dashed lines
+indicate model reflectance
+for distributions
+of different,widths
+(D2-narrow,
+Dl-wide,
+D3moderate).
+Solid lines indicate the 95% confidence
+interval for the data points.
+
+1
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+0.9
+0.8
+
+<_
+
+_>
+
+_
+
+0.7
+0.6
+Ch 1
+Refl.
+
+_<>
+
+<_
+<><>
+
+<>
+0.5
+
+©
+
+0.4
+0.3
+0.2
+0.1
+0
+
+I
+
+I
+
+I
+
+I
+
+I
+
+6
+
+5
+
+I
+
+7
+
+8
+
+9
+
+10
+
+11
+
+FSSP
+Fig. 2. Same
+
+154
+
+as Fig.
+
+LWC
+
+gm
+
+= 0.30
+
+1 but
+
+m 3.
+
+Mean
+
+for 0.63 pm
+
+Drop
+
+reflectance
+
+Radius
+and
+
+12
+
+(micron)
+
+normalized
+
+to thickness
+
+= 200
+
+m and
+
+Fig. 3. Cloud reflectance
+
+from composited AVHRR
+
+Channel 1 (0.63 #m wavelength)
+
+data for
+
+August 1986.
+
+Fig. 4. Same as Fig. 3 but for AVHRR
+
+Channel 3 (3.7 #m wavelength)
+
+data.
+
+,_",'.:-,_-_°--. PAGE IS
+0_" ;_OC-R QUALITY
+
+155
+

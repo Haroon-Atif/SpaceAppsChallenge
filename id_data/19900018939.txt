@@ -1,0 +1,1629 @@
+N90-28255
+STRATUS:
+
+AN
+
+INTERACTIVE
+
+STEADY
+
+FOR
+Thomas
+Department
+
+1.
+
+PERSONAL
+A. Guinn
+
+of Atmospheric
+
+Science,
+
+STATE
+
+MIXED
+
+LAYER
+
+MODEL
+
+COMPUTERS
+and Wayne
+
+Colorado
+
+H. Schubert
+
+State
+
+University,
+
+Fort Collins,
+
+CO 80523
+
+INTRODUCTION
+We present
+
+ary layer model
+The conservative
+
+here a steady-state,
+based primarily
+thermodynamic
+
+horizontally
+
+homogeneous,
+
+cloud-topped
+
+on the work of Lilly (1968) and
+variables
+are equivalent
+potential
+
+marine
+
+bound-
+
+Schubert
+et al. (1979).
+temperature
+0e and to-
+
+tal water mixing ratio q + g. Some of the differences between this and Lilly's (1968) model
+are: (1) radiation
+is allowed to penetrate
+into the boundary
+layer; (2) cloud top values
+of longwave radiation,
+equivalent
+potential
+temperature,
+and water vapor mixing ratio are
+linear functions
+of height derived
+the closure assumption
+assumes
+
+from climatological
+a weighted average
+
+data at California coastal stations; (3)
+of Lilly's (1968) maximum
+and mini-
+
+mum entrainment
+theories.
+This model has been programmed
+interactively
+on an IBM-compatible
+personal
+computer.
+The
+specify the geographical
+location,
+scale horizontal
+divergence,
+and
+the steady state
+tial temperature
+
+the wind
+the initial
+
+speed, the sea-surface
+temperature,
+guess for cloud top height.
+Output
+
+the large
+includes
+
+values of cloud top and cloud base height, mixed layer equivalent
+potenand total water mixing ratio, and the associated
+convective
+and radiative
+
+fluxes. The notation used throughout
+the subscript
+U replaces UH.
+2.
+
+in FORTRAN
+and will run
+program
+allows the user to
+
+RADIATION
+
+this abstract
+
+is that
+
+of Lilly with the exception
+
+that
+
+PARAMETERIZATION
+
+Since longwave cooling off cloud top is the important
+driving mechanism
+in the cloudtopped marine boundary
+layer, the radiation
+paramaterization
+warrants
+a detailed description. We follow the philosophy
+that, consistent
+with the limitation
+of the vertical thermodynamic structure
+to two degrees of freedon, the vertical resolution
+of the radiative
+cooling
+should also be limited to two degrees of freedom.
+This means radiation
+can appear at most
+in the mixed layer thermal
+budget equation,
+and the cloud top jump condition.
+This is
+slightly more general than Lilly's restriction
+of the radiative
+cooling to the cloud top jump
+condition.
+Thus, we write the equations
+for the changes in radiative
+fluxes across cloud top
+and across the mixed layer as
+FU
+
+-
+
+F H
+
+:
+
+(pCp) -1 {(1-
+
+#)(aTe4
+
+- EIU)-
+
+(1 - #')S},
+
+(1)
+
+-
+
+#'s},
+
+(2)
+
+and
+
+F. - F, : (.cp)-,
+where p is the
+top temperature
+portion
+
+constant
+air density, a is the Stefan-Boltzmann
+constant,
+TH is the cloud
+in Kelvin, _1 is the downward longwave radiative
+flux attributed
+to that
+
+of the atmosphere
+
+which
+
+lies above
+
+the mixed
+
+layer, S is the absorbed
+
+broadband
+
+179
+PEECE,_]';';G PAGE
+
+_°'`-,-.,-,."_''v,'.,- FILMED
+NOT
+
+shortwave
+
+radiative
+
+respectively.
+
+flux,
+
+These
+
+and
+
+# and
+
+partitions
+
+the
+
+radiation
+
+parameterization
+
+the
+
+subscript
+
+U will
+
+subscript
+
+H will
+
+those
+
+properties
+
+small
+
+height
+
+longwave
+
+at
+
+height.
+
+The
+
+Summary.
+
+Two
+with
+1976
+
+longwave
+the
+
+the
+
+and
+
+U.S.
+
+the
+
+locations
+
+midlatitude
+
+ozone
+
+solar
+
+the
+
+units
+
+radiation
+
+profile
+
+by Cox
+
+H
+
+are
+
+two
+
+The
+
+locations.
+
+Wm -2
+
+by Lilly
+
+and
+
+and
+
+model
+
+data
+
+top
+
+five years
+
+Data,
+
+National
+
+sounding
+
+Standard
+
+resulting
+
+downward
+
+for the
+
+data
+
+Atmosphere
+
+into
+
+was
+
+to
+
+of cloud
+
+The
+
+output
+
+the
+
+at some
+
+the
+
+function
+
+U.S.
+
+a broadband
+
+used
+
+to calculate
+
+equations
+
+are given
+
+by
+
+Oakland,
+San Diego,
+
+m respectively.
+i.e.
+
+properties
+
+Oakland.
+
+the
+
+sections
+top,
+
+S will refer
+
+model,
+
+gkg -1 was input
+
+for
+for
+
+(1968),
+
+this
+
+to zero,
+
+cloud
+
+Climatological
+
+The
+
++ 0.03077H
++ 0.32360H
+
+to those
+
+set
+
+following
+
+subscript
+
+sounding
+
+from
+
+of 0.501
+
+(1973).
+
+the
+
+partitions
+
+are
+
+above
+
+as a linear
+
+Diego
+
+as taken
+
+in the
+
+For
+
+average
+
+San
+
+profile
+
+for the
+
+suggested
+
+is expressed
+
+used,
+
+written
+
+for L:_u and
+
+refer
+
+July
+
+model
+
+is that
+
+0 will
+
+to be 10 m).
+
+of Commerce
+
+dioxide
+
+relationships
+
+and
+
+radiation
+If both
+
+air just
+top,
+
+on the
+
+carbon
+
+linear
+
+Here
+upper
+
+Dept.
+
+were
+
+£1U = { 314.0
+333.1
+where
+
+(2)
+
+a uniform
+
+radiation
+
+required
+
+taken
+
+to one.
+
+cloud
+
+subscript
+
+based
+
+California
+
+and
+
+in (1)
+
+from
+
+as extracted
+
+Table,
+
+the
+
+was derived
+
+1976-1980
+combined
+
+and
+
+below
+
+shortwave
+
+zero
+
+case.
+
+of the
+
+just
+
+and
+
+from
+
+to Lilly's
+
+properties
+
+(typically
+
+term
+
+longwave
+
+on values
+
+properties
+
+surface
+
+flux
+
+function
+
+those
+
+surface,
+
+the
+
+radiative
+
+to
+
+to those
+
+the
+
+above
+
+take
+
+reduces
+
+refer
+
+refer
+
+#' ai-e the
+
+can
+
+(3)
+
+The
+
+S = 22.3
+
+value
+
+of the
+
+absorbed
+
+Wm -2.
+
+To calculate
+TH, we start with the equation
+for potential
+temperature
+at cloud top (0H).
+potential
+temperature
+at cloud top is equal to the potential
+temperature
+at cloud base
+
+The
+
+(Oh) plus
+top, i.e.
+
+the
+
+change
+
+that
+
+occurs
+
+when
+
+OH =Oh
+In addition,
+the definition
+
+Oh can be calculated
+of 0e, i.e.
+
+following
+
+a moist
+
++b
+our
+
+from
+
+(1--_a)
+conservative
+
+adiabat
+
+from
+
+cloud
+
+base
+
+to cloud
+
+(H-a -- h) .
+
+(4)
+
+thermodynamic
+
+variables
+
+by use
+
+of
+
+_h = 8o -- L__(q + 0-
+
+(5)
+
+Cp
+
+To obtain
+tion and
+expression
+
+the
+
+expression
+
+for the
+
+the integrated
+is
+
+temperature
+
+hydrostatic
+
+TH=
+where
+3.
+
+PH is determined
+THE
+
+With
+
+the
+
+combined
+of
+the
+
+two
+
+entrainment
+budget
+
+180
+
+discussion
+
+surface
+top
+
+flux
+
+of the
+
+a
+from
+
+radiation
+model.
+
+equations,
+
+assumption,
+and
+
+base
+
+the
+
+top
+
+layer
+jump
+
+completed,
+
+equations,
+
+radiation
+
+mixed
+
+equaresulting
+
+(6)
+
+MODEL
+
+model
+
+cloud
+
+cloud
+
+The
+
+H.
+
+the
+
+the
+the
+
+Poisson's
+
+form.
+
+,
+
+\Po/
+
+parameterization
+The
+
+we use both
+
+temperature
+
+(H-h)
+
+equation,
+
+temperature
+
+equations,
+
+top (TH),
+
+in potential
+
+CONVECTIVE-RADIATIVE
+
+convective-radiative
+
+cloud
+
+a
+b
+
+8h+
+
+hydrostatically
+
+COMBINED
+
+at cloud
+
+equation
+
+equation,
+
+equivalent
+condition
+
+we can
+
+which
+the
+
+equations,
+potential
+
+cloud
+the
+
+top
+
+jump
+
+potential
+
+write
+
+below,
+
+consistency
+
+temperature
+
+on equivalent
+
+now
+
+are listed
+
+definitions,
+relation,
+
+and
+
+the
+
+consist
+
+total
+
+the
+water
+
+temperature.
+
+These thirteen
+equations
+form a closed set in the thirteen
+unknowns
+H, h, Oe, (q + g), At/e,
+A(q + g), TH, (Fu - FH), (FH -- Fs), (w'8_)o, w'(q' + g')o, (w'Ote) H, and w'(q' + _')H"
+
+(w'O')o = @v(Ors - or)
+w'(¢
+
++ U)o = CTV[qs
+
+(7)
+(8)
+
+- (q + g)]
+
+h = (1 + cQ(qs - qo) - a(Ors - Or)
+b
+
+(9)
+
+AOr = Oru - Or
+
+(lO)
+
+_X(q _) : qu - (q + e)
++
+
+(11)
+
+: +
+
+(.
+
+a
+
+Fu
+
+FH
+
+=
+
+(pep)
+
+FH
+
+--
+
+FS
+
+-1
+
+=
+
+{(1-/z)(o'T
+
+(pCp)
+
+-1
+
+h
+
+-HI] ,
+[ "t(O'T4"
+
+)
+--
+
+/_b)-
+
+--
+
+J_'b
+
+(12)
+
+(1-
+
+)-
+
+/it)S}
+
+Itts'_'
+
+(13)
+
+,
+
+(14)
+
+J
+
+al:] [_ (w,o:).
+
+all
+a21
+
+(15,16)
+
+O0c
+
+(w'or_)o (_'o" )H - (rH - Fs)
+-
+
+Ot
+
+H
+
+(17)
+
+- w'(q' + g')H
+H
+
+(18)
+
+O(q + g)
+Ot
+
+(w'q')o
+
+OH _ Fu - FH - (w'O_)H
+Ot
+Ao,
+Equations
+
+(15) and (16) are simply
+
+and the closure assumption.
+to the above model.
+4.
+
+THE
+
+STEADY-STATE
+
+In the steady-state
+
+a shorthand
+
+In the following
+
+matrix
+section
+
+_ DH.
+
+(19)
+
+notation
+
+for the consistency
+
+we discuss
+
+the steady-state
+
+relation
+solutions
+
+SOLUTIONS
+
+case all derivatives
+
+with respect
+
+to time are set to zero, which
+
+results
+
+in a system of nonlinear
+algebraic equations.
+The method we have chosen to use in solving
+for the steady-state
+solutions is to reduce our system of equations
+to one equation
+in H.
+We can then use a simple secant method
+algorithm
+to iteratively
+find its zero.
+Before
+describing
+the steady-state
+model equations,
+it should be mentioned
+that the total water
+flux w'(q' + g') becomes
+constant
+with height.
+This can seen directly
+reason, the subscripts
+on this variable are deleted.
+
+from
+
+(18).
+
+For this
+
+The first step is to derive expressions
+for the surface fluxes of equivalent
+potential
+perature
+and total water.
+The former is accomplished
+by eliminating
+the dependent
+ables 0, and (wrOte)H between
+expression
+is
+(w'O')o
+
+the steady-state
+
+forms
+
+of (7), (17)
+
+= (Fu - FH) + (FH - Fs) + DH(Ors
+(1 + cD__v
+)
+
+and
+
+(19).
+
+The
+
+temvari-
+
+resulting
+
+- 8cu)
+(20)
+
+181
+
+The
+
+latter
+
+expression
+
+is derived
+
+similarly,
+
+resulting
+
+w'(q' + g') =
+
+It should
+
+be noted
+
+vapor mixing ratio
+same climatological
+
+that
+
+the cloud
+
+top values
+
+in
+
+DH(qs
+- qu)
+---- -D---H--_"
+
+of equivalent
+
+potential
+
+temperature
+
+(0eU and qv respectively)
+are linear functions of height
+data as used in the radiation
+paramaterization.
+
+We can also eliminate
+0r from our cloud base equation.
+tuting (7) and (8) into (9). The resulting expression
+is
+h = (1 + a)w'(q'
+
+To derive
+
+(21)
+
+an expression
+
+for
+
+(WtOle)H,
+
+we
+
+and water
+
+derived
+
+This is accomplished
+
+from the
+by substi-
+
++ g') - a(w'O_)o
+bCTV
+
+eliminate
+
+(22)
+
+0r from (19) by using (7), which
+
+results
+
+in
+DH
+= (Fu - FH) - _TV(W
+
+(w'O_)H
+
+Finally, we need to derive the
+however, it is necessary to provide
+the surface, just below cloud base,
+These expressions
+expressions
+can
+
+=
+
+( L-o6)
+
+(w O_)h
+''
+
+where
+
+(w'O_)h is given
+
+(X Ta'(l + _ + '))
+
+(24)
+
+w'(q' + g'),
+
+L
+
+(25)
+
+(_'O')h
+
++ g'),
+
++ g')'l
+
+(w'O_)u-Ow'(q'
+
+(26)
+
+(27)
+
+by
+
+(w'O_)h =
+With
+
+(23)
+
+-(_-_i_)w,(q'+g,),
+
+(w,O_)h+ = (1 + aO(1 + 6)_
+1+o_
+k
+]
+
+(W'O_)H=
+
+- O_v).
+
+steady-state
+closure equation.
+Before this can be done,
+expressions
+for the virtual potential
+temperature
+flux at
+just above cloud base, and at cloud top, respectively.
+be shown to take the form
+
+(w'O_v)O = (w'O_)o-
+
+(w'O')h-
+
+, ,
+O_)o + DH(O_s
+
+the above variables
+
+defined,
+
+h'_
+h.,,
+1 -- -_) (w'O_)o + --_(w O_)H.
+
+we can now derive our closure
+
+average of Lilly's (1968) maximum
+and minimum
+equations.
+This closure equation takes the form
+
+(28)
+
+equation.
+
+entrainment
+
+We use a weighted
+
+case to close
+
+k
+t
+-ff j_oH w'O,dz + (a - k)(w_Ov)_m_n, = O,
+where
+assume
+
+182
+
+k is a weighting
+
+parameter
+
+the daily averaged
+
+which
+
+solar radiation
+
+can take
+
+on values
+
+is never strong
+
+in the range
+
+enough
+
+our
+
+system
+
+(29)
+0 _< k < 1. If we
+
+to overcome
+
+the longwave
+
+cooling and thus produce
+flux must always be just
+(29) can be integrated
+
+a net warming affect, the minimum virtual potential
+below cloud base. This can be seen from (17). With
+
+temperature
+this in mind,
+
+to give
+
+h
+'
+2(1k- k) (w'0")h- + (w,0,). + (w'0")h+ + _[(w ' ov)s + (w'8")h-
+
+(w'e').-
+
+(w'e')h+] = 0.
+(30)
+
+We now have a closed
+
+set of equations
+
+(12)-(14),
+
+(20)-(28),
+
+and (30)in
+
+the unknowns
+
+H, h, TH, (Fu - FH), (F_ - Fs), (w'O')m (w'O')h, (w'O')o, w'(¢ + e'), (w'O')H, (w'O')h+,
+I
+
+!
+
+(w Ov)h- , and (w'O_)o. The method we have chosen to solve this system
+be explained
+in the following four step iteration
+sequence.
+(1)
+
+Make
+
+an initial
+
+guess
+
+of the cloud
+
+top height
+
+H and the cloud
+
+of equations
+
+top jump
+
+can
+
+in radiative
+
+flux (Vu -Ftt).
+(2)
+
+Using the current estimates
+of H and (Fu- FH), calculate in order (w'O_)o, w'(q' + g'),
+h, (w'_)H
+and the four virtual potential
+temperature
+fluxes using (20)-(27).
+
+(3)
+
+Again
+
+using
+
+the
+
+current
+
+estimate
+
+(Fu - FH), and (FH - Fs).
+the next iteration
+if another
+(4)
+
+5.
+
+of H,
+
+calculate
+
+This newly calculated
+iteration
+is required.
+
+the
+
+new radiation
+
+variables
+
+value of (Fu - FH) will be used in
+
+Using the above fluxes, check to see if (30) is satisfied to within some tolerable
+If it is not, use the secant method to produce a new estimate
+of H and repeat
+(2)-(3) until (30)is satisfied.
+RUNNING
+
+THE
+
+TH,
+
+limit.
+steps
+
+PROGRAM
+
+The FORTRAN
+source code for the above
+in the file STRATUS.FOR
+and the executeable
+
+model is stored on the attached
+code in the file STRATUS.EXE.
+
+floppy disk
+To run the
+
+program,
+simply enter STRATUS.
+You will be prompted
+to enter the sea-surface
+temperature, the large scale horizontal
+divergence,
+the wind velocity, and the initial guess for cloud
+top height.
+The output consists of cloud top and cloud base height, mixed layer equivalent
+potential
+temperature
+and total water mixing ratio, values of the convective
+and radiative
+fluxes
+6.
+
+and
+
+the cloud
+
+top temperature.
+
+REFERENCES
+Cox, S.K., 1973:
+continuum.
+
+Infrared
+Quart.
+
+heating calculations
+J.R. Meteor. Soc.,
+
+Lilly, D.K., 1968: Models of cloud-topped
+J.R. Meteor.
+Soc., 94, 292-309.
+Schubert,
+
+W.H.,
+
+convection.
+J. Atmos.
+U.S. Dept.
+
+J.S.
+
+Wakefield,
+
+E.J.
+
+with a water
+99,669-679.
+
+mixed
+
+Steiner,
+
+Part I: Governing equations
+Sci., 36, 1286-1307.
+
+of Commerce,
+
+Environmental
+
+tal Data Service,
+1976-1980:
+Printing
+Office, Washington,
+
+Science
+
+vapor
+
+layers under
+
+S.K. Cox,
+
+a strong
+
+1979:
+
+and horizontally
+Services
+
+Climatological
+DC.
+
+Data,
+
+pressure
+
+broadened
+
+inversion.
+
+Marine
+
+stratocumulus
+
+homogeneous
+
+Administration,
+National
+
+Quart.
+
+solutions.
+
+EnvironmenSummary.
+
+Govt.
+
+183
+

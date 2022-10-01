@@ -1,0 +1,6018 @@
+NASA
+
+TECHNICAL
+
+DAMAGE
+
+MEMORANDUM
+
+TOLERANCE
+
+GRAPHITE/EPOXY
+
+102702
+
+OF WOVEN
+
+BUFFER
+
+STRIP
+
+PANELS
+
+John M. Kennedy
+(HACA-r_-IO270Z)
+GOAPHITF-cPOXY
+47
+n
+
+_A,_4^.O_
+T_LcC_ANC¢
+_'iJF_-_=_ 3T_IP
+PANFLS
+
+Ngo-z_ZI_
+
+nF
+WOYEi_
+(NASA)
+CSCL
+2OK
+C 3f39
+
+August
+
+1990
+
+N/ A
+National Aeronautics
+Space Administration
+
+and
+
+Langley Research Center
+Hampton, Virginia 23665-5225
+
+ABSTRACT
+Graphite/epoxy
+measure
+spaced
+
+their residual
+narrow
+
+cloth where
+
+remote
+
+strain
+
+strain,
+
+The notched
+
+region
+
+S-glass.
+
+material
+
+and thickness
+
+strips
+damage.
+
+Panels
+
+was woven
+
+buffer
+
+strips.
+
+buffer
+
+snips
+
+The
+
+were
+
+directly
+
+in tension
+
+buffer
+
+made
+
+strips
+
+opening
+
+Panels
+
+displacement
+
+to
+
+were regularly
+
+were loaded
+
+were radiographed
+
+and shear
+
+with a uniweave
+
+into the cloth.
+
+The panels
+
+at the end of the slit, and crack
+and nearby
+
+were tested
+
+graphite
+were made
+
+to failure
+
+while
+
+were monitored.
+
+periodically
+
+to reveal
+
+crack
+
+and damage.
+Except
+
+The
+
+buffer
+
+buffer
+
+with crack-like
+
+of continuous
+
+the S-glass
+width
+
+with S-glass
+
+strengths
+
+strips
+
+with different
+
+growth
+
+panels
+
+strength
+
+all-graphite
+
+for panels
+(or failing
+
+panels
+
+stronger
+
+than panels
+
+strength
+
+of tension
+
+of the shear
+
+panels
+
+with
+
+with short
+strain)
+
+the buffer
+
+of the panels
+
+the same
+
+length
+
+with thin, narrow
+panels
+
+slits,
+
+with wide buffer
+
+and the tension
+
+panels
+
+arrested
+
+was significantly
+
+slit.
+
+buffer
+
+strips
+
+Panels
+
+strips.
+snips
+
+with
+
+higher
+wide,
+
+A shear-lag
+
+accurately,
+
+with narrow
+
+buffer
+
+the propagating
+
+thick
+
+model
+
+than the strength
+buffer
+predicted
+
+but over-estimated
+strips.
+
+crack.
+
+strips
+
+of
+were
+
+the failing
+the strength
+
+INTRODUCTION
+Advancedcomposites very attractivematerialstk)r usein aircraft structures
+are
+becauseof their high specific strengths and moduli. Unfortunately, the common
+graphite/epoxy
+systems
+behave a brittle fashion;andthus,panelswith damage(holesor
+in
+cracks)havemuchlower strengths
+thanundamagedanels.Hybrid composites
+p
+(composite
+laminateswith two or morefiber types)andbuffer strippanels(panelswith discreteregions
+of hybridcomposite)
+havehigherdamagetolerance
+characteristicshanall-graphitesystem
+t
+([1] and [2]) because themix of high andlow strainfibers. Unfortunately,the hybrids
+of
+areusuallyheavierthantheall-graphitesystem,andthe stiffnessmay bemuchlower than
+the all-graphitelaminate. Figure 1 showsthe specificmoduli andspecificstrengthsfor a
+quasi-isotropic
+all-graphitepanel,anS-glass/graphiteybridlaminate,anda graphitebuffer
+h
+strippanelwith 13mmwide S-glass
+buffer strips.The specificstrengths
+shownarefor 254
+mm widepanelswith 51 mmslits. The dataaretakenfrom [11and[2]. The figure shows
+thatthebuffer strip panelshaveboththelight weightandhigh modulusof the all-graphite
+composite
+andevenbetterdamage
+tolerance
+characteristics
+thanthe hybrid composite.
+Buffer strip panelsaremadeby replacingnarrowstripsof graphiteplies with plies
+of another
+materialsuchasS-glass Kevler-491.Figure2 showsacross-section f atypical
+or
+o
+buffer strip andpanel. The stripsare spaced
+acrossthe width of the panel. Because
+the
+cross-sectional
+areaof thebuffer stripsis small,theweightandstiffnessof thepanelarenot
+appreciablyaffectedby tile dcnse,low modulusbuffer material. Thedamagetoleranceof
+the panelis improvedbecause
+crackspropagatingfrom damagearearrested the buffer
+by
+stripsandthepanelcarriesadditionalload beforefailing. The cracksarearrested
+because
+the modulusof resilienceor toughness the S-glass
+of
+andKevlarfibers is greaterthanthat
+
+1
+
+Kevlar-49,Registered
+trademark
+ofE. I. du PontdeNemoursandCo.,Inc.
+
+of the graphitefibers l 1]. Usually delaminations
+and
+strips
+
+ahead
+
+of the arrested
+
+The buffer
+turing
+
+strip panels
+
+cost was high because
+
+the laminate.
+weave
+
+cloth
+
+materi',d
+
+[4].
+
+These
+
+uniweave
+
+cloth
+
+to those
+
+tions were investig_lted
+Panel
+
+strengths
+
+elevates
+
+in [ 1] were made
+
+each
+
+strip of buffer
+in this paper
+were
+
+cracks
+
+the residual
+
+material
+
+much
+
+cheaper
+a textile
+
+develop
+
+in the buffer
+
+strength
+
+even
+
+more
+
+using prepreg
+
+tape.
+
+The manufac-
+
+had to be individually
+
+are for panels
+
+into the cloth using
+
+to make
+
+objective
+
+reported
+
+panels
+
+was incorporated
+
+The
+
+which
+
+reported
+
+The results
+
+labor was required
+
+shear.
+
+cracks
+
+matrix
+
+made
+
+using
+
+to manufacture
+weaving
+
+placed
+
+into
+
+a unidirectional
+
+because
+
+process;
+
+[3].
+
+the
+
+buffer
+
+thus, no additional
+
+the panel.
+
+of this paper
+of panels
+which
+
+is to compare
+
+made
+
+from prepreg
+
+were not investigated
+
+are compared
+
+the
+
+to predictions
+
+strengths
+
+tape.
+
+Also,
+
+of panels
+several
+
+panel
+
+in 111, and a few panels
+from a shear
+
+made
+
+lag analysis
+
+out
+
+configura-
+
+were tested
+[lJ.
+
+of
+
+in
+
+NOMENCLATURE
+a
+
+half-length
+
+COD
+
+crack-opening
+
+E
+
+Young's
+
+modulus,
+
+Eo_b
+
+Young's
+
+modulus
+
+G
+
+shear modulus,
+
+ho,hb
+
+thickness
+of a ply in basic
+cloth respectively,
+m
+
+Kt
+
+strain concentration
+
+K_
+
+strain
+
+intensity
+
+Keq
+
+critical
+
+strain
+
+Ls
+
+length
+
+Qc
+
+general
+
+t
+
+total thickness
+
+W
+
+width
+
+of tension
+
+Wa
+
+length
+
+of arrested
+
+Wb
+
+width
+
+of buffer
+
+Sc
+
+critical
+
+failing
+
+E
+
+axial strain
+
+I_tub
+
+ultimate
+
+tensile
+
+strain
+
+of buffer
+
+etuf
+
+ultimate
+
+tensile
+
+strain
+
+of 0 ° graphite
+
+I_yF
+
+critical
+
+far-field
+
+Ey
+
+tensile
+
+strain
+
+Ey
+
+critical
+
+far-field
+
+tensile
+
+&
+
+critical
+
+damage
+
+size, m
+
+7
+
+shear
+
+V
+
+Poisson's
+
+P
+
+of crack,
+
+m
+
+displacement,
+
+m
+
+Pa
+of 0 ° Gr/Ep
+
+and 0 ° buffer
+
+material,
+
+respectively,
+
+Pa
+
+Pa
+laminate
+
+and thickness
+
+of buffer
+
+material
+
+factor
+
+factor,
+intensity
+
+factor,
+
+of a side of the shear
+fracture
+
+toughness
+of laminate,
+
+panels,
+
+m
+
+parameter,
+m
+
+panel
+crack or distance
+
+between
+
+buffer
+
+strips,
+
+strip, m
+stress,
+
+Pa
+
+tensile
+
+in infinite
+
+strain
+
+material
+ply
+
+in tension
+
+panel
+
+sheet due to compressive
+strain
+
+in shear
+
+strain
+ratio
+
+3
+
+panel
+
+loading
+
+m
+
+in uniweave
+
+P
+
+kg
+density,
+
+critical
+
+far-field
+
+shear
+
+stress,
+
+Pa
+
+Subscripts
+x,y,x',y"
+
+Cartesian
+
+1,2
+
+coordinates
+
+coordinates
+parallel
+
+and perpendicular
+
+4
+
+to fibers
+
+EXPERIMENTAL PR£K2EDURES
+MaterialsandSpecimens
+The specimens
+weremade
+Details
+
+of the cloth,
+
+a sample
+strips.
+
+with T3002
+
+test specimens,
+
+and curing
+
+of the cloth with the S-glass
+The cloth had 95 percent
+
+direction.
+
+The fill fibers
+
+into the cloth.
+
+widths;
+
+were
+
+woven
+
+layers
+
+procedures
+
+in the warp
+
+also S-glass.
+
+Three
+
+of S-glass
+
+glass
+
+uniweave
+
+in [4].
+
+are given
+
+Figure
+
+into the cloth
+direction
+
+buffer
+
+and 5 percent
+
+fibers
+
+were
+
+3 shows
+
+in the fill
+
+were woven
+
+(_o b = 1]with
+
+hb_
+(see fig. 2, _-o - 2 ) which
+
+h/_° = 41 which
+
+cloth.
+
+to form the buffer
+
+strip configurations
+
+had one layer of S-glass
+
+had two layers of S-glass
+
+and the third had four
+
+and S-10143
+
+periodically
+
+of the fibers
+
+The first configuration
+
+the second
+
+graphite
+
+various
+
+were 6.4 mm wide;
+
+3.2 mm wide.
+
+Thus,
+
+some
+
+and
+
+thick-
+
+F
+
+buffer
+
+strips
+
+nesses.
+
+had the same
+
+The spacing
+Tension
+
+shows
+
+sketches
+
+geometry,
+
+from centerline
+
+and shear
+of typical
+
+panels
+tension
+
+One
+
+group
+
+except
+
+and shear
+
+one
+
+quasi-isotropic
+
+2
+
+T300:
+
+3
+
+S-1014:
+
+of tension
+group
+
+lay-up
+
+panels
+
+of tension
+
+Registered
+
+panels
+
+using
+
+material.
+
+panels
+
+snips
+
+which
+
+Trademark
+
+of Union
+of 3M
+
+Carbide
+
+cloth.
+
+1 lists laminates,
+panels
+
+Figure
+buffer
+
+4
+
+strip
+
+were 250 mm
+
+305 mm on a side.
+
+material
+
+48 plies
+
+All of the shear panels
+
+Trademark
+
+panels
+
+in all plies.
+was
+
+the uniweave
+
+All of the tension
+
+were square
+
+widths
+
+strips was 64 mm in all cases.
+
+and Table
+
+and most had buffer
+
+had buffer
+
+and cross-plied.
+
+Registered
+
+buffer
+
+but different
+
+of the buffer
+
+manufactured
+
+The shear panels
+
+had a quasi-isotropic
+
+area of S-glass,
+
+to centerline
+were
+
+and the plies containing
+
+wide and 500 mm long.
+panels
+
+cross-sectional
+
+The tension
+
+that was in only the 0 ° plies.
+
+All panels
+thick.
+
+had buffer
+
+were
+
+The
+material
+
+shear
+
+16 plies thick
+panels
+
+were
+
+in the 0 ° and 90 °
+
+plies. Table 1 showsthe numberof panelstested eachconfiguration. Slits between5
+for
+mmand44 mm long weremachinedinto the centerof eachspecimen simulate
+to
+damage.
+A sheet, adewith theall-graphiteclothwith thestackingsequence
+m
+[45/0/-45/9012S,
+wascut into tensileandfracturecoupons.The layoutof the sheetis shownin [4]. Elastic
+propertiesandtensilestrengthsweredetermined
+from testson thecoupons. The fracture
+properties
+weredetermined
+fromcouponswhichhadcentralslits between mmand51mm
+8
+long. For reference, verage
+a
+propertiesfrom thesetestsaregiven in Table2.
+TestProcedures ndEquipment
+a
+Both tension and shearpanelswere loadedto failure at about 500 N/sec in a
+servo-controlled, losed-looptestingmachine. Load, strain,andcrack-opening
+c
+displacement(COD) of the slit wererecordedusinga digital dataacquisitionsystem.Periodically
+during theteststheloadingwasstopped, ndtheregionaroundtheslit wasradiographed
+a
+to
+revealdamage
+attheendsof theslit. An X-ray opaque
+dye,zinciodide,wasusedtoenhance
+the imageof thedamaged
+areas.
+The shearpanelsweretestedin a pictureframeshearfixture designed minimize
+to
+the stress
+concentrations thecornersof thespecimen[5]. The shear anels,which were
+at
+p
+16 plies thick, were thin and could buckle before the slit could initiate fracture.Thus
+aluminumguideplateswereusedto constrain
+thepanelfrombuckling. Two typesof plates
+wereused: the first coveredthe entirepaneland the secondhada centralopeninglarge
+enoughto uncovertheareaaroundtheslit andthetwo adjacentbuffer strips. Theopening
+facilitatedradiographicexamination
+while underload.
+
+6
+
+RESULTSAND DISCUSSION
+Theresultsof
+
+all tests are presented
+
+that data
+
+can readily
+
+response
+
+of all the specimens
+
+strains
+
+times
+
+be compared
+
+the elastic
+
+for different
+
+was linear
+
+modulus
+
+in Table
+
+laminates
+
+elastic,
+
+reported
+
+1 in terms
+
+so stress
+
+in Table
+
+of strain
+
+and test types.
+
+The fracture
+
+5 shows
+analysis
+
+from a fracture
+curve
+
+curve
+
+analysis
+
+is an upper
+
+results
+
+which
+
+by multiplying
+
+I.
+
+Panels
+
+illustrate
+
+the basic behavior
+
+is for the all-graphite
+
+for composites
+
+limit for failure
+
+of stress so
+
+The stress-strain
+
+can be calculated
+
+Tension
+Figure
+
+instead
+
+laminate
+
+developed
+
+representing
+
+of the buffer
+
+with no buffer
+
+strip panels.
+
+strips,
+
+and it comes
+
+by Poe [6] (see Appendix).
+notch
+
+insensitive
+
+The net sWain
+
+behavior
+
+of the laminate,
+
+i.e.
+
+(1)
+
+The analysis
+laminate
+
+by Poe is based on linear elastic
+
+configuration
+
+fracture
+
+analysis
+
+for all laminates
+
+and fiber
+
+and experimental
+
+Failing
+
+crack-tips
+
+are greater
+
+predicted
+
+swains
+
+in the
+
+than
+fibers
+
+the swain at which
+
+in [1] and [2] for buffer
+Figure
+
+5 shows
+
+cracks
+
+were
+
+crack
+then able
+
+for
+
+large
+
+the prediction
+
+Typically,
+
+amounts
+that
+
+5 shows
+
+propagated
+
+the fracture
+
+was not arrested
+
+in the panels
+
+fracture
+
+large
+
+the
+
+coupons
+
+load,
+
+7
+
+the
+
+at the
+
+analysis
+
+at the
+
+the stress
+accurately
+Similar
+
+data
+
+all fell on or above the prediction.
+
+strain.
+
+with 25 mm and 44 mm slits.
+
+to bear additional
+
+damage
+
+to relieve
+
+strip panels.
+
+of
+
+is excellent
+
+of damage
+
+fracture
+
+by the buffer
+
+initiation
+
+matrix
+
+acts
+
+between
+
+coupons
+
+amounts
+
+the damage
+that
+
+the effects
+
+the correlation
+
+in the buffer
+
+and fracture
+
+failed at the fracture
+
+and includes
+
+of non-critical
+
+exhibit
+
+because
+
+Figure
+
+the cracks
+
+mechanics
+
+from center-notched
+
+laminates
+
+[3].
+
+sWain.
+
+strip panels
+
+the 13 mm slit, and the panel
+the propagating
+
+results
+
+that do not develop
+
+crack-tips.
+
+concentrations
+
+ultimate
+
+fracture
+
+and both failed
+
+strips
+
+in the panel
+
+with
+
+The buffer
+
+strips arrested
+
+The panels
+
+with arrested
+
+at nearly
+
+the same
+
+far-field
+
+strain. Figure6 showsradiographs thepanelwith the25mm slit. Theradiographs
+of
+show
+theregionaroundthe slit andthetwo adjacentbuffer strips;the hour-glass-shaped
+objectin
+the centerof thepictureis the COD gageandfixture for the COD gage. Theradiographs
+weremade beforefractureinitiationandjust afterfracturearrest.Thesecond
+just
+radiograph
+clearly showsthecrackextendinginto thebuffer stripswith substantial
+delaminationin the
+buffer snip at the end of the crack. Fractureandarrestwas alsoindicatedby a sudden
+increase COD andstrainin the buffer strips.
+in
+Typically, the buffer strips will arrestcracks that propagateat swainsbelow the
+remotefailing strainof a panelwith an arrested
+crack. Thereis a smalldynamiceffectthat
+may preventcrackarrestwhenthe strainis just belowthe failing strainof a panelwith an
+arrested
+crack. This is probablythereasonthecrackdid not arrestin thepanelwith the 13
+mm slit (fig. 5) eventhoughthe strainwasabout8 percentbelow the failing strainof the
+panelswith arrested
+cracks.
+Figure7 showsthe averageremotefailing strainfor all the varioustensionbuffer
+snip panelswith arrested
+cracks.Also shownis theremotefailing strainfor anall-graphite
+panelwith no buffer stripsandfor buffersnip panelsmadewith prepregtape[1]. First,the
+figure showsthat the failing strainof buffer strip panelswith arrestedcrackswas much
+higherthanthefailing strainof anall-graphitepanelwith a slit thesame
+lengthasthebuffer
+snip spacing(top bar). Second,the figure showsthat buffer strip panelsmadefrom
+uniweaveclothfailed at aboutthesamestrainaspanelsmadewith prepregtape. And third,
+thefigure showsthatvaryingthebuffer strip width andthicknesssignificantlychanged
+the
+failing strainof thepanels. Consideringonly the resultsfor panelswith buffer materialin
+the0° plies,the resultsshowthatincreasing width of the buffer snip while holding the
+the
+thickness
+constantincreased
+thefailing strain. Considering
+groupsof panelswith the same
+width
+
+buffer
+
+strips,
+
+the panels
+
+hb
+with _ = 2 or 4 had higher
+
+8
+
+failing
+
+strains
+
+than panels
+
+with
+
+hb
+ho
+
+= 1. The dominant
+
+of panels
+ram)
+
+with the thickest
+
+buffer
+
+strain.
+
+strips.
+
+Finally,
+
+the crack)
+
+Figure
+material
+
+ply.
+
+as the two panels
+in the three
+panels
+
+changed
+
+predicted
+
+the stress
+
+extending
+
+reducing
+
+that
+
+9 shows
+
+taken before
+
+initiation
+
+with buffer
+
+delaminations
+strain
+
+12.7
+
+and failing
+
+at which
+
+in the fibers
+
+initiated
+For the
+
+at strains
+
+about
+
+buffer
+
+strips
+
+the additional
+of a panel
+
+with buffer
+
+a large area of delamination
+
+The delaminations
+
+strength
+
+shows
+
+strips
+
+larger
+
+are much
+
+References
+
+of composite
+
+with buffer
+
+an even
+
+in this panel
+
+near the end of the slit. Thus,
+
+in the panels
+
+with buffer
+
+analysis.
+
+initiated
+
+radiographs
+
+to
+
+at the same strain
+
+by the fracture
+
+shows
+
+parallel
+
+the fractures
+
+taken after arrest
+
+fracture
+
+taken
+ply.
+
+with no arrest
+
+that
+
+at the highest
+
+for the panels
+
+in only the 0 ° plies (fig. 6).
+
+the
+
+initiation
+
+ply failed
+
+2 and
+
+laminates
+the higher
+
+in every
+
+by
+
+strains
+
+ply due to
+
+seen in the radiographs.
+plotted
+
+with 12.7 mm wide
+with
+
+strips.
+
+material
+
+increased
+
+for fracture
+
+data
+
+suggests
+
+Figure
+
+(12.7
+
+(section
+
+(fig. 5), fractures
+
+This
+
+into the buffer
+
+delamination
+
+be expected
+
+ply panel
+
+panels.
+
+by the analysis.
+
+area extending
+
+Remote
+
+strains
+
+only in the 0 ° plies
+
+the stress concentration
+
+the large
+
+panels
+
+length
+
+predicted
+
+strain
+
+of a 0 ° graphite
+
+the strains
+
+than those
+
+the failing
+
+with the widest
+
+in every
+
+strain
+
+crack
+
+Interestingly,
+
+The radiograph
+
+than in the panels
+
+7 showed
+
+should
+
+failing
+
+versus
+
+the slits.
+
+because
+
+in the net section
+
+from the ends of the slit. The radiograph
+
+delamination
+larger
+
+material
+
+with the 5 mm sht failed
+
+higher
+
+state around
+
+strips in every ply.
+
+the strain
+
+strain
+
+strip width
+
+was less than that of panels
+
+the ultimate
+
+arrested.
+
+material
+
+was buffer
+
+with buffer
+
+when
+
+The panel
+
+are much
+
+with buffer
+to those
+
+failed
+
+remote
+
+which
+
+panels
+
+strips
+
+the panels
+
+reached
+
+8 shows
+
+in every
+
+however,
+
+buffer
+
+In fact, the panels
+
+and through
+
+equal
+
+parameter,
+
+versus
+buffer
+
+mm wide
+
+strains
+
+Also the fracture
+
+crack
+strips.
+
+buffer
+
+length
+
+Also shown
+
+strips.
+
+The
+
+of the 48 ply panels
+initiation
+
+strains
+
+is shown
+
+were
+
+in figure
+
+for comparison
+
+figure
+
+shows
+
+slightly
+
+for all the panels
+
+9
+
+10 for the 48 ply tension
+are data from
+
+that the fracture
+
+lower
+were
+
+the 16
+
+initiation
+
+than those
+
+of the 16 ply
+
+very close
+
+to the strain
+
+predictedby thefractureanalysis.A studyof thick laminates showedthatfracturestrains
+[8]
+of thick laminatesweresmallerthanthoseof thin laminatesbecause
+thedelaminations
+and
+axial splitsat theendof the slit in a thick laminateweresmallandconfinedto thepliesnear
+the surfaces.
+Analysis
+A shear-lag
+modelwasdeveloped [1] to predictthestrength bufferstrippanels.
+in
+of
+Themodel accounted theeffectsof buffer strip spacing,thickness, idth, andmaterial,
+for
+w
+aswell asaxial splits in the buffer strip,andconstraintplies (pliesotherthanthe0°plies).
+The analysisassumed
+panelfailure whenthe first fiber in the buffer strip next to the crack
+fails.
+F
+
+Figure
+
+11 shows
+
+values
+
+of Ey-
+
+from the shear-lag
+
+model
+
+and from tests, where
+
+the
+
+Etub
+
+crack
+
+arrested,
+
+Test results
+data
+
+from
+
+graphite
+
+panels
+
+correlated
+
+the shear-lag
+
+parameter.
+
+4
+
+for panels
+
+with tape
+
+from the model
+
+in the buffer
+
+damage.
+
+with
+
+made
+
+buffer
+
+with Mylar 4. The open
+
+the analysis
+
+damage,
+
+against
+
+are only shown
+
+The prediction
+
+damage
+
+plotted
+
+The
+
+shape
+
+Only
+
+with
+strip.
+
+[1].
+symbols
+
+the data
+
+from
+
+parameters
+
+were
+
+of the curve
+from
+strips
+
+trademark
+
+are data
+
+was obtained
+
+plies
+
+materials
+
+were
+
+from panels
+
+The
+
+the shear-lag
+chosen
+
+times
+
+were arrested.
+
+by choosing
+[1].
+
+is based
+
+the panels
+
+multiplied
+
+cracks
+
+The buffer
+
+though
+
+the data
+
+registered
+
+where
+
+Even
+
+12.7 mm wide buffer
+
+Mylar,
+
+strip spacing
+
+analysis
+
+correlated
+
+of E. I. duPont
+
+10
+
+solid symbols
+
+are
+
+S-glass,
+
+Kevlar-49,
+
+and
+
+made
+
+with uniweave
+
+to correlate
+
+parameters
+
+so that
+
+model
+
+the
+
+did not explicity
+
+model
+
+the
+
+with data
+
+from
+
+in the model
+
+and from
+
+panels
+and
+
+the uniweave
+
+well with the prediction.
+
+de Nemours
+
+cloth.
+
+did not explicitly
+
+model
+
+with tape
+
+parameter.
+
+The
+
+the shear-lag
+
+on the mechanics
+made
+
+a stiffness
+
+and Co., Inc.
+
+with
+
+is not a
+panels
+
+The data from
+
+theuniweave
+panelswith 6.4 mmand3.2mmbuffer stripswerebelowthepredictedcurve.
+Figure 11,asdid figure 7, showsa substantiallylower failing strainof panelswith narrow
+buffer strip thanpanelswith wide buffer strips.
+The poorcorrelationfor the datafrompanelswith narrowbuffer stripsis dueto the
+failuremodelassumed y the shear-lag
+b
+model.The shear-lag
+modelpredicted
+panelfailure
+whenthe fu'st fiber in the buffer strip next to the crackfailed. However,the panelswith
+narrowbuffer stripsfailed whenthe strainin the graphitefibers on the sideof the buffer
+stripopposite
+thecrackfailed. Figure12showsstraindatafroma stripgage(13straingages
+spaced
+2.03mm oncenter)mountedoverthe buffer strip beyondtheendof theslit. Strain
+is plottedversusdistance
+from thecenterof thepanel. Datashownarefromjust beforethe
+fractureinitiated,just after arrest,andjust beforefailure. The datatakenjust after arrest
+showsa sudden
+increase strainin thebuffer strip. Thestrainsoutsidethebuffer strip did
+in
+not changemuchwhenthecrackranandarrested.The erraticstrainreadings theregion
+in
+of the buffer strip aredueto a delaminationthat formedbetweenthe outer45*ply andthe
+adjacent0° ply. The delaminationformedwhen 1hecrack arrested. After the crack was
+arrested
+andthe loadwasincreased,he delamination
+t
+continuedto grow acrossthe buffer
+strip until it reachedtheouteredgeof the buffer strip. Whenthe delamination
+reachedthe
+outeredgeof thebuffer stripthe panelfailed. Figure 12showsthat,just beforefailure,the
+strainjust beyondthe buffer strip was0.01 which is the failing strainof a 0° graphiteply.
+It is likely thatthepanelfailurebeganin the0° pliesof graphite
+just beyondthe buffer strip
+andnotin the buffersnip. Theshear-lag
+modeldid not predictfailure based thegraphite
+on
+fiber but predictedfailure basedon the first fiber in the buffer strip adjacentto the crack.
+Without matrix damage, he strainsin the buffer slrip dropoff sharplywith distancefrom
+t
+thecrackandthe failure of the panelwill not beginin the graphiteexceptfor very narrow
+buffer strips. With damage,he stress
+t
+concentratic.n the buffer strip is lowered,andit is
+in
+
+11
+
+possibleto fail the adjacent °graphitebeforefailing the buffer material. For wide buffer
+0
+strips,thedamage notgrow across
+did
+thebuffer stripbeforeoverloadingtheS-glass
+fibers.
+Shear anels
+P
+Because
+fractureis controlledprimarily by a tensionstress
+field (modeI), a shear
+panelcanbeanalyzedasa tensionpanelwith anequalcompressive
+stressappliedtransversely. Forthisreason,theslitsin theshear anelswereorientedperpendicularothedirection
+p
+t
+of themaximumtensilestress.Theshearpanels
+behaved thetensionbuffer strippanels:
+like
+thebuffer stripsarrested
+fractures
+thatinitiatedfrom theslit andadditionalloadwasrequired
+to fall the panels. Figure 13 showsresultsfrom the [0/45/90/-4512Shearpanels;remote
+s
+tensilestrainsareplottedagainstcracklengths. Thecurverepresents fractureanalysis
+the
+in
+
+[6] after superposition
+The analysis
+
+the shear
+shown
+strain
+
+panel
+
+was developed
+
+and compressive
+
+using the principal
+
+stress on the panel was equivalent
+in Figure
+
+14.
+
+Because
+
+in the y-direction
+
+tension
+
+of the tensile
+
+and compression
+
+panels.
+
+and
+
+tension
+
+compressive
+
+panel is simply
+
+Thus,
+
+of superposition;
+
+to the combined
+
+the tensile
+
+in the shear
+
+stresses.
+for an infinite
+
+and compression
+
+stresses
+
+are uniaxial,
+
+the sum of the y-direction
+
+the critical
+
+far-field
+
+longitudinal
+
+stresses
+the total
+
+strains
+
+strain
+
+sheet
+
+in the
+
+in the shear
+
+is
+
+£y=£yF
+
+(2)
+
++EyP* = EyF + y-y-_- T,x*'y"
+
+ey
+
+F°
+
+where
+tension
+sheet
+
+e.y _s the critical
+perpendicular
+loaded
+
+strains
+
+longitudinal
+
+to the crack,
+
+in compression
+
+Ex = Ey, the critical
+extensional
+
+far-field
+
+shear
+
+to the principal
+
+in an infinite
+
+and I_y p is the far-field
+
+parallel
+stress
+
+strain
+
+to the crack.
+
+is related
+shear
+
+"r,x "y " =
+
+2Gx
+
+longitudinal
+
+For specially
+
+to the longitudinal
+
+strain
+
+loaded
+strain
+
+orthotropic
+strain
+
+in uniaxial
+in an infinite
+
+laminates
+
+with
+
+by transforming
+
+the
+
+state and thus
+
+"y ' Cy *
+
+12
+
+sheet
+
+(3)
+
+whereGx'y' is the effectiveshearmodulusof the sheetin the x'y' coordinatesystem(see
+fig. 4). Combining(2) and(3) andsolving for Xx y ' gives
+*'
+the uniaxial
+
+in terms
+
+of the fracture
+
+strain
+
+of
+
+sheet,
+,, ,
+'_xy
+=
+
+2Gx
+1-
+
+_y '
+
+F
+
+2Vyx Gx'y"
+
+(4)
+
+Ey
+
+Ey
+and substituting
+
+(4) into (2) gives
+
+.[
+
+ey=
+
+where
+
+Vyx and Ey are the effective
+
+1+
+
+Ey 2VyxG_'y'
+- 2vyxGx'y" )y
+
+Poisson's
+
+(5)
+
+F
+
+ratio and Young's
+
+modulus
+
+in the x,y coordinate
+
+lit
+
+system.
+
+For isotropic
+
+materials
+
+"Cx'y"and ey reduce
+_xy
+
+=Egy
+
+to
+F
+
+(6)
+
+and
+*
+F
+ey = (1 + v)ey
+Finally
+
+using
+
+orthotropic
+
+equation
+sheet
+
+(4), where
+
+with
+
+a crack
+
+ey F is the predicted
+
+under
+
+uniaxial
+
+ten:die
+
+(7)
+far-field
+load
+
+failing
+
+strain
+
+16], the curve
+
+of an infinite
+in figure
+
+13 is
+
+obtained.
+Figure
+analysis.
+Data
+
+which
+
+coincides
+
+The
+strain
+
+previously,
+
+loads.
+
+deformation
+shear
+
+panels
+
+depended
+
+initiation
+
+the prediction
+For these
+(mode
+were
+
+strains
+
+were below
+
+data from tests usually
+
+with the prediction
+
+falls below
+
+or extrinsic
+
+out-of-plane
+
+failing
+
+that the fracture
+
+As mentioned
+
+Data which
+mode
+
+13 shows
+
+ususally
+
+indicates
+panels,
+
+III) caused
+constrained
+
+on the degree
+
+fall above
+
+has little damage
+
+that the specimens
+
+the low fracture
+
+from
+
+of constraint
+
+13
+
+buckling
+around
+
+by the
+
+or on the prediction.
+at the ends of the slit.
+
+are failing
+
+initiation
+
+by the compressive
+
+those predicted
+
+stress
+
+stresses
+parallel
+
+and test results
+the crack.
+
+by a different
+may be due to
+to the slit.
+
+showed
+
+that the
+
+The two panels
+
+with
+
+the lowestfailing strains(fig. 13) hadconstraintplateswith cut-outsaroundthe slit and
+adjacentbuffer stripsso
+highest
+
+failing
+
+suggested
+local
+
+had constraint
+
+that once
+
+buckling
+
+stress.
+
+strain
+
+sion failure
+
+plates
+
+a failed
+
+plates
+there
+
+was no stable
+of fully
+
+strained
+
+panels
+Figure
+
+strain
+failing
+
+from
+
+growth
+
+constrained
+
+accounted
+
+model.
+
+of a tension
+
+for damage
+
+in the
+
+constrained
+
+panels
+
+shear panels
+
+than in the tension
+
+buffer
+
+strip panel
+
+of the panels.
+formed
+
+over
+
+the stress
+
+which
+
+The
+
+radiograph
+
+the entire
+
+width
+
+concentration
+
+developed
+
+the [0/45/90/-4512S
+
+strain
+
+strain
+
+panels
+
+suggests
+
+from the shear
+
+The radiographs
+panel
+
+strip.
+
+as a
+
+The compresparallel
+
+was similar
+
+except
+in the
+
+that the fully con-
+
+tests with predicted
+
+by substituting
+
+(5).
+
+The
+the
+
+shear-lag
+
+failing
+
+panel.
+
+6 predicts
+
+14
+
+shows
+
+the predicted
+model,
+
+strain
+
+which
+
+of the
+
+of a tension
+
+fully
+
+earlier,
+
+in the
+
+and a shear
+
+near the failing
+
+that a delamination
+
+strains
+
+region
+
+has
+
+such damage
+
+reduces
+
+No such delamination
+
+strength.
+
+region
+
+that the combined
+
+loading
+
+This indicates
+strip, which
+were much
+
+failing
+
+and axial splitting
+
+were made
+
+As discussed
+
+and elevates
+
+in the buffer
+
+Reference
+
+load,
+
+The difference
+
+17 shows radiographs
+
+of the [0/9014S panels
+
+panels.
+
+testing
+
+under the constraint
+
+strips.
+
+was obtained
+
+of the tension
+
+growth
+
+propagated
+
+overpredicted
+
+Figure
+
+of the buffer
+
+additional
+
+constrained.
+
+panels
+
+11) into equation
+
+strips Of the shear
+
+the delamination
+
+The failing
+
+cracks.
+
+during
+
+due to the compressive
+
+that there was less delamination
+
+panels.
+
+with the
+
+of the panel.
+
+strip,
+
+in the 0 ° fibers
+
+in the buffer
+
+suppressed
+
+buffer
+
+panel
+
+to the slit, progressed
+
+to the buffer
+
+constrained
+
+failing
+
+(fig.
+
+suggests
+
+with arrested
+
+and at failure
+
+The prediction
+
+panel
+
+was partially
+
+strips adjacent
+
+parallel
+
+fracture
+
+measured
+
+failed
+
+of the fully constrained
+
+partially
+
+failed due to tensile
+
+the shear-lag
+
+strain
+
+and
+
+16 compares
+
+which
+
+region,
+
+of damage
+
+The
+
+under
+
+grew,
+
+region and finally
+
+Failure
+
+load.
+
+Observation
+
+of the buffer
+
+to the edge of the specimen.
+
+under
+
+the damage
+
+shear panel
+
+from the inside
+
+be made
+
+with no cut-outs.
+
+had arrested,
+
+strips in the unconstrained
+
+damage
+
+could
+
+in the unconstrained
+
+15 shows
+
+started
+
+to the buffer
+
+the crack
+
+failure
+
+Figure
+
+that radiographs
+
+of course
+lower
+
+that failing
+
+reduced
+
+the strength.
+
+than the failing
+
+strains
+
+of all-graphite
+
+strains
+
+of
+
+(0/90)
+
+type laminatesshouldbeabouttwo thirds thatof (0/+ 45/90)type laminates.The failing
+strainsof buffer strip panelsshownin figure 16arein aboutthe sameproportion.
+As mentioned
+previously,theshearpanelswereconstrained
+topreventbucklingand
+thustoeliminatetheinfluenceof bucklingor post-buckling
+onthefractureresults.However;
+in design,panelbucklingmustbeaddressed. orthequasi-isotropic
+F
+panelstestedin shear,
+the critical elasticbucklingstress
+wasdetermined
+from [9]
+xl_ ' ,
+
+64rt2Ksho
+
+x y -
+
+2
+
+3Ls(t_v2
+
+(8)
+
+)
+
+where
+
+Ks = 15 and is the boundary
+
+condition
+
+correc:tion
+
+length
+
+of a side of the panel.
+
+equations
+
+(6) and (8), figure
+
+Using
+
+to xxB'y ' versus
+
+panel thickness
+
+12.7 mm wide
+
+buffer
+
+realistic
+
+thicknesses
+
+or damage,
+more
+
+are more likely
+
+to fail due
+
+post-buckling
+
+behavior
+
+shown
+
+figure
+
+buckling
+
+crack.
+
+to buckling
+
+because
+
+the buffer
+
+buckling
+
+analysis
+
+because
+
+slit lengths
+shows
+
+strips
+
+panel
+
+elevate
+
+was used
+
+and for a panel
+
+with
+
+that for panels
+
+with
+
+For larger
+
+a buffer
+
+slits
+
+strip panel
+
+the fracture
+
+to obtain
+
+Post-buckling
+strength
+
+the ratio of Xx*'y'
+
+critical.
+
+In contrast,
+
+taken into account.
+
+the post-buckled
+
+18 shows
+
+may be fracture
+
+to fail due to fracture.
+
+has not been
+
+and Ls = 305 mm and is the
+
+The figure
+
+that an elastic
+
+must be emphasized
+
+in the
+
+and an arrested
+
+with various
+
+(48 plies is 7 mm) shear panels
+
+panels
+
+likely
+
+strips
+
+for plain panels
+
+factor
+
+stress.
+
+figure
+
+is
+It
+
+18 and the
+
+will alter the results
+
+is greater
+
+than
+
+the elastic
+
+stess.
+CONCLUSIONS
+The fracture
+
+a uniweave
+
+graphite
+
+were tested
+
+in tension
+
+strain,
+
+strain
+
+model
+
+for buffer
+
+behavior
+cloth,
+
+of buffer
+
+strip panels
+
+where
+
+the S-glass
+
+and shear.
+
+Specimens
+
+in the buffer
+
+strips,
+
+strip panels,
+
+and COD
+
+buffer
+
+was studied.
+
+strips were woven
+
+were loaded
+were m_;asured.
+
+it was concluded
+
+that
+
+15
+
+The panels
+
+at a constant
+From
+
+were made
+
+into the cloth.
+rate while
+
+with
+
+Panels
+far-field
+
+the tests and a shear-lag
+
+1.
+
+Tension
+
+buffer
+
+same failing
+
+strip panels
+
+strain
+
+the cracks,
+
+of all-graphite
+
+2.
+
+Buffer
+
+strip panels
+
+3.
+
+Buffer
+
+strip
+
+arrested
+
+For
+
+showed
+
+the panels
+
+strip reached
+when
+Panels
+
+The
+
+when
+
+(net section
+model
+
+buffer
+
+strips
+
+affected
+
+higher
+
+like panels
+
+the failing
+
+the
+
+strips arrested
+than the failing
+
+the strain
+
+buffer
+
+strips,
+
+in the graphite
+Panels
+
+tested
+
+strain
+
+with both buffer
+
+narrow
+
+panels
+
+with
+
+in every
+
+stress
+
+accurately.
+
+in tension.
+
+of panels
+
+strip width
+strain
+
+with
+
+and buffer
+
+measurements
+
+just beyond
+
+with wide buffer
+
+narrow
+
+strain
+
+buffer
+
+region
+
+the tensile
+
+the failing
+
+The model
+strips
+
+strain
+
+the buffer
+strips failed
+
+also.
+
+in the buffer
+
+panels
+
+the failing
+
+the failure
+
+and were notch
+
+strength).
+
+of tension
+
+used in the model.
+
+panels
+
+strength
+
+ultimate
+
+overestimated
+
+because
+
+criterion
+
+of the shear
+
+size of the damage
+
+ply had the highest
+
+equals
+
+predicted
+
+than the failure
+
+the failing
+
+had about
+
+The buffer
+
+was much
+
+cracks
+
+strain of 0 ° graphite.
+
+material
+
+shear-lag
+
+different
+
+arrested
+
+with
+
+tape.
+
+cloth
+
+damage.
+
+increase
+
+panels
+
+graphite
+
+strips failed.
+
+with buffer
+
+insensitive
+5.
+
+strengths
+
+the failing
+
+the buffer
+
+with similar
+
+in shear
+
+failed
+
+uniweave
+
+(or strength)
+
+significantly
+
+Panel
+
+thickness.
+
+strip
+
+4.
+
+tested
+
+cracks.
+
+from prepreg
+
+strain
+
+panels
+
+geometry
+
+from
+
+made
+
+as panels
+
+and the failing
+
+strain
+
+made
+
+mode
+
+strain
+
+wide
+
+of tension
+
+in the panels
+
+The model
+
+The discrepancy
+
+with
+
+was
+
+overestimated
+
+was attributed
+
+to the
+
+strips.
+
+REFERENCES
+Poe, C.C.,
+
+l,
+
+Jr. and Kennedy,
+
+ing Damage
+Supplement,
+.
+
+Tolerance
+Vol.
+
+Kennedy,
+ings
+
+"An Assessment
+
+of Composite
+
+Laminates,"
+
+of Buffer
+
+Journal
+
+Strips for Improv-
+
+of Composite
+
+Materials
+
+Laminates,"
+
+Proceed-
+
+14, 1980, pp. 57-70.
+
+John M.:
+
+of the 24th
+
+John M.:
+
+"Fracture
+
+Behavior
+
+AIAA/ASME/ASCE/AHS
+
+16
+
+of Hybrid
+
+Composite
+
+Structures,
+
+Structure
+
+Dynamics,
+
+and
+
+Materials
+
+Conference,
+
+Lake
+
+Tahoe,
+
+NV, May
+
+1983, AIAA
+
+Paper
+
+No. 83-0804,
+
+pp.
+
+68-78.
+,
+
+Goree,
+
+James
+
+G. and Kaw, Autar
+
+with Interlaminar
+o
+
+Bonnar,
+
+G.R. and Palmer,
+
+with Glass
+.
+
+Farley,
+
+Buffer
+
+Gary
+
+Poe,
+
+Mechanics,
+
+C.C.,
+
+Jr.:
+
+Laminates,"
+o
+
+Poe,
+
+TP-2370,
+.
+
+Harris,
+
+Brush,
+
+Strain
+
+Fracture
+
+"Fracture
+
+Laminates
+
+J.:
+
+Test Specimens
+
+1982.
+
+"In-plane
+
+Criterion
+
+Shear
+
+Test
+
+of Thin
+
+Panels,"
+
+1983, pp. 51-57.
+for Fracture
+
+Mechanics,
+
+Toughness
+
+Composite
+
+Vol.
+
+of Fibrous
+
+Composite
+
+17, No. 2, 1983, pp. 153-171.
+
+of Fibrous
+
+Composite
+
+Materials,"
+
+NASA
+
+1984.
+C.E.
+
+and
+
+Graphite/Epoxy
+°
+
+Epoxy
+
+CR-165871,
+
+Donald
+
+"A Unifying
+
+Jr.:
+
+Graphite
+
+of Notched
+
+1984.
+
+Vol. 23, No. 1, March
+
+Engineering
+
+C.C.,
+
+Analysis
+
+CR-3798,
+
+"Woven
+
+NASA
+
+Baker,
+
+"Shear-Lag
+
+NASA
+
+R.J.:
+
+Strips,"
+
+L. and
+
+Experimental
+,
+
+Debonding,"
+
+K.:
+
+Morris,
+
+Composites,"
+
+Don O. and Almorth,
+
+Hill Book
+
+D.H.:
+
+Company,
+
+"Fraclure
+CR-3784,
+
+NASA
+Bo O.:
+
+New York,
+
+Behavior
+1984.
+
+Buckling
+
+of Bars,
+
+of
+
+Plates,
+
+Thick,
+
+and Shells,
+
+Laminated
+
+McGraw-
+
+1975.
+APPENDIX
+
+The analysis
+orientation.
+considerably.
+
+in [6] was developed
+
+The panels
+
+tested herein
+
+From I(,], the strains
+
+to predict
+
+were 0 ° ply dominated,
+at the crack-tip
+
+1 -
+
+g2
+]'12
+
+the notched
+
+=
+
+2-Q_Kr
+
+0
+
+17
+
+for any laminate
+
+and thus the analysis
+
+in mode
+
+VyX'_E
+
+strength
+
+I loading
+
+x
+
+Vyx
+
+simplified
+
+for a 0 ° ply are
+
+Assumingthatthe laminatefails whenthe axial strainparallelto thefibersin theprinciple
+loadcarryinglaminaebecomes
+critical, thenCl'_--_rwill beaconstantatfailure whichleads
+tO
+U--gr.-
+
+1_12"q2"_r: KeQ( l-vyx) "_ --_- -
+
+tZy
+
+where
+
+Qc is defined
+
+as a general
+
+fracture
+
+toughness
+
+Qc
+
+parameter.
+
+(A2)
+Poe [6] showed
+
+that for a
+
+large class of laminates
+Qc = 1.5 etuf
+Thus,
+
+using A2 and A3 fracture
+
+strains
+
+of laminates
+
+(A3)
+under
+
+uniaxial
+
+loading
+
+can be predicted
+
+from
+
+Ey F
+
+Keq
+= _n(a+8c)
+
+18
+
+(A4)
+
+Table1. Specifications Buffer Strip Panels
+of
+andTestResults
+Laminate
+(x,y cord.)
+
+TestType
+
+Wb,
+
+hb,
+
+mm
+
+mm
+
+Buffer
+Plies
+
+Panel
+NO.
+
+Slit
+Length,
+mm
+
+Fracture
+Initiation
+
+Panel C
+
+Failure F
+Strain,
+
+Modulus,
+GPa
+
+Ey
+
+1
+
+45.44
+
+12.7
+
+.003770
+
+.00377 a
+
+52.63
+
+2
+
+38.1
+
+.001965
+
+.004101
+
+53.97
+
+44.5
+
+.002466
+
+.004215
+
+48.78
+
+12.7
+
+.004398
+
+.005661
+
+45.84
+
+2
+
+25.4
+
+.003436
+
+.005691
+
+45.35
+
+44.5
+
+.002829
+
+.005522
+
+48.08
+
+25.4
+
+.003269
+
+.003269 a
+
+42.52
+
+2
+
+38.1
+
+.002458
+
+.003549
+
+45.19
+
+.002379
+
+.003583
+
+47.64
+
+12.7
+
+.004405
+
+.004405
+
+2
+
+25.4
+
+.003300
+
+.004853
+
+46.39
+
+44.5
+
+.002913
+
+.004817
+
+45.95
+
+5.1
+
+.008007
+
+.008007 a
+
+43.39
+
+2
+
+12.7
+
+.006703
+
+.008000
+
+43.86
+
+3
+
+25.4
+
+.005209
+
+.008001
+
+43.47
+
+1
+
+12.7
+
+.004121
+
+.005519
+
+45.50
+
+2
+
+25.4
+
+.003338
+
+.005619
+
+48.41
+
+3
+
+44.5
+
+.002371
+
+.005500
+
+49.22
+
+1
+
+0.15
+
+.006128
+
+1
+12.7
+
+.003167
+
+3
+
+0.61
+
+44.5
+
+1
+3.2
+
+46.41
+
+44.5
+
+0.15
+
+45.99
+
+.006114
+
+3
+!
+
+.005877
+
+.003710
+
+12.7
+
+.002585
+
+.002601
+
+24.60
+
+2
+
+25.4
+
+.002074
+
+.002536
+
+23.87
+
+3b
+
+25.4
+
+.001855
+
+.003113
+
+24.53
+
+0
+
+0
+
+0
+
+Tension
+3.2
+
+.003530
+
+25.4
+
+1
+
+[45/0/-45/9012s
+
+0.30
+
+25.4
+
+1
+6.4
+
+2
+
+3
+
+0.15
+
+47.35
+
+1
+
+6.4
+
+.005884
+
+4
+
+0.15
+
+Strain, Ey
+.004654
+
+3
+
+12.7
+
+12.7
+
+0
+
+0
+
+0°,+45°,90
+
+a
+
+44.06
+
+i
+
+[45[0]-4519016s
+
+[0/9014s
+
+Tension
+
+Shear
+
+12.7
+
+12.7
+
+0.15
+
+0.15
+
+0o
+
+0o,90 °
+
+Table1. Concluded
+Laminate
+(x,y cord.)
+
+Wb,
+
+hb,
+
+mm
+
+TestType
+
+mm
+
+Buffer
+Plies
+
+Panel
+
+Slit
+
+Fracture
+
+No.
+
+Length,
+mm
+
+4
+
+Failure F
+Strain, ey
+
+Initiation
+
+44.5
+
+Strain,
+
+_y
+
+.991
+
+PanelC
+Modulus,
+GPa
+
+1
+Shear
+
+a Fracture
+b Fully
+c Value
+
+bJ
+
+did not arrest,
+
+constrained
+given
+
+12.7
+
+panel
+
+failed
+
+0. 15
+
+when
+
+fracture
+
+0°,90 °
+
+.004801
+
+•0025_4
+.004814
+
+33.0}
+15.56
+
+2
+
+25.4
+
+.003707
+
+.004986
+
+14.96
+
+3b
+
+[0/45/90/-4512s
+
+12.7
+25.4
+
+.003947
+
+.006195
+
+13.97
+
+initiated
+
+from buckling
+
+is extensional
+
+modulus
+
+for tension
+
+panels
+
+and shear
+
+modulus
+
+for shear
+
+panels.
+
+Table
+
+2.
+
+Results
+
+of Unnotched
+
+and Notched
+
+Tensile
+
+Tests
+
+a. Unnotched
+Laminate
+
+Ey,
+GPa
+
+GPa
+
+[45/0/-45/9012s
+
+48.59
+
+[45/0G1/-45/9012s
+
+27.94
+
+]
+
+Vxy
+
+Vxy
+
+Scy,
+MPa
+
+MPa
+
+48.50
+[
+
+Ex,
+
+.3130
+
+.3063
+
+435.4
+
+44.22
+
+.3086
+
+.4808
+
+350.2
+
+Scx,
+
+i?.yF
+
+Ex F
+
+450.1
+
+.00918
+
+.00925
+
+427.9
+
+.02227
+
+.00993
+
+b. Notched
+Laminate
+
+2a,
+mm
+
+W_
+
+mm
+
+Scy,
+
+ey
+
+F
+
+KEQ,
+
+MPa
+
+8.5
+
+t,_
+
+.00444
+
+.0189
+
+147.7
+
+.00327
+
+.0196
+
+25.4
+
+50.8
+
+110.1
+
+.00210
+
+.0164
+
+101.6
+
+122.9
+
+.00226
+
+.0185
+
+50.8
+
+101.6
+
+78.2
+
+.00163
+
+.0177
+
+8.5
+
+50.8
+
+282.8
+
+.01133
+
+.0491
+
+16.9
+
+50.8
+
+212.9
+
+.00810
+
+.0488
+
+16.9
+[45/0G 1/9012s
+
+218.3
+
+50.8
+
+33.8
+
+[45/0/-45/9012s
+
+50.8
+
+16.9
+
+50.8
+
+199.1
+
+.00796
+
+.0478
+
+16.9
+
+101.6
+
+269.1
+
+.01093
+
+.0662
+
+25.4
+
+50.8
+
+160.8
+
+.00569
+
+.0448
+
+34.3
+
+101.6
+
+201.9
+
+.00791
+
+.0677
+
+55.9
+
+101.6
+
+133.1
+
+.00486
+
+.0587
+
+40-
+
+3O
+Sc
+
+2OO
+
+150
+E
+
+kNm
+
+2o = 51 mm
+
+MNm
+kg
+I00
+
+2O
+I
+
+to
+to
+
+93
+
+I0
+I
+
+i
+
+I
+
+i
+
+0
+
+0
+ALLGR
+
+HY BR I D BUFFER
+STRI PS
+a) specific
+
+GR
+b) specific
+
+modulus
+
+Figure
+
+1.
+
+Specific
+
+modulus
+
+HYBRID
+
+ALL-
+
+and strength
+
+of composite
+
+strength
+
+panels
+
+BUFFER
+STRI PS
+
+(either
+
+Figure
+
+one or two plies of S-Glass
+
+2.
+
+Cross-section
+
+of a typical
+
+buffer
+
+or Kevlor)
+
+strip panel.
+
+WARP
+
+BUFFER STRIP
+
+Figure 3.
+
+Uniweave
+
+cloth with 12.7 mm wide
+
+buffer snips.
+
+Y
+
+Y'
+_,S/-
+
+I
+
+_//_
+
+/I_
+-/
+
+....11,. --- SLIT
+---------)_X
+to
+
+--_ _--
+
+J
+
+Wb
+
+W
+
+x<,
+
+-_I-- 250m m
+L
+
+P
+b) shear
+
+a) tension
+Figure
+
+4.
+
+Test panel
+
+configurations
+
+SLIT_X
+
+'
+
+BUFFER
+
+TR'P
+
+×
+
+0
+
+/--
+
+NET STRAIN
+
+EQUALS
+
+ELASTIC FRACTURE
+ANALYSIS
+
+REMOTE
+STRAIN,
+_y
+
+EDGE OF
+BUFFER
+STRIP
+
+.OO2
+
+I0
+
+0
+
+20
+
+50
+
+40
+
+5O
+
+CRACK LENGTH,?_o,mm
+
+Figure
+
+5.
+
+Fracture
+
+arrest
+
+results
+
+0.61 mm thick buffer
+
+for tension
+strips.
+
+26
+
+buffer
+
+strip panels
+
+with 3.2 mm wide and
+
+ORIGINAE
+BLACK
+
+AND
+
+WHITE
+
+a) before
+
+PAGE
+F HOTOGRAP_
+
+initiation
+
+b) after arrest
+
+Figure 6.
+
+Radiographs
+thick buffer
+
+of a tension
+strips.
+
+buffer
+
+27
+
+strip panel
+
+with 3.2 mm wide
+
+and 0.61 mm
+
+2o
+
+= 51mm
+
+ALL-GRAPH
+
+W
+
+b
+
+ITE
+
+=5.2ram
+
+'
+
+W b = 6.4,
+BUFFER
+MATERIAL
+IN
+
+W
+
+!
+
+b
+
+h
+
+Wl DTH OF BUFFER STRIP
+b"
+h • PER PLY THICKNESS
+OF
+b"
+BUFFER MATERIAL
+
+W
+
+b
+
+=O. 15mml
+
+I
+
+.
+
+hb = O. 15mm
+
+= _.2 ram,
+
+h
+
+b
+
+= 0.61 mm
+
+0 o PLIES
+
+I
+W b = 6.4mm
+
+b,)
+
+Wb
+
+1 EQUAL CROS S-
+
+, h b = O._)mm
+
+= 12.7mm,
+
+J
+
+/SECTIONAL
+AREA
+/ OF S-GLASS
+
+TAPE
+I
+UN IWEAVEI)
+
+h b = O.15mm
+
+BUFFER
+W
+
+MATERIAL
+
+b
+
+= 12.7mm
+
+'
+
+h
+
+b
+
+-0.15mm
+
+IN EVERY PLY
+1
+0
+
+• 001
+
+I
+
+i
+
+.002
+
+. 003
+REMOTE
+
+Figure
+
+7.
+
+Remote
+
+failing
+
+strain
+
+of tension
+
+I
+
+I
+
+. 004
+
+.005
+
+FAILING
+
+buffer
+
+I
+.006
+
+I
+.007
+
+STRAIN
+
+strip panels
+
+with arrested
+
+cracks.
+
+I
+• 008
+
+.006
+REMOTE
+STRAIN,.
+t,J
+
+004
+
+_y
+• 002 -
+
+EDGE
+
+OF
+
+BUFFER STRIP
+0
+
+I0
+
+20
+
+CRACK
+
+Figure
+
+8.
+
+Fracture
+
+arrest
+
+results
+
+for tension
+
+buffer
+
+30
+LENGTH,2a,
+
+strip panels
+
+40
+
+50
+
+mm
+
+with 12.7 mm buffer
+
+strips
+
+in every
+
+ply.
+
+OP,IGItqAL
+BLACK
+
+A["4D WHITE
+
+PAGE
+pt-.iOIOGRAPN
+
+a) before arrest
+
+b) after arrest
+
+Figure
+
+9.
+
+Radiographs
+
+of a tension
+
+buffer
+
+30
+
+strip panel
+
+with buffer
+
+strips in every
+
+ply.
+
+.OIO
+
+.OO8
+FRACTURE
+REMOTE
+STRAIN,
+
+.OO6
+
+ANALYSIS
+
+[45101-45190]z
+
+,
+
+45/0/-45/90]
+.J6S
+
+(y
+.OO4
+
+E
+
+•002 1
+
+I
+I0
+
+I
+30
+
+20
+CRACK
+
+Figure
+
+10.
+
+Fracture
+
+data from
+
+I
+40
+
+LENGTH,2o,
+
+[45/0/-45/9016s
+
+buffer
+
+i
+
+,K
+50
+
+mm
+
+strip panels,
+
+Wb = 12.7 mm.
+
+EDGE OF
+BUFFER STRIP
+
+SHEAR
+
+LAG
+
+MODEL
+
+|
+II
+
+F
+
+(
+
+Y
+
+_tub
+0
+
+OR
+
+W b = 12.7mm
+
+©
+
+l
+
+l--1 W b = 6.4ram
+
+I
+KT
+
+W b = 3.2mm
+/k
+
+Wb
+
+= 5.0
+
+mm
+
+0
+
+l,J
+
+OPEN
+FI LIED
+
+SYMBOLS
+
+2
+
+- UNIWEAVE
+
+SYMBOLS
+
+- TAP E
+
+I
+20
+
+I
+
+0
+I
+40
+
+I
+
+I
+60
+
+I
+
+I
+80
+
+1
+
+I
+I00
+
+I
+200
+
+hE
+W
+
+x
+e
+
+Figure
+
+l 1.
+
+Correlation
+
+of experimental
+
+and analytical
+
+0 0
+
+-hbE b '
+results
+
+mm
+
+for buffer
+
+strip panels
+
+with arrested
+
+cracks.
+
+.03
+--
+
+I
+
+_--BUFFER
+w
+STRIP
+
+o
+
+AFTER
+
+_
+
+.-_
+
+FAILURE
+
+Q
+_
+
+I
+
+BEFORE
+
+ARREST
+ARREST
+
+.O2
+
+-',
+
+STRAIN
+
+',
+
+.01
+
+0
+
+I
+
+I
+
+I
+
+I
+
+!
+
+30
+
+25
+
+35
+
+40
+
+45
+
+50
+
+DISTANCE
+
+Figure
+
+12.
+
+Local
+
+strain
+
+in the
+
+buffer
+
+FROM
+
+strip
+
+CENTER
+
+along
+
+33
+
+the
+
+line
+
+OF
+
+PANEL,ram
+
+of the
+
+crack,
+
+Wb = 6.4
+
+mm.
+
+,010
+<_t PARTIALLY
+
+PANEL
+
+CONSTRAINED
+
+.008
+F1 FULLY
+
+CONSTRAINED
+FRACTURE
+
+REMOTE
+TENSILE
+STRAIN,
+
+PANEL
+
+ANALYSI S
+
+.006
+
+.004
+
+,y.
+
+ta_
+4_
+
+.002
+
+EDGE
+
+OF
+
+BUFFER
+
+I
+0
+
+I
+
+I0
+
+20
+CRACK
+
+Figure
+
+13.
+
+Remote
+
+tensile
+
+slrain
+
+verses
+
+crack
+
+length
+
+-_ V
+STRIP "1_ -
+
+I
+
+I
+
+50
+
+40
+
+LENGTH,2o
+
+for [0/45/90/-4512s
+
+shear
+
+buffer
+
+IF
+50
+
+60
+
+,ram
+
+strip panel,
+
+Wb = 12.7 mm.
+
+T
+
++
+
+m
+m
+
+T---_
+
+_"
+
+T
+
+Figure
+
+14.
+
+Far-field
+
+shear
+
+stress due to superposition
+
+of far-field
+
+axial
+
+stresses.
+
+"t"
+
+ORIGINAL
+BLACK
+
+AND
+
+PAGE
+
+WHITE
+
+PHOTOGRAP_
+
+D
+
+Figure
+
+15.
+
+Failed
+
+[0/45/90-4512s
+
+buffer
+
+strip panel
+
+36
+
+after testing
+
+under
+
+shear
+
+load.
+
+CONSTRAINED
+
+PARTIALLY
+
+O / 9014 s
+
+CONSTRAINED
+
+FULLY
+
+PARTIALLY
+FULLY
+-.i
+
+0/45/90/-4512
+
+!
+
+CONSTRAINED
+
+CONSTRAINED
+
+s
+
+SHEAR-
+
+,,,
+0
+
+LAG
+
+1
+.001
+
+MODEL
+
+I
+
+I
+
+.002
+
+.003
+
+REMOTE
+
+Figure
+
+16.
+
+Predicted
+
+and measured
+
+failing
+
+I
+.004
+
+TENSILE
+
+strain
+
+of buffer
+
+I
+
+I
+
+.005
+
+.006
+
+STRAIN,
+
+strip panels
+
+ey
+
+tested
+
+in shear.
+
+I
+.007
+
+I
+.008
+
+_,..n,,.,K AND
+
+pHOTOGRAP_
+
+w_ITE
+
+a) Tension,
+
+b) Shear,
+
+Figure
+
+17.
+
+Radiographs
+strrip panels,
+
+ey = 0.99591
+
+ey = 0.00634
+
+of [45/0/-45/9012s
+Wb = 12.7 ram.
+
+tension
+
+38
+
+and
+
+[0145/90/-4512s
+
+shear
+
+buffer
+
+I0
+BUFFER STRIP PANEL
+WITH ARRESTED CRACK
+2o = 51 mm
+BUCKLE
+
+'B
+"1; 'Y'
+X
+
+FRA!TURE
+20=
+
+L_
+
+13
+
+20 = 25ram
+2o = ,51 mm
+
+.I
+
+I
+2
+
+L
+
+0
+
+I
+4
+
+I
+6
+
+I
+8
+
+THICKNESS,
+Figure
+
+18.
+
+Comparison
+
+of fracture
+
+strength
+
+to buckling
+
+stress
+
+I0
+
+12
+
+mm
+for quasi-isotropic
+
+shear
+
+panels
+
+with slits.
+
+14
+
+Report
+1. Report
+
+Page
+3
+
+Recipient's
+
+5
+
+No.
+
+NASA
+4. Title
+
+Documentation
+
+Report
+
+Catalog
+
+No
+
+TM- 102702
+and
+
+Subtitle
+
+Damage Tolerance
+of Woven
+Buffer Strip Panels
+
+Date
+
+August
+
+Graphite/Epoxy
+6
+
+1990
+Organization
+
+Code
+
+8. Performing
+
+7. Author(s)
+
+Performing
+
+Organization
+
+Report
+
+No.
+
+John M. Kennedy
+10
+
+Work
+
+Unit
+
+No.
+
+505-63-01-05
+9. Performing
+
+Organization
+
+Name
+
+and Address
+11. Contract
+
+NASA Langley
+Hampton,
+VA
+Agency
+
+Name
+
+and Address
+
+Natiomd Aeronautics
+and Space
+Washington,
+DC 20546-0()01
+15. Supplementary
+
+No.
+
+Research Center
+23665-5225
+13
+
+12. Sponsoring
+
+or Grant
+
+Type
+
+of Report
+
+Technical
+14
+
+Administration
+
+Sponsoring
+
+and Period
+
+Covered
+
+Memorandum
+,q,gency
+
+Code
+
+Notes
+
+Dr. John M. Kennedy,
+University,
+Clemson,
+
+Department
+SC 29631.
+
+of Mechanical
+Engineering
+Dr. Kennedy
+was employed
+
+and Engineering
+Mechanics,
+Clemson
+by NASA when report was written.
+
+16. Abstract
+
+Graphite/epoxy
+panels with S-glass buffer strips were tested in tension and shear to measure their residual
+strengths
+with crack-like
+damage. The buffer strips were regularly
+spaced narrow strips of continuous
+Sglass. Panels were made with a uniweave
+graphite cloth where the S-glass buffer material was woven
+directly into the cloth. Panels were made with different width and thickness
+buffer strips. The panels wer(
+loaded to failure while remote strain, strain at the end of the slit, and crack opening displacement
+were
+monitored.
+The notched region and nearby buffer strips were radiographed
+periodically
+to reveal crack
+growth
+
+and damage.
+
+Except for panels with short slits, the buffer strips arrested the propagating
+crack. The strength (or failing
+strain) of the panels was significantly
+higher than the strength of all-graphite
+panels with the same length
+slit. Panels with wide, thick buffer strips were stronger than panels with thin, narrow buffer strips. A
+shear-lag
+model predict the failing strength of tension panels with wide buffer strips accurately,
+but overestimated
+the strength of the shear panels and the tension panels with narrow buffer strips.
+
+17. Key Words
+
+(Suggested
+
+18. Distribution
+
+by Authorls))
+
+Composites
+Damage tolerance
+Fracture
+
+Shear
+Unclassified
+Subject
+
+Buffer strips
+Tension
+19. Security
+
+Classd.
+
+Iof
+
+this report)
+
+FORM
+
+20. Security
+
+Classif.
+
+Unclassified
+
+Unclassified
+NASA
+
+Statement
+
+1626 OCT 86
+
+- Unlimited
+
+Category
+
+- 39
+
+(of this pagel
+21
+
+41
+No. of pages
+
+I 22. A03
+Price
+

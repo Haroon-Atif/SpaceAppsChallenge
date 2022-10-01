@@ -1,0 +1,1832 @@
+N90-28244
+On the Dynamic
+
+and Thermodynamic
+
+Structures
+
+of Marine
+
+Stratocumulus
+
+Mark J. Lauferswcfler and Hampton N. Shirer
+Department of Meteorology
+The Pennsylvania State University
+University Park, PA 16802
+Latent heating effects on stratocumulus
+circulations
+have been studied successfully
+with a
+nine-cx_efficient
+spectral
+model
+of
+two-dimensional
+shallow
+Boussinesq
+convection
+(Laufersweiler
+and Shirer,
+1989: JAS, 1133-1153).
+Further,
+more realistic
+investigations
+are
+being performed
+currently
+with a larger, 18-coefficient
+spectral model, in which the effects of
+cloud top radiational
+cooling
+and in-cloud
+radiational
+heating are also being
+represented.
+Because
+assuming
+a rigid lid at the inversion
+base may have affected
+previous
+results
+significantly,
+we have raised
+the domain
+top to include
+the lower portion
+of the capping
+inversion.
+As in the previous
+model, a uniform
+cloud base is assumed and latent heating effects
+are included
+implicitly
+such that the motions
+in the sub- and above-cloud
+regions
+are dry
+adiabatic
+and the motions
+in the cloud region
+are moist adiabatic.
+The effects of forcing
+by
+radiational
+heating
+profiles
+that are tied to the cloud layer, such as the one used by Nicholls
+(1984:
+OJRMS,
+783-820),
+will be investigated,
+as will profiles
+measured
+during
+the FIRE
+experiment.
+One concern of using truncated
+spectral models
+is that the phenomena
+are so poorly
+represented
+that they can change dramatically
+as the number of spectral coefficients
+is increased.
+The efficacy
+of the nine-coefficient
+model results
+is checked
+by examining
+the steady state
+solutions
+of the 18-coefficient
+model
+for parameter
+values used by Laufersweiler
+and Shirer
+(1989), which corresponds
+to the case of a moderately
+deep cloud and no capping inversion
+(Fig.
+1). Here, the horizontally
+asymmetric
+circulation
+patterns
+that have narrow downdraft
+areas and
+broad updraft areas are virtually the same as those found in the smaller spectral model (Fig. lb).
+Also captured
+in the case of weaker heating
+is an elevated
+circulation
+centered
+at cloud base
+(Fig. la). Thus, the results of the smaller model are substantiated.
+Since one of the goals of studying
+the new model is to represent
+a more realistic
+domain,
+the second test of the model is to investigate
+whether
+the steady solutions are suppressed
+in the
+case of an inversion
+with no cloud.
+The capping
+inversion
+should limit the convective
+circulations,
+but we do not force this to happen with the imposition
+of a rigid lid at the inversion
+base.
+Figure 2 shows the steady solutions
+for the case of a relatively
+strong inversion
+of 10
+*C/kin that begins at a height of 0.8z t, as indicated
+by the tic. For the case when the value of the
+Rayleigh number is near its critical value (Fig. 2a), the circulations
+are weak and located in the
+sub-inversion
+region of the domain.
+For a higher value of the Rayleigh
+number (Fig. 2b), the
+circulation
+has intensified
+but is still restricted
+to the sub-inversion
+region;
+importantly,
+the
+updrafts
+only penetrate
+representing
+the effects
+
+into the inversion
+by a small amount.
+Thus, the model
+of an inversion
+by properly
+suppressing
+the convection.
+
+is correctly
+
+Figures 3 and 4 are the first investigations
+into the performance
+of the model when both
+the cloud and an inversion
+are represented.
+Figure
+3 shows the steady solutions
+for a weak
+inversion
+having a value of 2 *C/kin and Fig. 4 shows the steady solutions
+for a fairly strong
+inversion
+having a value of 10 *C/kin.
+The higher value of the inversion
+strength,
+although
+large, is still on the order of 1/2 of the values of the inversion
+strength that were measured
+during FIRE, typically
+around 18 to 20 °Cfc, m. By comparing
+the figures, we observe
+that the
+intensity of the circulation
+patterns for the weaker inversion
+is stronger
+than that for the stronger
+inversion;
+however,
+we are concerned
+that for higher
+values of the Rayleigh
+number,
+the
+circulations
+penetrate
+too deeply into the inversion.
+This result may be due to the fact that the
+latent heating, as represented
+in this model, is warming
+the flow far more than that found in the
+actual boundary layer.
+Possibly, inclusion
+of radiative
+forcing will compensate
+for this effect.
+The research for this work was supported in part by the National Science Foundation through Grant ATM-8619854
+and by the Office of Naval Research through Contract N000014-86-K-06880.
+113
+Pi-_:(Z ;:,._._'..O FACE
+
+-_L,AL":( NCT
+
+F:LMED
+
+.._l
+.._i.
+
+•uo.tlecl.rn_ o.m,
+lt.=<lmol ocrl.m.; pmf_.l_,OlOA
+5:I
+Ito.n.m,,,oq__j I "uo._m't._,eozlt=cp_._ I o_ s.te._olu!tmoluoo OtLl -gPlOU
+"
+ocpjo _nl'w^ o^.Clellou
+luosoadoa _UTl poqs'epoq..L"oan_'g
+"
+_
+.,]Io
+lqli'lj _ eq
+
+oral.p_!:laO,_q'l_q Pm_olrpul uo_oz pnol+a
+o
+_
+_
+
+(el)
+ulO01
+I1[
+
+tic
+
+tl_
+
+[[
+
+O[
+
+111
+
+uT
+
+!!
+
+(e)
+
+q_£UWl
+
+tl
+
+I_!
+
+O!
+
+II
+
+i_lrOO't
+
+9
+III[
+
+0
+
+-
+
+S,I[
+,
+
+.
+
+l.r
+,
+
+[[
+
+,
+
+.
+
+0_
+
+.
+
+ai I
+
+I)1
+
+- ....
+
+q'_i_o_'l
+
+t|
+
+o_
+
+III|
+
+I[I
+
+I[
+
+.,'.. ..............
+-::::+",,
+•
+
+...-.
+
+.
+
+_
+
+"_, "- :..'-:: : : :: : .....
+
+-- ....
+
+._
+
+.---._,,
+
+:'.'."
+
+.....
+
+,'.
+
+.
+
+...:::::
+
+.,'//-'.'-'-..
+,
+
+.'/.'..'....
+
+"..........
+
+.
+
+-2-',',
+
+...-..
+
+; "
+
+"
+
+:-':";:'"''"-,,:':,:,',\
+
+-..,,
+
+t
+
+l
+
+uT
+
+wlo0l
+9[
+
+)t
+
+tt
+
+O!
+
+IT
+
+IT
+
+........ L:o
+
+,,r
+
+01
+
+ll,.111.II II .,i illllllp
+
+.o -.
+•
+
+.-
+
+I
+%
+•
+
+t
+
+I_I'*o|3
+
+I!
+
+0
+
+I[
+
+Ii
+
+0"011
+'1_ Ilq ..111 ,,s
+• IId
+
+t
+
+_)
+
+,,
+
+I)
+
+: ..:_,'.:
+II°
+
+III
+
+•
+
+"" ./:':':':'.+:";'- "-'-':-'. - :: : -" :--:; : :+"_"£':,:'Y-,
+_.:,_ :.+'. +_._::..
+:,:
+
+0l
+
+I
+.
+
+•
+
+OnH "lOpom
+l.opWOO=_
+
+oq+ol S'mpaodgoa.mo no uo.m_Ul..Uou • Jo.l (q) 6"1,8put (_) 6"1,., °_I - _I
+.
+=
+aoj ulmmo o_ _ %Og Ilu_ara,soo nOi"a.m.I..I. UOl:l_
+p
+P
+•
+o.mlmm,
+dmol put .m
+'(+I;_='OIOA '.+Kuol_Xlg
+lral3.z'a,',
+_goluopmomT _
+p
+,(P_I_ 0e,.l. "t o,u_ll:
+I
+
+I
+•
+
+,
+
+-
+
+•
+
+,"
+
+IlOl:_lq_m:l-zs,
+
+0"01[
+
+d
+
+,..
+
+*.
+%
+
+."
+----
+
+,.
+'..-I
+
+II.lnll:l.4ml&
+
+01[
+
+ql_uw'l
+
+IT
+
+[I
+
+0|
+
+|
+
+el00|
+
+II|
+
+q=16uvl
+
+Ir
+0
+
+: ,..-_. .... -.-\,
+
+:,...,..-.-::-,,.....
+
+/...:.,;::,
+:.
+
+::::::.','.'..',':':_':ii
+
+i :u''''."
+
+,,
+
+,
+
+0
+
+1!!i + .... i I
+°
+: ; :.'.'-'.-
+
++: - .:'.'.',
+
+::.+*+\.
+
+j,
+
+:,::/..;.
+
+_<.........
+
+-
+
+.i
+T
+
+'
+
+\.:_:._:.
+•+::-.
+
++111
+IPn°13
+
+0
+
+_
+
+_,: :
+
+t
+
+,i[:il_Ol_
+
+0'0[
+
+A
+
+tl,_.l:ll=_
+
+A
+
+01[
+PnoT_
+
+":;
+IrlOOY
+1[
+
+t[
+
+t[
+
+_[
+,
+
+C:: :,.;_,
+
+-
+
+,
+
+.
+
+O[
+,
+
+I!
+-
+
+u!
+
+9I
+,
+
+.
+
+tl
+_
+
+,
+
+I
+
+O!
+
+0"0[
+
+-(:_1OOlS'A
+
+'le=_|_l]eA
+
+q++us,'l
+tT
+•
+
+.
+
+Ol
+,
+
+II001
+.
+
+,
+
+-
+
+| ,
+
+-
+
+) ,
+
+•
+
+I[ ,
+
+- --,,'' 0
+
+I[
+
+It
+
+t[
+
+[!
+
+0[
+
+II
+
+It
+
+I|
+It
+
+qlllr'
+II
+
+I
+0l
+
+I
+
+l
+
+l
+0
+
+.,-" .-.-::--..-.,,
+
+-
+
+I
+
+• ;...- .. ....
+
+i i _.."
+.',,"-, ",'._!!
+/////
+_/.//
+
+•..:.',,., ..'.-.'/.:7:'!
+.. ".-.:---:.,/:
+
+/
+
+...
+
+-._':
+
+: .-'..
+
+.',,'..'.
+
+! ; :": .,":.:'.:,:-'..i
+ili_:'f
+
+"" V'._
+
+", '_ "."-::::::-'-'i.:'
+"/
+
+.i
+
+t
+
+"0[
+
+t
+
+T
+
+'
+•
+
+:Isl
+Pn°13
+
+I[
+
+O!
+
+I
+t
+
+,,i
+pnol3
+
+9
+
+I
+t
+-. .....
+
+t
+
+0"0[
+
+o
+
+"-.
+
+....
+
+o
+0l
+
+|
+
+Itreeafubction
+
+0.0
+
+t
+
+Cloud
+
+1o
+
+Etreamfunctlon
+
+it
+
+0.0
+
+20
+
+t
+
+Cloud
+lit
+
+N
+8
+
+!
+
+*
+
+!
+
+6
+r---_
+o,"
+
+"%
+
+4
+-.....-
+
+2
+
+0
+
+.
+
+,
+
+.
+2
+
+,
+4
+
+_
+
+,
+
+.
+
+•
+
+|
+
+.
+O
+
+,
+10
+
+.
+
+,
+12
+
+Length
+
+veztical
+
+10
+
+.
+
+,
+14
+in
+
+.
+
+,
+16
+
+_
+
+,
+1|
+
+_
+
+,
+20
+
+.
+
+,
+]2
+
+.
+
+,
+24
+
+,
+26
+
+,
+
+......
+
+0
+]8
+
+2
+
+4
+
+6
+
+10011
+
+Velocity
+
+O.O
+
+t
+
+O
+
+lO
+
+--. .... : ,
+]2
+[_rsgth
+
+14
+16
+In
+iOOlm
+
+15
+
+20
+
+,____:_._
+22
+
+24
+
+26
+
+26
+
+Cloud
+i t
+
+Yertic.l
+
+0.0
+
+Velocity
+
+t
+
+Cloud
+66
+
+O
+
+iiii! ,.
+...,,o
+
+i
+.°°f
+4
+
+]
+
+"%
+
+0
+
+i
+4
+
+Temperature
+
+|o
+
+|
+
+l
+
+]0
+
+12
+Le_?th
+
+14
+in
+
+16
+|o01m
+
+:
+1|
+
+.
+
+,
+20
+
+.
+
+,
+33
+
+.
+24
+
+31
+
+30
+
+Length
+
+Perturbation
+
+0.0
+
+t
+
+II
+
+lOO/I
+
+Cloud
+_t
+
+Temperature
+
+Perturb*tioQ
+
+0,O
+
+I
+
+Cloud
+tt
+
+|
+
+cj "_"
+O
+
+2
+
+"-
+
+0
+0
+
+2
+
+q
+
+6
+
+6
+
+10
+
+12
+l_hqth
+
+14
+]6
+ih
+IOOXl
+
+18
+
+20
+
+22
+
+24
+
+26
+
+36
+L_n_th
+
+l=
+
+lO0Zm
+
+_rrl
+
+(a)
+
+Figure 2.
+
+The steadystate dimcnsioalc= =trcam.r_m_onV*, vertical velocity
+
+w" and tcmpcratur©l)CrturbatJon = for • cloud-free ¢u¢ with an iawazioa
+T
+basedat z = 0.7z t --d having the value 10 "C_Jk_ P,a- 1_ = 7_ (a) and
+for
+
+-.k
+
+97_ Co).On the rI_t o_eachfigure, the baseo_the lnvcnio, l= shown by the
+tic. The dasb_ li_e: rcpreAcnt
+negative v=.lu= of th¢ fields. The contour
+interval= arc tb¢ same-, in Fig. 1.
+
+Btreamfuoctlon
+10
+a
+6
+/
+4
+2
+
+30.0
+
+0
+
+•
+
+3
+
+J
+
+..---.
+,-
+
+tlcel
+
+///...;.;
+
+%
+6
+
+:
+
+..... .......i_
+
+i
+
+! !i '..'.. " .."..",'.'/[
+
+4
+
+I :'. _. .... .'.'.'1
+i ".'_'-," -:,-',,',.'
+
+10
+
+]7
+L_ogth
+
+Vet
+
+10
+
+.-:::::.:}::::-.
+
+,°
+
+4
+
+it
+
+|
+
+I
+
+*,
+
+6t_emmfunctlon
+
+Cloud
+
+14
+lm
+
+16
+
+10
+
+70
+
+37
+
+24
+
+26
+
+:
+
+/
+
+0
+
+30
+
+2
+
+4
+
+I
+
+lOOXm
+
+Veloclt7
+
+)0.0
+
+t
+
+Clou
+Vertical
+
+10
+
+i t
+
+Velocity
+
+30,0
+
+: - ,.,-,.,_
+
+•
+.
+_i _i :'.."'..._'-.
+
+!"
+
+i
+6
+
+'.
+
+j
+
+I
+
+Cloud
+
+- .
+",,- ', : :
+
+",."_iVi
+
+/'
+
+, ." .:!i.://
+........
+
+;,
+LdDngth
+
+;,
+lm
+
+,,
+
+;6;o
+
+;,'
+
+2','
+
+;,'
+
+9.
+
+°o
+
+lO01m
+
+•
+-"-i:"i., ,
+l
+
+' ','
+
+:-"
+".:', 1,ii:- i7!71
+1, _o'
+
+_'o" _'_ 1,
+Lentth
+
+T_persture
+
+Pertur_tloa
+
+30.0
+
+10
+
+I
+
+In
+
+l':
+
+7,
+
+_6
+
+16
+
+lO01l
+
+Cloud
+I t
+
+\
+
+10
+
+T_periture
+
+Perturbation
+
+30.0
+
+I
+
+Cloud
+Zt
+
+I
+i
+
+!
+
+2
+
+,...
+.
+
+0
+3
+
+4
+
+,
+
+,
+6
+
+|
+
+,
+10
+
+.
+1'3
+LaDgth
+
+14
+lm
+
+li
+
+16
+
+20
+
+32
+
+74
+
+26
+
+28
+
+0
+
+lOOLI
+
+70
+Lerllth
+
+0
+
+:'.
+
+cb _
+
+(a)
+
+1_
+
+77
+
+24
+
+li
+
+78
+
+lOOlnl
+
+(b)
+
+c, _
+Figu_ 3. TIx steady mtc d1_c_o_e_
+ra_uz_u_o_
+_', vta_c_ velocity
+w" _nd t_amrc
+pertm_oo
+T" fo_, c/oud o0wcdng 30_ o( _ domaln
+with an tnvu3Joo baled at z = 0_ t having tl_ value 2 °C/kin for
+
+Ra -R_ • 4.9(i) and74.9Co). On therightfeach/_guxc,hecloudregion
+o
+t
+is
+incticzte.,d
+by thevrxticatl w/ththeinversion
+linc,
+baseatcloudtop.The dashed
+lineJ rClXc_cntnegative v*_uc_ of the fields. The conto_ intervals arc the same
+u LnFig. 1.
+
+Streaofunctio_
+
+30.0
+
+t
+
+Cloud
+
+Itre*sfuaction
+
+1o
+
+I
+
+)0.0
+
+Cloud
+
+10
+
+|
+
+..--..
+
+t
+
+.
+
+-..,
+
+/
+
+{
+
+4
+-.o.-
+
+,:
+-....
+
+]
+
+o
+
+,
+
+,
+
+,
+
+]o
+
+l:
+Length
+
+Vertical
+
+:,
+
+l,
+
+in
+
+i,
+
+:o
+
+:=
+
+3o
+
+2,
+
+2,
+
+lOOZe
+
+Velocity
+
+20,0
+
+|
+
+Cloud
+10
+
+l t
+
+Vortical
+
+Velocit
+
+* [ .....
+.'"'-,
+
+, )
+"[
+0
+
+,
+
+i
+
+0
+
+lJO
+
+i
+12
+
+Temperature
+
+14
+In
+
+16
+
+*
+18
+
+.
+
+,
+20
+
+.
+
+i
+22
+
+.
+
+J
+24
+
+25
+
+28
+
+t
+
+30.0
+
+3 o
+
+J
+
+k
+
+........ ( ..... 3 .......
+a
+
+C'
+
+4
+
+i
+
+|
+
+lO
+
+12
+Length
+
+0
+
+',
+
+2
+
+14
+to
+
+II
+lOOxm
+
+18
+
+30
+
+22
+
+I t
+10
+
+"','i",;:
+
+!:'"
+:,"
+
+' :=:"":
+.:;.://:,
+
+:.:'.3",." "'.,.[.'[:"
+-:
+.
+
+4
+
+_
+II
+
+. I
+'
+
+I
+
+""::::--:-'"
+
+'
+
+'
+
+'
+
+*
+12
+Length
+
+'.
+
+I
+
+J
+,
+:
+14
+16
+in
+lOOXm
+
+,
+
+i
+II
+
+I
+
+"""!
+
+_
+'
+
+J
+20
+
+J
+'
+
+'
+22
+
+,
+
+:
+94
+
+1'4
+•
+
+a
+2i
+
+",_
+21
+
+26
+
+Yemperlture
+
+Port
+
+urbit
+
+foe
+It
+
+!
+F
+
+24
+
+/ .'"
+,-
+
+Cloud
+
+4
+
+0
+
+"""!_':
+
+10
+
+Perturbation
+
+<
+
+3
+
+"_i_'i/.' t
+..'.7.:'..7/
+
+OL_" ,
+
+.
+
+"". :
+-,
+
+'.::
+.......
+:'t ."- ........
+
+lO01m
+
+g
+
+OC_
+
+:#', ............
+.... .........
+
+2 :'_'."//
+
+2
+
+|
+
+•"_!
+',
+
+• "<" ".:::
+":i:
+..
+
+I
+
+t_ngth
+
+10
+
+7
+
+,
+
+!i
+
+1
+
+20
+
+:_:
+
+_N
+
+(a)
+
+_)
+
+r-m
+Figure
+
+4.
+
+The steady state d/mc_lonlc_
+
+w" and t_mpe, rat_© perturbation
+with an invcrs/on
+
+slzcamfunct/oo
+
+"F"for • cloud covering
+
+¥"
+301;
+
+w, rt/cal vcloc/ty
+of the domain
+
+basc.d at z = 0.Sz t having the value 10 "C/kin for
+
+Ra - R_
+
+= 13.7 (a) and 56.3 Co). On th© right of _ch
+
+b iud/¢ated
+
+by the ve.rt/¢al Line, w/th the Inversion
+
+datshod _
+rcpreasent negative
+the _me u in Fig. 1.
+
+.-.1.
+.--L
+
+",,,I
+
+vaJu_
+
+of _
+
+fields.
+
+figure,
+
+the cloud region
+
+base at cloud
+The contour
+
+top. The
+Intrxv_
+
+arc
+
