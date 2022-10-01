@@ -57,7 +57,7 @@ def process_data(path):
 def analyze_data(processed_data):
     pass
    # return summary, key_words
-
+#Proof of concept for Charts
 def chart_data():
     #Data should be in the format {"word1": 23, word2: 234, word3: 32, word4: 76, word5: 98, word6: 38, word7: 65, word8: 83, word9: 75, word10: 45, word11: 12, word12: 12}
     test_data = {'word1': 23, 'word2': 234, 'word3': 32, 'word4': 76, 'word5': 98, 'word6': 38, 'word7': 65, 'word8': 83, 'word9': 75, 'word10': 45, 'word11': 12, 'word12': 12}
