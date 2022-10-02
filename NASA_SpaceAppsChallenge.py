@@ -38,6 +38,8 @@ def get_data():
     #Get list of ids to pass to GET request
     id_list = [d['id'] for d in post_result]
 
+
+
     #Make directory for get reuests to download into if not exists
     
     if not os.path.exists(id_folder_path):
@@ -137,11 +139,11 @@ def image_process():
     for image in os.listdir(bar_path):
         if '.' not in image[0]:
             with PIL.Image.open(bar_path+'/'+image) as im:
-                im.resize((300,300)).convert("RGB").save(bar_path+'/'+ image.split(".")[0] + ".jpeg", 'JPEG')
+                im.resize((300,150)).convert("RGB").save(bar_path+'/'+ image.split(".")[0] + ".jpeg", 'JPEG')
     for image in os.listdir(wordcl_path):
         if '.' not in image[0]:
             with PIL.Image.open(wordcl_path+'/'+image) as im:
-                im.resize((300,300)).convert("RGB").save(wordcl_path+'/'+ image.split(".")[0] + ".jpeg", 'JPEG')
+                im.resize((300,150)).convert("RGB").save(wordcl_path+'/'+ image.split(".")[0] + ".jpeg", 'JPEG')
 
 
 #Create PDF report of file keywords and summaries
@@ -163,10 +165,12 @@ def generate_report(filename, title, summaries):
   
 
 
+
 if __name__ ==  "__main__":
     data = get_data()
     summary, word_data = process_data(data)
-    #chart_data(word_data)
+    chart_data(word_data)
     image_process()
     generate_report('report', 'Analyzed Report', summary)
     
+
