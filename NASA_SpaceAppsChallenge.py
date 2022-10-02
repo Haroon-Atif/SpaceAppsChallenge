@@ -24,14 +24,10 @@ def get_data():
     #Make POST request and store the result as a python dictionary
     param={"distribution": "PUBLIC",
            "center":[
-               "CDMS"],
-           "page":{
-               "size": 1,
-               "from": 0}
-           }
+               "CDMS"]}
     post_result = requests.post("https://ntrs.nasa.gov/api/citations/search", data=param).json()['results']
     
-
+    abstracts = [d['abstract'] for d in post_result]
     #Get list of ids to pass to GET request
     id_list = [d['id'] for d in post_result]
 
@@ -45,23 +41,20 @@ def get_data():
         if get_result.ok == True:
             with open('id_data/{}.txt'.format(id), 'wb') as f:
                 f.write(get_result.content)
-
+    return abstracts
 #Read the files from the folder and put the data into a format
 #that NLTK reads easily 
-def process_data(path):
+def process_data(items):
     nltk.download("stopwords")
     nltk.download("punkt")
-
-    items = os.listdir(path)
+    summary_list = []
+    word_list = []
     for item in items:
-        with open(path+'/'+item, 'r') as f:
-           article_text = f.read()
-        article_text = re.sub(r'\[0-9]*\ ', ' ', article_text)
+        article_text = re.sub(r'[[0-9]*]', ' ', item)
         article_text = re.sub(r'\s+', ' ', article_text)
 
-        formatted_article_text = re.sub(r'[^a-zA-Z]', ' ', article_text )
+        formatted_article_text = re.sub('[^a-zA-Z]', ' ', article_text )
         formatted_article_text = re.sub(r'\s+', ' ', formatted_article_text)
-        formatted_article_text = re.sub(r"\b[a-zA-Z]\b", "",article_text)
 
         sentence_list = nltk.sent_tokenize(article_text)
 
@@ -75,10 +68,30 @@ def process_data(path):
                 else:
                     word_frequencies[word] += 1
 
-  
-        mod_data = {'Word': word_frequencies.keys(), 'Count': word_frequencies.values()}
-        df = pd.DataFrame(data=mod_data)
-        print(df)
+       
+
+        maximum_frequncy = max(word_frequencies.values())
+
+        for word in word_frequencies.keys():
+            word_frequencies[word] = (word_frequencies[word]/maximum_frequncy)
+
+        sentence_scores = {}
+        for sent in sentence_list:
+            for word in nltk.word_tokenize(sent.lower()):
+                if word in word_frequencies.keys():
+                    if len(sent.split(' ')) < 30:
+                        if sent not in sentence_scores.keys():
+                            sentence_scores[sent] = word_frequencies[word]
+                        else:
+                            sentence_scores[sent] += word_frequencies[word]
+
+        summary_sentences = heapq.nlargest(7, sentence_scores, key=sentence_scores.get)
+
+        summary = ' '.join(summary_sentences)
+        summary_list.append(summary)
+        word_list.append(word_frequencies)
+
+    return summary_list, word_list
    # return processed_data
 
 
@@ -90,25 +103,28 @@ def analyze_data(processed_data):
     pass
    # return summary, key_words
 
-def chart_data():
+def chart_data(word_data):
     #Data should be in the format {"word1": 23, word2: 234, word3: 32, word4: 76, word5: 98, word6: 38, word7: 65, word8: 83, word9: 75, word10: 45, word11: 12, word12: 12}
-    test_data = {'word1': 23, 'word2': 234, 'word3': 32, 'word4': 76, 'word5': 98, 'word6': 38, 'word7': 65, 'word8': 83, 'word9': 75, 'word10': 45, 'word11': 12, 'word12': 12}
-
-    mod_data = {'Word': test_data.keys(), 'Count': test_data.values()}
-    df = pd.DataFrame(data=mod_data)
+    # test_data = {'word1': 23, 'word2': 234, 'word3': 32, 'word4': 76, 'word5': 98, 'word6': 38, 'word7': 65, 'word8': 83, 'word9': 75, 'word10': 45, 'word11': 12, 'word12': 12}
     
-    g1 = sns.catplot(y="Count", x='Word', kind="bar", data=df)
-    fig1 = g1.fig
-    fig1.savefig('barplot.png')
+    #mod_data = {'Word': test_data.keys(), 'Count': test_data.values()}
+    #df = pd.DataFrame(data=mod_data)
+    for i, v in enumerate(word_data):
+        mod_data = {'Word': v.keys(), 'Count': v.values()}
+        df = pd.DataFrame(data=mod_data)
+    
+        g1 = sns.catplot(y="Count", x='Word', kind="bar", data=df)
+        fig1 = g1.fig
+        fig1.savefig('barplot{}.png'.format(i))
 
 
-    wordcloud = WordCloud()
-    wordcloud.generate_from_frequencies(frequencies=test_data)
-    plt.figure()
-    plt.imshow(wordcloud, interpolation="bilinear")
-    plt.axis("off")
-    plt.savefig("wordcloud.png")
-    plt.show()
+        wordcloud = WordCloud()
+        wordcloud.generate_from_frequencies(frequencies=v)
+        plt.figure()
+        plt.imshow(wordcloud, interpolation="bilinear")
+        plt.axis("off")
+        plt.savefig("wordcloud{}.png".format(i))
+        plt.show()
 
 #Create PDF report of file keywords and summaries
 #and the titles of the docs analyzed 
@@ -127,6 +143,8 @@ def generate_report(filename, title, summaries, key_words):
 
 
 if __name__ ==  "__main__":
-    #get_data()
-    process_data(id_folder_path)
-    #chart_data()
+    data = get_data()
+    summary, word_data = process_data(data)
+    chart_data(word_data)
+
+    
